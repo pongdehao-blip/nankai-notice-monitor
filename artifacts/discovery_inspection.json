@@ -1,0 +1,2950 @@
+[
+  {
+    "url": "https://jwc.nankai.edu.cn/jgsz/list.htm",
+    "name": "机构设置",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jwbjj/list.htm",
+    "name": "教务部简介",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/xrld/list.htm",
+    "name": "现任领导",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/bmsz/list.htm",
+    "name": "部门设置",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/yxlxfs/list.htm",
+    "name": "院系联系方式",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/bkzs/list.htm",
+    "name": "本科招生",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:30.366993+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/kcyjc/list.htm",
+    "name": "课程与教材",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:31.100550+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/kcjs/list.htm",
+    "name": "课程建设",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:31.843800+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gjjjtjsylkcmd/list.htm",
+        "name": "国家级及天津市一流课程名单"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36058/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/zyjs_36051/list.htm",
+    "name": "专业建设",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:32.668486+00:00",
+    "item_count": 2,
+    "items": [
+      {
+        "title": "省级一流本科专业建设点",
+        "url": "https://jwc.nankai.edu.cn/2024/1031/c36060a554467/page.htm",
+        "publish_date": "2024-10-31"
+      },
+      {
+        "title": "国家级一流本科专业建设点",
+        "url": "https://jwc.nankai.edu.cn/2024/1031/c36060a554451/page.htm",
+        "publish_date": "2024-10-31"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gjjjtjsylzymd/list.htm",
+        "name": "国家级及天津市一流专业名单"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36061/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36062/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/tsxxk/list.htm",
+    "name": "通识选修课",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:33.420426+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36063/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36064/list.htm",
+        "name": "工作动态"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/cybg_36065/list.htm",
+        "name": "常用表格"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/tmyjs/list.htm",
+    "name": "推免研究生",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:34.229669+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36066/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36067/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/bylwwsjw/list.htm",
+    "name": "毕业论文(设计)",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:34.982456+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36068/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36069/list.htm",
+        "name": "工作动态"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/cybg_36070/list.htm",
+        "name": "常用表格"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/xkjs/list.htm",
+    "name": "学科竞赛",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:35.741445+00:00",
+    "item_count": 6,
+    "items": [
+      {
+        "title": "关于举办2026年南开大学生命科学基本实验技能竞赛的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0904/c35414a601833/page.htm",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "关于第八届中华经典诵写讲大赛报名参赛工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0609/c35414a597967/page.htm",
+        "publish_date": "2026-06-09"
+      },
+      {
+        "title": "2025年天津市大学生生命科学竞赛生命科学基本实验技能竞赛部分获奖候选名单公示",
+        "url": "https://jwc.nankai.edu.cn/2025/1028/c35414a582385/page.htm",
+        "publish_date": "2025-10-28"
+      },
+      {
+        "title": "2025年天津市普通高校大学数学竞赛南开大学选拔报名通知",
+        "url": "https://jwc.nankai.edu.cn/2025/0228/c35414a563227/page.htm",
+        "publish_date": "2025-02-28"
+      },
+      {
+        "title": "关于开展2025年天津市大学生学科竞赛项目申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2025/0216/c35414a562309/page.htm",
+        "publish_date": "2025-02-16"
+      },
+      {
+        "title": "2024年“启诚杯”第十三届天津市大学生人工智能电脑鼠竞赛获奖名单公示",
+        "url": "https://jwc.nankai.edu.cn/2024/1213/c35414a559060/page.htm",
+        "publish_date": "2024-12-13"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_35504/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36071/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/cxcy/list.htm",
+    "name": "创新创业",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:36.522114+00:00",
+    "item_count": 5,
+    "items": [
+      {
+        "title": "南开大学本科生创新实践管理平台操作说明",
+        "url": "https://jwc.nankai.edu.cn/2025/0306/c36072a563613/page.htm",
+        "publish_date": "2025-03-06"
+      },
+      {
+        "title": "国家级大学生创新创业训练计划管理办法",
+        "url": "https://jwc.nankai.edu.cn/2019/0719/c36072a543608/page.htm",
+        "publish_date": "2019-07-19"
+      },
+      {
+        "title": "南开大学本科生创新科研计划管理办法",
+        "url": "https://jwc.nankai.edu.cn/2019/0409/c36072a543612/page.htm",
+        "publish_date": "2019-04-09"
+      },
+      {
+        "title": "南开大学本科生“创新研究与训练”课程管理暂行规定",
+        "url": "https://jwc.nankai.edu.cn/2019/0327/c36072a543613/page.htm",
+        "publish_date": "2019-03-27"
+      },
+      {
+        "title": "南开大学大学生创新创业教育改革实施方案",
+        "url": "https://jwc.nankai.edu.cn/2019/0327/c36072a543614/page.htm",
+        "publish_date": "2019-03-27"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36072/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36073/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/sxsj/list.htm",
+    "name": "实习实践",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:37.258805+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36074/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36075/list.htm",
+        "name": "工作动态"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/cybg_36076/list.htm",
+        "name": "常用表格"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/yywz/list.htm",
+    "name": "语言文字",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:38.001052+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36077/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36078/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jcjsygl/list.htm",
+    "name": "教材建设与管理",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:38.742483+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36082/list.htm",
+        "name": "工作制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xgbg/list.htm",
+        "name": "相关表格"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36084/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/kcszjs/list.htm",
+    "name": "课程思政建设",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:39.495514+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "学校召开课程思政领导小组会议",
+        "url": "https://jwc.nankai.edu.cn/2025/1219/c36087a587265/page.htm",
+        "publish_date": "2025-12-19"
+      },
+      {
+        "title": "南开大学课程思政教学研究中心召开工作会议",
+        "url": "https://jwc.nankai.edu.cn/2025/0107/c36087a561471/page.htm",
+        "publish_date": "2025-01-07"
+      },
+      {
+        "title": "关于开展第二批天津市级课程思政优秀案例（本科）推荐工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2024/0712/c36087a554567/page.htm",
+        "publish_date": "2024-07-12"
+      },
+      {
+        "title": "关于开展南开大学一流专业课程思政案例库建设试点项目结题验收与评优工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2024/0627/c36087a554568/page.htm",
+        "publish_date": "2024-06-27"
+      },
+      {
+        "title": "关于公布南开大学2023年“课程思政”优秀典型入选名单的通知",
+        "url": "https://jwc.nankai.edu.cn/2024/0207/c36087a554569/page.htm",
+        "publish_date": "2024-02-07"
+      },
+      {
+        "title": "我校举办首批一流专业课程思政案例库项目建设情况交流会",
+        "url": "https://jwc.nankai.edu.cn/2024/0104/c36087a554571/page.htm",
+        "publish_date": "2024-01-04"
+      },
+      {
+        "title": "关于召开2023年“课程思政”优秀典型评选活动现场答辩会的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1219/c36087a554572/page.htm",
+        "publish_date": "2023-12-19"
+      },
+      {
+        "title": "关于开展南开大学2023年“课程思政”优秀典型评选活动的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1120/c36087a554573/page.htm",
+        "publish_date": "2023-11-20"
+      },
+      {
+        "title": "关于组织我校教师参加课程思政教学能力提升专题网络培训工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1018/c36087a554574/page.htm",
+        "publish_date": "2023-10-18"
+      },
+      {
+        "title": "关于开展天津市高校课程思政示范课程和天津市级课程思政优秀案例推荐工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1011/c36087a554575/page.htm",
+        "publish_date": "2023-10-11"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36085/list.htm",
+        "name": "工作制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xgbg_36086/list.htm",
+        "name": "相关表格"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36087/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/sjys/list.htm",
+    "name": "试卷印刷",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:40.275359+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_36088/list.htm",
+        "name": "工作制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xgbg_36089/list.htm",
+        "name": "相关表格"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzdt_36090/list.htm",
+        "name": "工作动态"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/cybgxz/list.htm",
+    "name": "常用表格下载",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/kcddypj/list.htm",
+    "name": "课堂评价",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:41.038659+00:00",
+    "item_count": 7,
+    "items": [
+      {
+        "title": "关于开展2024-2025学年第二学期本科课堂教学质量评价的通知",
+        "url": "https://jwc.nankai.edu.cn/2025/0306/c35423a563578/page.htm",
+        "publish_date": "2025-03-06"
+      },
+      {
+        "title": "关于启动南开大学2024-2025学年第一学期本科教学督导工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2024/0904/c35423a549848/page.htm",
+        "publish_date": "2024-11-06"
+      },
+      {
+        "title": "关于开展2024-2025学年第一学期本科课堂教学质量评价的通知",
+        "url": "https://jwc.nankai.edu.cn/2024/0904/c35423a549886/page.htm",
+        "publish_date": "2024-09-04"
+      },
+      {
+        "title": "【文件】南开大学本科课堂教学质量评价办法（试行）",
+        "url": "https://jwc.nankai.edu.cn/2024/0801/c35423a548389/page.htm",
+        "publish_date": "2024-08-01"
+      },
+      {
+        "title": "关于开展2023-2024学年第一学期本科课堂教学质量评价的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1018/c35423a548380/page.htm",
+        "publish_date": "2023-10-18"
+      },
+      {
+        "title": "关于开展2022-2023学年第二学期本科课堂教学质量评价的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/0410/c35423a548382/page.htm",
+        "publish_date": "2023-04-10"
+      },
+      {
+        "title": "关于开展2021-2022学年第二学期本科课堂教学质量评价的通知",
+        "url": "https://jwc.nankai.edu.cn/2022/0311/c35423a548385/page.htm",
+        "publish_date": "2022-03-11"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jxcg/list.htm",
+    "name": "教学成果",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jxcgj/list.htm",
+    "name": "教学成果奖",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jxmshtd/list.htm",
+    "name": "教学名师和团队",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/ylkc/list.htm",
+    "name": "一流课程",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/kcsz/list.htm",
+    "name": "课程思政",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:41.786526+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "课程思政在南开",
+        "url": "https://jwc.nankai.edu.cn/2021/0329/c35525a543868/page.htm",
+        "publish_date": "2020-09-14"
+      },
+      {
+        "title": "光学",
+        "url": "https://jwc.nankai.edu.cn/2021/1025/c35525a543869/page.htm",
+        "publish_date": "2021-10-25"
+      },
+      {
+        "title": "数码编辑",
+        "url": "https://jwc.nankai.edu.cn/2021/1025/c35525a543870/page.htm",
+        "publish_date": "2021-10-25"
+      },
+      {
+        "title": "中国政府与政治",
+        "url": "https://jwc.nankai.edu.cn/2021/0406/c35525a543871/page.htm",
+        "publish_date": "2021-04-06"
+      },
+      {
+        "title": "南开大学课程思政建设实施方案",
+        "url": "https://jwc.nankai.edu.cn/2021/0403/c35525a543872/page.htm",
+        "publish_date": "2021-04-03"
+      },
+      {
+        "title": "医学微生物学",
+        "url": "https://jwc.nankai.edu.cn/2021/0401/c35525a543873/page.htm",
+        "publish_date": "2021-04-01"
+      },
+      {
+        "title": "超越文化-中西文化概览",
+        "url": "https://jwc.nankai.edu.cn/2021/0401/c35525a543874/page.htm",
+        "publish_date": "2021-04-01"
+      },
+      {
+        "title": "中华传统艺术",
+        "url": "https://jwc.nankai.edu.cn/2021/0401/c35525a543875/page.htm",
+        "publish_date": "2021-04-01"
+      },
+      {
+        "title": "政治学原理",
+        "url": "https://jwc.nankai.edu.cn/2021/0401/c35525a543876/page.htm",
+        "publish_date": "2021-04-01"
+      },
+      {
+        "title": "病毒学与抗病毒药物开发",
+        "url": "https://jwc.nankai.edu.cn/2021/0401/c35525a543877/page.htm",
+        "publish_date": "2021-04-01"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/tzgg_35523/list.htm",
+        "name": "通知公告"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/gzzd_35524/list.htm",
+        "name": "规章制度"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/kcszznk/list.htm",
+        "name": "课程思政在南开"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jxggxm/list.htm",
+    "name": "教学改革项目",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/bjrc/list.htm",
+    "name": "伯苓学院",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:42.549972+00:00",
+    "item_count": 4,
+    "items": [
+      {
+        "title": "南开大学伯苓学院班导师工作细则",
+        "url": "https://jwc.nankai.edu.cn/2026/0812/c35430a601178/page.htm",
+        "publish_date": "2026-08-12"
+      },
+      {
+        "title": "关于选聘南开大学伯苓学院2026级班导师的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0812/c35430a601177/page.htm",
+        "publish_date": "2026-08-12"
+      },
+      {
+        "title": "工科试验班（未来产业精英）项目介绍",
+        "url": "https://jwc.nankai.edu.cn/2026/0706/c35430a599855/page.htm",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "title": "伯苓学院项目介绍",
+        "url": "https://jwc.nankai.edu.cn/2026/0706/c35430a599854/page.htm",
+        "publish_date": "2026-07-06"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://jwc.nankai.edu.cn/xkgl/list.htm",
+        "name": "教学运行"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/fx/list.htm",
+        "name": "辅修"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/sljks/list.htm",
+        "name": "四六级考试"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zzy/list.htm",
+        "name": "转专业"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zjgl_35937/list.htm",
+        "name": "助教管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/xjjbygl/list.htm",
+        "name": "学籍及毕业管理"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/ddpj/list.htm",
+        "name": "督导评价"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zyrz/list.htm",
+        "name": "教学督导"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/zhsy/list.htm",
+        "name": "智慧书院"
+      },
+      {
+        "url": "https://jwc.nankai.edu.cn/blb/list.htm",
+        "name": "拔尖人才"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/zxsyw/list.htm",
+    "name": "办事流程",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/bysyw/list.htm",
+    "name": "毕业生业务",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jsyw/list.htm",
+    "name": "教师业务",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/xzwj/list.htm",
+    "name": "学则文件",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/jxxl/list.htm",
+    "name": "教学校历",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/cybg/list.htm",
+    "name": "常用表格",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/xwdt/list.htm",
+    "name": "查看更多",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/gzzd/list.htm",
+    "name": "查看更多",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/bzyx/list.htm",
+    "name": "部长邮箱",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://jwc.nankai.edu.cn/xzzx/list.htm",
+    "name": "下载中心",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/index.chtml",
+    "name": "首页",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/kszz/index.chtml",
+    "name": "部门概况",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/bmjj/index.chtml",
+    "name": "部门简介",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/ggtz/index.chtml",
+    "name": "工作动态",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/guojflfg/index.chtml",
+    "name": "法规制度",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/difzcfg/index.chtml",
+    "name": "本市",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/xuexgzzd/index.chtml",
+    "name": "学校",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/bszn/index.chtml",
+    "name": "办事指南",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/dtype/index.chtml",
+    "name": "常用下载",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://nkzbb.nankai.edu.cn/pgt/index.chtml",
+    "name": "MORE >",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:43.306386+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://nkzbb.nankai.edu.cn/cghw/index.chtml",
+        "name": "采购公告"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/cggc/index.chtml",
+        "name": "工程类"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/cgfw/index.chtml",
+        "name": "服务类"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/index.chtml",
+        "name": "其他类"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/jghw/index.chtml",
+        "name": "结果公告"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/jggc/index.chtml",
+        "name": "工程类"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/jgfw/index.chtml",
+        "name": "服务类"
+      },
+      {
+        "url": "https://nkzbb.nankai.edu.cn/jgqt/index.chtml",
+        "name": "其他类"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25068/list.htm",
+    "name": "常用下载",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25069/list.htm",
+    "name": "教室预约",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25071/list.htm",
+    "name": "院长信箱",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/514/list.htm",
+    "name": "学院概况",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/515/list.htm",
+    "name": "学院简介",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/lsyg/list.htm",
+    "name": "历史沿革",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/yxld/list.htm",
+    "name": "院系领导",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/lryz/list.htm",
+    "name": "历任院长",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/521/list.htm",
+    "name": "组织机构",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/527/list.htm",
+    "name": "师资力量",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25057/list.htm",
+    "name": "人才计划",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/3193/list.htm",
+    "name": "全体教职工",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/535/list.htm",
+    "name": "教育教学",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:44.096056+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "物理科学学院2021-2022-1学期 期末考试安排",
+        "url": "https://physics.nankai.edu.cn/2021/1126/c536a424089/page.htm",
+        "publish_date": "2021-11-26"
+      },
+      {
+        "title": "双辅修物理学专业学生 管理",
+        "url": "https://physics.nankai.edu.cn/2021/1029/c536a424090/page.htm",
+        "publish_date": "2021-10-29"
+      },
+      {
+        "title": "物理科学学院2021年推免工作学生提交材料通知",
+        "url": "https://physics.nankai.edu.cn/2021/0913/c536a424091/page.htm",
+        "publish_date": "2021-09-13"
+      },
+      {
+        "title": "2021物理（伯苓班）录取结果公示",
+        "url": "https://physics.nankai.edu.cn/2021/0910/c536a424092/page.htm",
+        "publish_date": "2021-09-10"
+      },
+      {
+        "title": "2021级物理（伯苓班）考核面试通知",
+        "url": "https://physics.nankai.edu.cn/2021/0908/c536a424093/page.htm",
+        "publish_date": "2021-09-08"
+      },
+      {
+        "title": "2021级物理（伯苓班）二次选拔笔试安排",
+        "url": "https://physics.nankai.edu.cn/2021/0905/c536a424094/page.htm",
+        "publish_date": "2021-09-05"
+      },
+      {
+        "title": "物理科学学院2021年推荐免试研究生工作细则",
+        "url": "https://physics.nankai.edu.cn/2021/0903/c536a424095/page.htm",
+        "publish_date": "2021-09-03"
+      },
+      {
+        "title": "物理科学学院物理伯苓班介绍 （2021年）",
+        "url": "https://physics.nankai.edu.cn/2021/0825/c536a424096/page.htm",
+        "publish_date": "2021-08-25"
+      },
+      {
+        "title": "物理科学学院2021年接收转专业考核录取名单公示",
+        "url": "https://physics.nankai.edu.cn/2021/0814/c536a424097/page.htm",
+        "publish_date": "2021-08-14"
+      },
+      {
+        "title": "物理科学学院2021年接收转专业考试--面试通知",
+        "url": "https://physics.nankai.edu.cn/2021/0810/c536a424098/page.htm",
+        "publish_date": "2021-08-10"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/537/list.htm",
+        "name": "▲通知公告"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/538/list.htm",
+        "name": "▲本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/540/list.htm",
+        "name": "▲本科培养"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/545/list.htm",
+        "name": "▲物理伯苓班"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/542/list.htm",
+        "name": "▲文件下载"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/536/list.htm",
+    "name": "本科生教育",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:44.858809+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "物理科学学院2021-2022-1学期 期末考试安排",
+        "url": "https://physics.nankai.edu.cn/2021/1126/c536a424089/page.htm",
+        "publish_date": "2021-11-26"
+      },
+      {
+        "title": "双辅修物理学专业学生 管理",
+        "url": "https://physics.nankai.edu.cn/2021/1029/c536a424090/page.htm",
+        "publish_date": "2021-10-29"
+      },
+      {
+        "title": "物理科学学院2021年推免工作学生提交材料通知",
+        "url": "https://physics.nankai.edu.cn/2021/0913/c536a424091/page.htm",
+        "publish_date": "2021-09-13"
+      },
+      {
+        "title": "2021物理（伯苓班）录取结果公示",
+        "url": "https://physics.nankai.edu.cn/2021/0910/c536a424092/page.htm",
+        "publish_date": "2021-09-10"
+      },
+      {
+        "title": "2021级物理（伯苓班）考核面试通知",
+        "url": "https://physics.nankai.edu.cn/2021/0908/c536a424093/page.htm",
+        "publish_date": "2021-09-08"
+      },
+      {
+        "title": "2021级物理（伯苓班）二次选拔笔试安排",
+        "url": "https://physics.nankai.edu.cn/2021/0905/c536a424094/page.htm",
+        "publish_date": "2021-09-05"
+      },
+      {
+        "title": "物理科学学院2021年推荐免试研究生工作细则",
+        "url": "https://physics.nankai.edu.cn/2021/0903/c536a424095/page.htm",
+        "publish_date": "2021-09-03"
+      },
+      {
+        "title": "物理科学学院物理伯苓班介绍 （2021年）",
+        "url": "https://physics.nankai.edu.cn/2021/0825/c536a424096/page.htm",
+        "publish_date": "2021-08-25"
+      },
+      {
+        "title": "物理科学学院2021年接收转专业考核录取名单公示",
+        "url": "https://physics.nankai.edu.cn/2021/0814/c536a424097/page.htm",
+        "publish_date": "2021-08-14"
+      },
+      {
+        "title": "物理科学学院2021年接收转专业考试--面试通知",
+        "url": "https://physics.nankai.edu.cn/2021/0810/c536a424098/page.htm",
+        "publish_date": "2021-08-10"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/537/list.htm",
+        "name": "▲通知公告"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/538/list.htm",
+        "name": "▲本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/540/list.htm",
+        "name": "▲本科培养"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/545/list.htm",
+        "name": "▲物理伯苓班"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/542/list.htm",
+        "name": "▲文件下载"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/547/list.htm",
+    "name": "研究生教育",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:45.612365+00:00",
+    "item_count": 7,
+    "items": [
+      {
+        "title": "研究生导师风采展示",
+        "url": "https://physics.nankai.edu.cn/3193/list.htm",
+        "publish_date": "2022-05-06"
+      },
+      {
+        "title": "【毕业答辩】2024年春季学期物理科学学院博士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2024/0510/c547a542014/page.htm",
+        "publish_date": "2024-05-10"
+      },
+      {
+        "title": "【毕业答辩】2024年春季学期物理科学学院硕士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2024/0510/c547a542013/page.htm",
+        "publish_date": "2024-05-10"
+      },
+      {
+        "title": "【毕业】2023-2024学年第二学期硕士研究生论文评审及答辩工作通知",
+        "url": "https://physics.nankai.edu.cn/2024/0308/c547a537502/page.htm",
+        "publish_date": "2024-03-08"
+      },
+      {
+        "title": "【毕业】2023-2024学年第二学期博士研究生论文评审及答辩工作通知",
+        "url": "https://physics.nankai.edu.cn/2024/0308/c547a537501/page.htm",
+        "publish_date": "2024-03-08"
+      },
+      {
+        "title": "【毕业答辩】2023年物理科学学院博士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2023/0515/c547a512172/page.htm",
+        "publish_date": "2023-05-15"
+      },
+      {
+        "title": "【毕业答辩】2023年物理科学学院硕士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2023/0510/c547a511739/page.htm",
+        "publish_date": "2023-05-10"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/548/list.htm",
+        "name": "▲研究生招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/549/list.htm",
+        "name": "▲研究生培养"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/551/list.htm",
+        "name": "▲研究生毕业"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25038/list.htm",
+    "name": "教学资源",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/xsryq/list.htm",
+    "name": "学生荣誉墙",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/blzhsy_29154/list.htm",
+    "name": "伯苓智慧书院",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:46.346835+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/syfc/list.htm",
+        "name": "▲书院风采"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/whhd/list.htm",
+        "name": "▲文化活动"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/dsfc/list.htm",
+        "name": "▲导师风采"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/530/list.htm",
+    "name": "科学研究",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/532/list.htm",
+    "name": "成果获奖",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/533/list.htm",
+    "name": "学术活动",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:47.117493+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "第20届光折变光子学及前沿国际会议举行",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/08/24/030074011.shtml",
+        "publish_date": "2026-08-25"
+      },
+      {
+        "title": "第二届同核异能态暨核激发研讨会",
+        "url": "https://physics.nankai.edu.cn/2026/0625/c533a598963/page.htm",
+        "publish_date": "2026-06-25"
+      },
+      {
+        "title": "中—哈物理学术交流活动举办",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/04/03/030071299.shtml",
+        "publish_date": "2026-04-03"
+      },
+      {
+        "title": "弱光非线性光子学教育部重点实验室召开学术委员会会议暨春季学术交流会",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/03/26/030071186.shtml",
+        "publish_date": "2026-03-27"
+      },
+      {
+        "title": "2025年南开物理学术年会成功举办",
+        "url": "https://physics.nankai.edu.cn/2026/0125/c533a589517/page.htm",
+        "publish_date": "2026-01-25"
+      },
+      {
+        "title": "【“开悟” 物理前沿讲座 （第160期）】Exotic Deformation and Deformed Halo",
+        "url": "https://physics.nankai.edu.cn/2025/1020/c533a581665/page.htm",
+        "publish_date": "2025-10-20"
+      },
+      {
+        "title": "【“开悟” 物理前沿讲座 （第159期）】Flavor-Changing Interactions in BSM Scenarios — A Study of Scalar, Goldstone, and Z′ Mediators",
+        "url": "https://physics.nankai.edu.cn/2025/1014/c533a581181/page.htm",
+        "publish_date": "2025-10-14"
+      },
+      {
+        "title": "【“开悟” 物理前沿讲座 （第158期）】光量子芯片—从单元器件到大规模集成",
+        "url": "https://physics.nankai.edu.cn/2025/1010/c533a580857/page.htm",
+        "publish_date": "2025-10-10"
+      },
+      {
+        "title": "2025拓扑光子学国际研讨会在津召开",
+        "url": "https://news.nankai.edu.cn/ywsd/system/2025/09/23/030068865.shtml",
+        "publish_date": "2025-09-24"
+      },
+      {
+        "title": "【饶毓泰大讲堂】理解宇宙",
+        "url": "https://physics.nankai.edu.cn/2025/0923/c533a578316/page.htm",
+        "publish_date": "2025-09-23"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/jlfw/list.htm",
+    "name": "交流访问",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:47.864623+00:00",
+    "item_count": 3,
+    "items": [
+      {
+        "title": "佛山市南海区教育发展研究中心一行来我院访问交流",
+        "url": "https://physics.nankai.edu.cn/2025/0616/c25822a573317/page.htm",
+        "publish_date": "2025-06-16"
+      },
+      {
+        "title": "中科院半导体所来南开物理科学学院访问交流",
+        "url": "https://news.nankai.edu.cn/dcxy/system/2025/04/13/030066459.shtml",
+        "publish_date": "2025-04-14"
+      },
+      {
+        "title": "格拉斯哥大学副校长来南开访问交流",
+        "url": "https://news.nankai.edu.cn/ywsd/system/2025/04/11/030066444.shtml",
+        "publish_date": "2025-04-11"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/577/list.htm",
+    "name": "党建园地",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/578/list.htm",
+    "name": "党建动态",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/yzyh/list.htm",
+    "name": "应知应会",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/ghgz/list.htm",
+    "name": "教代会工会",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25025/list.htm",
+    "name": "学生工作",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/xgdt/list.htm",
+    "name": "学工动态",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:48.662943+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "倾听学子心声 提质赋能成长——物理科学学院召开2026届毕业生座谈会",
+        "url": "https://physics.nankai.edu.cn/2026/0611/c25825a598097/page.htm",
+        "publish_date": "2026-06-16"
+      },
+      {
+        "title": "物理科学学院举行纪念周恩来总理逝世50周年主题党日活动",
+        "url": "https://physics.nankai.edu.cn/2026/0108/c25825a588739/page.htm",
+        "publish_date": "2026-01-08"
+      },
+      {
+        "title": "追思周邓风范勇担青春使命——物理科学学院硕士第二党支部开展跨校共建主题党日活动",
+        "url": "https://physics.nankai.edu.cn/2025/1230/c25825a587927/page.htm",
+        "publish_date": "2025-12-30"
+      },
+      {
+        "title": "物理科学学院“导师有约”聚焦新生学业与生活",
+        "url": "https://physics.nankai.edu.cn/2025/1230/c25825a587924/page.htm",
+        "publish_date": "2025-12-30"
+      },
+      {
+        "title": "科普润乡，红韵振兴 ——南开大学湖南省株洲市攸县酒埠江镇中国式现代化乡村工作站案例",
+        "url": "https://physics.nankai.edu.cn/2025/1209/c25825a586333/page.htm",
+        "publish_date": "2025-12-09"
+      },
+      {
+        "title": "第十一届全国大学生物理实验竞赛（创新）决赛南开获佳绩",
+        "url": "https://news.nankai.edu.cn/ywsd/system/2025/12/03/030069975.shtml",
+        "publish_date": "2025-12-04"
+      },
+      {
+        "title": "物理科学学院举办“拼心筑悦”主题心理团辅活动",
+        "url": "https://physics.nankai.edu.cn/2025/1201/c25825a585682/page.htm",
+        "publish_date": "2025-12-03"
+      },
+      {
+        "title": "我院与中科院长春光机所开展学术交流",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2025/05/16/030067030.shtml",
+        "publish_date": "2025-11-17"
+      },
+      {
+        "title": "物理科学学院联合中科院物理所举办学术交流活动",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2025/11/14/030069645.shtml",
+        "publish_date": "2025-11-17"
+      },
+      {
+        "title": "物理科学学院1981级校友回访母校",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2025/11/16/030069654.shtml",
+        "publish_date": "2025-11-17"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/jyxx/list.htm",
+    "name": "就业信息",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:49.416830+00:00",
+    "item_count": 6,
+    "items": [
+      {
+        "title": "物理科学学院师生交流聚焦学生国内升学",
+        "url": "https://physics.nankai.edu.cn/2021/0425/c25826a354472/page.htm",
+        "publish_date": "2021-04-25"
+      },
+      {
+        "title": "物理科学学院举办朋辈出国留学经验分享会",
+        "url": "https://physics.nankai.edu.cn/2021/0406/c25826a349488/page.htm",
+        "publish_date": "2021-04-06"
+      },
+      {
+        "title": "物理科学学院春季求职训练营第三讲聚焦教师编制",
+        "url": "https://physics.nankai.edu.cn/2021/0322/c25826a345838/page.htm",
+        "publish_date": "2021-03-22"
+      },
+      {
+        "title": "物理科学学院春季求职训练营第二讲聚焦简历制作能力提升",
+        "url": "https://physics.nankai.edu.cn/2021/0319/c25826a345404/page.htm",
+        "publish_date": "2021-03-19"
+      },
+      {
+        "title": "物理科学学院举办朋辈保研推免经验分享会",
+        "url": "https://physics.nankai.edu.cn/2021/0317/c25826a344726/page.htm",
+        "publish_date": "2021-03-18"
+      },
+      {
+        "title": "物理科学学院举办就业中期推动会",
+        "url": "https://physics.nankai.edu.cn/2021/0315/c25826a344154/page.htm",
+        "publish_date": "2021-03-15"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/txgz/list.htm",
+    "name": "团学工作",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:50.179255+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "物理科学学院举行纪念周恩来总理逝世50周年主题党日活动",
+        "url": "https://physics.nankai.edu.cn/2026/0108/c25827a588739/page.htm",
+        "publish_date": "2026-01-08"
+      },
+      {
+        "title": "物理科学学院召开2025年度团学组织述职大会",
+        "url": "https://physics.nankai.edu.cn/2025/1222/c25827a587479/page.htm",
+        "publish_date": "2025-12-22"
+      },
+      {
+        "title": "物理科学学院举办“拼心筑悦”主题心理团辅活动",
+        "url": "https://physics.nankai.edu.cn/2025/1201/c25827a585682/page.htm",
+        "publish_date": "2025-12-03"
+      },
+      {
+        "title": "物理科学学院与历史学院联合举办学科融合主题团日活动",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2025/04/29/030066801.shtml",
+        "publish_date": "2025-05-06"
+      },
+      {
+        "title": "五四青年节：南开大学物理科学学院优秀青年和集体获表彰",
+        "url": "https://news.nankai.edu.cn/ywsd/system/2025/05/04/030066838.shtml",
+        "publish_date": "2025-05-06"
+      },
+      {
+        "title": "物理科学学院深入第六埠村开展“循领袖足迹悟初心使命，践红色基因筑时代担当”主题党日活动",
+        "url": "https://physics.nankai.edu.cn/2025/0424/c25827a568509/page.htm",
+        "publish_date": "2025-04-24"
+      },
+      {
+        "title": "物理科学学院进社区开展“物理探索”答疑志愿服务",
+        "url": "https://physics.nankai.edu.cn/2025/0424/c25827a568508/page.htm",
+        "publish_date": "2025-04-24"
+      },
+      {
+        "title": "悟理心声 |  “拼色拾光”马赛克杯垫DIY活动圆满举行",
+        "url": "https://physics.nankai.edu.cn/2025/0402/c25827a565973/page.htm",
+        "publish_date": "2025-04-02"
+      },
+      {
+        "title": " 悟理心声|物理科学学院举办“花悦心灵”主题心理团辅活动",
+        "url": "https://physics.nankai.edu.cn/2025/0327/c25827a565214/page.htm",
+        "publish_date": "2025-03-27"
+      },
+      {
+        "title": "开学季活动：物院学子寻迹百年老街，品味天津文韵",
+        "url": "https://physics.nankai.edu.cn/2025/0306/c25827a563618/page.htm",
+        "publish_date": "2025-03-06"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25026/list.htm",
+    "name": "招生信息",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:50.919195+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://yzb.nankai.edu.cn/xsbd/list.htm",
+        "name": "http://yzb.nankai.edu.cn/xsbd/list.htm"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/566/list.htm",
+    "name": "校友之家",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/569/list.htm",
+    "name": "校友信息",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/568/list.htm",
+    "name": "校友活动",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/xyjz/list.htm",
+    "name": "校友捐赠",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25027/list.htm",
+    "name": "办公服务",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/bgzn/list.htm",
+    "name": "办公指南",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/dxyq/list.htm",
+    "name": "大型仪器",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/sysaq/list.htm",
+    "name": "实验室安全",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:51.705159+00:00",
+    "item_count": 6,
+    "items": [
+      {
+        "title": "05教育部《高等学校实验室安全分级分类管理办法（试行）》",
+        "url": "https://physics.nankai.edu.cn/2025/0530/c25844a572188/page.htm",
+        "publish_date": "2025-05-30"
+      },
+      {
+        "title": "04南开大学实验室安全管理奖励办法",
+        "url": "https://physics.nankai.edu.cn/2025/0530/c25844a572187/page.htm",
+        "publish_date": "2025-05-30"
+      },
+      {
+        "title": "03南开大学危险化学品技术安全管理办法",
+        "url": "https://physics.nankai.edu.cn/2025/0530/c25844a572186/page.htm",
+        "publish_date": "2025-05-30"
+      },
+      {
+        "title": "02南开大学实验室安全检查补充细则",
+        "url": "https://physics.nankai.edu.cn/2025/0530/c25844a572185/page.htm",
+        "publish_date": "2025-05-30"
+      },
+      {
+        "title": "01南开大学实验室技术安全检查办法（试行）",
+        "url": "https://physics.nankai.edu.cn/2025/0530/c25844a572184/page.htm",
+        "publish_date": "2025-05-30"
+      },
+      {
+        "title": "物理科学学院实验室安全管理制度汇编",
+        "url": "https://physics.nankai.edu.cn/2025/0530/c25844a572165/page.htm",
+        "publish_date": "2025-05-30"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/glgd_25844/list.htm",
+        "name": "▲管理规定"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bslc_25845/list.htm",
+        "name": "▲办事流程"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/wdxz_25846/list.htm",
+        "name": "▲文档下载"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/sbjj/list.htm",
+    "name": "设备家具",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/cwgl/list.htm",
+    "name": "财务管理",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/bksjx/list.htm",
+    "name": "本科生教学",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:52.531192+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/glgd_25853/list.htm",
+        "name": "▲管理规定"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bslc_25854/list.htm",
+        "name": "▲办事流程"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/wdxz_25855/list.htm",
+        "name": "▲文档下载"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/yjsjx/list.htm",
+    "name": "研究生教学",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:53.285752+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/glgd_25856/list.htm",
+        "name": "▲管理规定"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bslc_25857/list.htm",
+        "name": "▲办事流程"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/wdxz_25858/list.htm",
+        "name": "▲文档下载"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/kywws/list.htm",
+    "name": "科研、外事",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:54.095601+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/glgd_25859/list.htm",
+        "name": "▲管理规定"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bslc_25860/list.htm",
+        "name": "▲办事流程"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/wdxz_25861/list.htm",
+        "name": "▲文档下载"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/rsgl/list.htm",
+    "name": "人事管理",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25028/list.htm",
+    "name": "诚聘英才",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/jxkyg/list.htm",
+    "name": "教学科研岗",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:54.874851+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/qtry/list.htm",
+    "name": "其他人员",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:55.642745+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/571/list.htm",
+    "name": "更多>>",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/_t811/25044/list.htm",
+    "name": "更多>>",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/PR26/list.htm",
+    "name": "",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:56.406705+00:00",
+    "item_count": 0,
+    "items": [],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38058/list.htm",
+        "name": "HOME"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38165/list.htm",
+        "name": "VENUE AND TRAVEL"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38059/list.htm",
+        "name": "MEETING NOTICE"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38060/list.htm",
+        "name": "INVITED TALKS AND PROGRAM"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38166/list.htm",
+        "name": "IMPORTANT DATES"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38167/list.htm",
+        "name": "ABSTRACT/PAPER SUBMISSION"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38168/list.htm",
+        "name": "INSTRUCTIONS FOR CONTRIBUTORS"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38061/list.htm",
+        "name": "EARLIER PR MEETINGS"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38062/list.htm",
+        "name": "COMMITTEES"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38063/list.htm",
+        "name": "CONFERENCE PHOTOS"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/38169/list.htm",
+        "name": "CONFERENCE INSCRIPTION AND FEES"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/kcszal/list.htm",
+    "name": "",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/xxgcesd/list.htm",
+    "name": "",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/sdsf/list.htm",
+    "name": "",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25044/list.htm",
+    "name": "",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/wzhxw/list.htm",
+    "name": "",
+    "decision": "excluded_or_static_navigation",
+    "reason": "Outside frozen notice-stream scope: navigation, ordinary news, archives, downloads, static service pages; not enabled"
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/575/list.htm",
+    "name": "更多>>",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:57.157888+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "南开团队研制片上太赫兹超构传感平台 实现多组分生物分子定量识别",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/08/21/030073993.shtml",
+        "publish_date": "2026-08-22"
+      },
+      {
+        "title": "APN亮点研究：突破传统超表面限制，虚拟超表面实现可编程红外上转换成像",
+        "url": "https://mp.weixin.qq.com/s/TJcxGKkglPK9WD0TyXIaZQ",
+        "publish_date": "2026-07-24"
+      },
+      {
+        "title": "【奖励申报公示】参与申报山东省技术发明奖提名公示",
+        "url": "https://physics.nankai.edu.cn/2026/0716/c575a600444/page.htm",
+        "publish_date": "2026-07-13"
+      },
+      {
+        "title": "我院教师在单分子定位超分辨成像通道间配准研究中获重要进展",
+        "url": "https://physics.nankai.edu.cn/2026/0711/c575a600241/page.htm",
+        "publish_date": "2026-07-11"
+      },
+      {
+        "title": "南开团队在拓扑光子学领域取得重要进展",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/07/10/030073588.shtml",
+        "publish_date": "2026-07-11"
+      },
+      {
+        "title": "南开团队在从核质量探索原子核的正四面体对称性方面取得重要突破",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/07/10/030073585.shtml",
+        "publish_date": "2026-07-11"
+      },
+      {
+        "title": "南开团队在非阿贝尔拓扑声学领域取得重要进展",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/07/06/030073537.shtml",
+        "publish_date": "2026-07-10"
+      },
+      {
+        "title": "南开团队在新型拓扑磁结构领域取得重要进展",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/06/08/030073161.shtml",
+        "publish_date": "2026-06-09"
+      },
+      {
+        "title": "南开大学在粒子物理唯象学领域取得重要进展",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/05/11/030072619.shtml",
+        "publish_date": "2026-05-12"
+      },
+      {
+        "title": "南开团队开发出太赫兹“分子指纹”探测新技术",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2026/04/14/030071420.shtml",
+        "publish_date": "2026-04-15"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  },
+  {
+    "url": "https://physics.nankai.edu.cn/25031/list.htm",
+    "name": "更多>>",
+    "http_status": 200,
+    "fetched_at": "2026-09-05T14:44:57.897589+00:00",
+    "item_count": 10,
+    "items": [
+      {
+        "title": "追思周邓风范勇担青春使命——物理科学学院硕士第二党支部开展跨校共建主题党日活动",
+        "url": "https://physics.nankai.edu.cn/2025/1230/c25031a587927/page.htm",
+        "publish_date": "2025-12-30"
+      },
+      {
+        "title": "物理科学学院“导师有约”聚焦新生学业与生活",
+        "url": "https://physics.nankai.edu.cn/2025/1230/c25031a587924/page.htm",
+        "publish_date": "2025-12-30"
+      },
+      {
+        "title": "物理科学学院举办“拼心筑悦”主题心理团辅活动",
+        "url": "https://physics.nankai.edu.cn/2025/1201/c25031a585682/page.htm",
+        "publish_date": "2025-12-03"
+      },
+      {
+        "title": "物理科学学院“导师有约”聚焦学生成长与发展",
+        "url": "https://physics.nankai.edu.cn/2025/1111/c25031a583538/page.htm",
+        "publish_date": "2025-11-12"
+      },
+      {
+        "title": "物理科学学院秋季党校开展弘扬伟大抗战精神主题党课",
+        "url": "https://physics.nankai.edu.cn/2025/1110/c25031a583371/page.htm",
+        "publish_date": "2025-11-10"
+      },
+      {
+        "title": "物理科学学院求职训练营为青年定制就业课",
+        "url": "https://news.nankai.edu.cn/dcxy/system/2025/11/07/030069524.shtml",
+        "publish_date": "2025-11-10"
+      },
+      {
+        "title": "物理科学学院组织师生赴国家超级计算天津中心参观访问",
+        "url": "https://physics.nankai.edu.cn/2025/1107/c25031a583296/page.htm",
+        "publish_date": "2025-11-07"
+      },
+      {
+        "title": "物理科学学院举办高校网络行为规范与安全主题讲座",
+        "url": "https://physics.nankai.edu.cn/2025/1106/c25031a583148/page.htm",
+        "publish_date": "2025-11-06"
+      },
+      {
+        "title": "物理科学学院秋季党校开展理想信念主题党课",
+        "url": "https://physics.nankai.edu.cn/2025/1103/c25031a582921/page.htm",
+        "publish_date": "2025-11-04"
+      },
+      {
+        "title": "津沽烽火，浩气长歌——物理科学学院新老党员共上一节实践党课",
+        "url": "https://physics.nankai.edu.cn/2025/1028/c25031a582378/page.htm",
+        "publish_date": "2025-10-28"
+      }
+    ],
+    "subnavigation": [
+      {
+        "url": "https://physics.nankai.edu.cn/dbxkycg/list.htm",
+        "name": "科研动态"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+        "name": "本科招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/sszs/list.htm",
+        "name": "硕士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bszs/list.htm",
+        "name": "博士招生"
+      },
+      {
+        "url": "https://physics.nankai.edu.cn/bsh/list.htm",
+        "name": "博士后"
+      }
+    ],
+    "decision": "review",
+    "enabled": false
+  }
+]

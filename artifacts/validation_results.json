@@ -1,0 +1,10 @@
+{
+  "baseline_ids": 43,
+  "fixture_replays": 19,
+  "all_sources_have_reproducible_selectors": true,
+  "security_scan": "PASS",
+  "phase_b_approved": false,
+  "validated_at": "2026-09-05T15:57:22.427309+00:00",
+  "status": "PASS",
+  "meaning": "Historical Phase A snapshot validated; current production approval is recorded separately in config/APPROVAL.md"
+}

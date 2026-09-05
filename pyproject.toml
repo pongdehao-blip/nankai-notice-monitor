@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nankai-notice-watch"
+version = "1.0.0"
+description = "Audited public Nankai notice lists and a daily Feishu report"
+requires-python = ">=3.11"
+dependencies = ["requests>=2.32,<3", "lxml>=5,<7", "PyYAML>=6,<7", "tzdata>=2025.1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[project.scripts]
+nankai-watch = "nankai_watch.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "scripts"]
+testpaths = ["tests"]

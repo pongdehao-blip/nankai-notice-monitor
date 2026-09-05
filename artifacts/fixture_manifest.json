@@ -1,0 +1,1107 @@
+{
+  "physics-list": {
+    "path": "tests/fixtures/audit/physics-list.html",
+    "source_id": "P01",
+    "url": "https://physics.nankai.edu.cn/572/list.htm",
+    "items": [
+      {
+        "title": "物理科学学院关于做好南开大学2025-2026学年度研究生荣誉称号评选工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0904/c572a601827/page.htm",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "关于学生参加中国国际大学生创新大赛（2026）的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0901/c572a601660/page.htm",
+        "publish_date": "2026-09-01"
+      },
+      {
+        "title": "关于遴选中国国际大学生创新大赛（2026）产业命题赛道市赛推荐项目的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0901/c572a601646/page.htm",
+        "publish_date": "2026-09-01"
+      },
+      {
+        "title": "关于招募推荐免试研究生参加第29届中国青年志愿者研究生支教团的预通知",
+        "url": "https://physics.nankai.edu.cn/2026/0823/c572a601400/page.htm",
+        "publish_date": "2026-08-24"
+      },
+      {
+        "title": "关于做好2026年校园地国家助学贷款申请和国家助学贷款学生信息登记工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0819/c572a601301/page.htm",
+        "publish_date": "2026-08-19"
+      },
+      {
+        "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）",
+        "url": "https://physics.nankai.edu.cn/2026/0809/c572a601108/page.htm",
+        "publish_date": "2026-08-09"
+      },
+      {
+        "title": "2026年度物理科学学院伯苓班、强基班动态调整情况公示",
+        "url": "https://physics.nankai.edu.cn/2026/0806/c572a601019/page.htm",
+        "publish_date": "2026-08-06"
+      },
+      {
+        "title": "关于组织开展2025-2026学年度物理科学学院“优秀志愿者”评选工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0717/c572a600457/page.htm",
+        "publish_date": "2026-07-17"
+      },
+      {
+        "title": "南开大学2025-2026学年度勤工助学考核评优工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0622/c572a598773/page.htm",
+        "publish_date": "2026-06-22"
+      },
+      {
+        "title": "关于开展 2026 年暑期天津市大学生实习 “扬帆计划”工作的提示",
+        "url": "https://physics.nankai.edu.cn/2026/0614/c572a598279/page.htm",
+        "publish_date": "2026-06-14"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:15:20.483816+00:00"
+  },
+  "physics-list-single": {
+    "path": "tests/fixtures/audit/physics-list-single.html",
+    "source_id": "P05",
+    "url": "https://physics.nankai.edu.cn/bkzs/list.htm",
+    "items": [
+      {
+        "title": "南开大学2025年湖南本科招生工作启动",
+        "url": "https://news.nankai.edu.cn/zhxw/system/2025/05/12/030066935.shtml",
+        "publish_date": "2025-05-12"
+      },
+      {
+        "title": "本科招生简介",
+        "url": "https://physics.nankai.edu.cn/2022/0106/c25819a426922/page.htm",
+        "publish_date": "2022-01-06"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:15:23.525386+00:00"
+  },
+  "jwc-list": {
+    "path": "tests/fixtures/audit/jwc-list.html",
+    "source_id": "J01",
+    "url": "https://jwc.nankai.edu.cn/tzgg/list.htm",
+    "items": [
+      {
+        "title": "南开大学2026-2027学年第一学期本科生选课通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0817/c35436a601256/page.htm",
+        "publish_date": "2026-08-17"
+      },
+      {
+        "title": "关于开展2023年第二批教材建设立项和2024年教材建设项目结题验收的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0904/c35436a601844/page.htm",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0829/c35436a601586/page.htm",
+        "publish_date": "2026-08-29"
+      },
+      {
+        "title": "关于公布和启动2026年南开大学本科生创新创业训练立项项目的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0828/c35436a601555/page.htm",
+        "publish_date": "2026-08-28"
+      },
+      {
+        "title": "关于开展2026-2027学年第一学期本科课程助教工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0828/c35436a601541/page.htm",
+        "publish_date": "2026-08-28"
+      },
+      {
+        "title": "南开大学2026级本科新生二次选拔统考考试通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0827/c35436a601531/page.htm",
+        "publish_date": "2026-08-27"
+      },
+      {
+        "title": "2026-2027学年第一学期本科通识选修课程选课指南",
+        "url": "https://jwc.nankai.edu.cn/2026/0820/c35436a601308/page.htm",
+        "publish_date": "2026-08-20"
+      },
+      {
+        "title": "关于南开大学2026年度拟增设本科专业的公示",
+        "url": "https://jwc.nankai.edu.cn/2026/0819/c35436a601300/page.htm",
+        "publish_date": "2026-08-19"
+      },
+      {
+        "title": "南开大学2026级本科新生二次选拔通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0816/c35436a601244/page.htm",
+        "publish_date": "2026-08-17"
+      },
+      {
+        "title": "关于选聘南开大学伯苓学院2026级班导师的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0812/c35436a601177/page.htm",
+        "publish_date": "2026-08-12"
+      }
+    ],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:15:27.890302+00:00"
+  },
+  "jwc-simple-list": {
+    "path": "tests/fixtures/audit/jwc-simple-list.html",
+    "source_id": "J02",
+    "url": "https://jwc.nankai.edu.cn/gzdt/list.htm",
+    "items": [
+      {
+        "title": "关于组织开展2026—2027学年国际学分课程申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0331/c36059a591785/page.htm",
+        "publish_date": "2026-03-31"
+      },
+      {
+        "title": "关于开展本科课程库清理与规范工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2024/1219/c36059a559983/page.htm",
+        "publish_date": "2024-12-19"
+      },
+      {
+        "title": "关于第三批国家级、市级一流本科课程拟推荐名单的公示",
+        "url": "https://jwc.nankai.edu.cn/2024/0104/c36059a554768/page.htm",
+        "publish_date": "2024-01-04"
+      },
+      {
+        "title": "关于第三批一流本科课程申报工作的补充通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1212/c36059a554776/page.htm",
+        "publish_date": "2023-12-12"
+      },
+      {
+        "title": "关于开展第三批国家级一流本科课程申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1201/c36059a554780/page.htm",
+        "publish_date": "2023-12-01"
+      },
+      {
+        "title": "关于开展2023-2024学年第二学期通识选修课程申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2023/1116/c36059a554785/page.htm",
+        "publish_date": "2023-11-16"
+      },
+      {
+        "title": "南开大学2022-2023学年第二学期本科通识选修课程选课指南",
+        "url": "https://jwc.nankai.edu.cn/2023/0204/c36059a554831/page.htm",
+        "publish_date": "2023-02-04"
+      },
+      {
+        "title": "关于开展2022-2023学年第二学期通识选修课程申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2022/1107/c36059a554846/page.htm",
+        "publish_date": "2022-11-07"
+      },
+      {
+        "title": "南开大学 2022-2023 学年第一学期本科通识选修课程选课指南",
+        "url": "https://jwc.nankai.edu.cn/2022/0909/c36059a554850/page.htm",
+        "publish_date": "2022-09-09"
+      },
+      {
+        "title": "南开大学本科通识选修课程教学管理办法",
+        "url": "https://jwc.nankai.edu.cn/2022/0517/c36059a554862/page.htm",
+        "publish_date": "2022-05-17"
+      }
+    ],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:15:28.645879+00:00"
+  },
+  "jwc-simple-list-single": {
+    "path": "tests/fixtures/audit/jwc-simple-list-single.html",
+    "source_id": "J07",
+    "url": "https://jwc.nankai.edu.cn/gzdt_36071/list.htm",
+    "items": [
+      {
+        "title": "第十一届全国大学生生命科学竞赛（科学探究类）天津赛区省赛暨2026 年天津市大学生生命科学竞赛（综合科研实验）获奖名单公示",
+        "url": "https://jwc.nankai.edu.cn/2026/0712/c36071a600254/page.htm",
+        "publish_date": "2026-07-12"
+      },
+      {
+        "title": "关于举办第十一届全国大学生生命科学竞赛(2026，科学探究类)天津赛区省赛暨2026年天津市大学生生命科学竞赛(综合科研实验)的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0628/c36071a599150/page.htm",
+        "publish_date": "2026-06-28"
+      },
+      {
+        "title": "2025年天津市大学生生命科学竞赛生命科学基本实验技能竞赛部分获奖候选名单公示",
+        "url": "https://jwc.nankai.edu.cn/2025/1028/c36071a582384/page.htm",
+        "publish_date": "2025-10-28"
+      }
+    ],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:15:32.898996+00:00"
+  },
+  "jwc-simple-empty-single": {
+    "path": "tests/fixtures/audit/jwc-simple-empty-single.html",
+    "source_id": "J09",
+    "url": "https://jwc.nankai.edu.cn/gzdt_36075/list.htm",
+    "items": [],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:15:34.472779+00:00"
+  },
+  "nkzbb-list": {
+    "path": "tests/fixtures/audit/nkzbb-list.html",
+    "source_id": "Z01",
+    "url": "https://nkzbb.nankai.edu.cn/cghw/index.chtml",
+    "items": [
+      {
+        "title": "南开大学保卫处八里台校区监控设备采购项目（NK2026H048N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4660.chtml",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "南开大学实验室设备处危化品储存柜采购项目（NK2026H073N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4659.chtml",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "南开大学计算机学院大模型一体机采购项目（NK2026H072N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4649.chtml",
+        "publish_date": "2026-08-31"
+      },
+      {
+        "title": "南开大学金融学院电子班牌信息发布系统采购项目(NK2026H069N)采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4646.chtml",
+        "publish_date": "2026-08-28"
+      },
+      {
+        "title": "南开大学陈省身数学研究所外文原版期刊采购项目（NK2026H036W）更正公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4638.chtml",
+        "publish_date": "2026-08-25"
+      },
+      {
+        "title": "南开大学生命科学学院显微互动教学系统采购项目（NK2026H068N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4637.chtml",
+        "publish_date": "2026-08-25"
+      },
+      {
+        "title": "南开大学陈省身数学研究所外文原版期刊采购项目（NK2026H036W）公开招标公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4633.chtml",
+        "publish_date": "2026-08-21"
+      },
+      {
+        "title": "南开大学保卫处测速点位增补及测速平台开发应用采购项目（NK2026H067N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4631.chtml",
+        "publish_date": "2026-08-20"
+      },
+      {
+        "title": "南开大学物理科学学院连续固体激光器采购项目（NK2026H063W）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4614.chtml",
+        "publish_date": "2026-08-12"
+      },
+      {
+        "title": "南开大学保卫处八里台校区门岗人行通道采购项目（NK2026H066N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4606.chtml",
+        "publish_date": "2026-08-07"
+      },
+      {
+        "title": "南开大学材料科学与工程学院紫外皮秒激光加工平台采购项目（NK2026H064N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4603.chtml",
+        "publish_date": "2026-08-06"
+      },
+      {
+        "title": "南开大学党委学生工作部闸机通道管理系统采购项目（NK2026H065N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4602.chtml",
+        "publish_date": "2026-08-06"
+      },
+      {
+        "title": "南开大学基建保障处低氮真空热水锅炉、低氮常压热水锅炉及附属设备采购项目（NK2026H058N）更正公告2号",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4591.chtml",
+        "publish_date": "2026-08-03"
+      },
+      {
+        "title": "南开大学经济与社会发展研究院经济AI大数据教学实验平台采购项目（NK2026H061N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4588.chtml",
+        "publish_date": "2026-08-03"
+      },
+      {
+        "title": "南开大学材料科学与工程学院差示扫描量热仪采购项目（NK2026H054W）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4587.chtml",
+        "publish_date": "2026-08-03"
+      }
+    ],
+    "site_id": "nkzbb",
+    "fetched_at": "2026-09-05T14:15:47.528179+00:00"
+  },
+  "nkzbb-intent-list": {
+    "path": "tests/fixtures/audit/nkzbb-intent-list.html",
+    "source_id": "Z09",
+    "url": "https://nkzbb.nankai.edu.cn/yxgk/index.chtml",
+    "items": [
+      {
+        "title": "南开大学智能光子研究院相位噪声分析仪采购项目 政府采购意向公开（第116批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4650.chtml",
+        "publish_date": "2026-09-01"
+      },
+      {
+        "title": "南开大学特种化学电源全国重点实验室eScience及eScience Energy英文期刊出版服务采购项目（2026年第115批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4617.chtml",
+        "publish_date": "2026-08-13"
+      },
+      {
+        "title": "南开大学商学院设计制作服务采购项目（2026年第114批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4610.chtml",
+        "publish_date": "2026-08-11"
+      },
+      {
+        "title": "南开大学基建保障处八里台校区学一食堂南侧小树林管线迁移工程采购项目（2026年第113批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4581.chtml",
+        "publish_date": "2026-07-31"
+      },
+      {
+        "title": "南开大学心理中心沉浸式休憩与光环境模拟系统采购项目 政府采购意向公开（第112批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4580.chtml",
+        "publish_date": "2026-07-31"
+      },
+      {
+        "title": "南开大学心理中心心理健康与社会行为数智实验平台采购项目 政府采购意向公开（第111批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4579.chtml",
+        "publish_date": "2026-07-31"
+      },
+      {
+        "title": "南开大学心理中心多模态认知评估与干预一体化科研平台采购项目 政府采购意向公开（第110批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4578.chtml",
+        "publish_date": "2026-07-31"
+      },
+      {
+        "title": "南开大学心理中心认知神经实验平台采购项目 政府采购意向公开（第109批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4577.chtml",
+        "publish_date": "2026-07-31"
+      },
+      {
+        "title": "南开大学基建保障处八里台校区老图书馆配套电力设施工程采购项目（2026年第108批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4576.chtml",
+        "publish_date": "2026-07-30"
+      },
+      {
+        "title": "南开大学文学院人文互动高密度多模态脑功能超扫描平台采购项目 政府采购意向公开（第107批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4573.chtml",
+        "publish_date": "2026-07-29"
+      },
+      {
+        "title": "南开大学文学院人文元认知神经测试边缘智能实验平台采购项目 政府采购意向公开（第106批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4572.chtml",
+        "publish_date": "2026-07-29"
+      },
+      {
+        "title": "南开大学文学院人文虚拟情景团体交互实验平台采购项目 政府采购意向公开（第105批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4569.chtml",
+        "publish_date": "2026-07-28"
+      },
+      {
+        "title": "南开大学文学院人文元认知多模态行为研究实验平台采购项目 政府采购意向公开（第104批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4568.chtml",
+        "publish_date": "2026-07-28"
+      },
+      {
+        "title": "南开大学文学院情感计算与语言认知实验平台采购项目 政府采购意向公开（第103批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4567.chtml",
+        "publish_date": "2026-07-28"
+      },
+      {
+        "title": "南开大学文学院全域智算空间多模态虚实融合系统采购项目 政府采购意向公开（第102批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4566.chtml",
+        "publish_date": "2026-07-28"
+      }
+    ],
+    "site_id": "nkzbb",
+    "fetched_at": "2026-09-05T14:15:54.362450+00:00"
+  },
+  "P01-page2": {
+    "path": "tests/fixtures/audit/P01-page2.html",
+    "source_id": "P01",
+    "url": "https://physics.nankai.edu.cn/572/list2.htm",
+    "items": [
+      {
+        "title": "关于推选2026届校友工作理事的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0527/c572a596339/page.htm",
+        "publish_date": "2026-05-27"
+      },
+      {
+        "title": "关于启动2026年南开大学“师生四同” 实践课题立项的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0526/c572a596198/page.htm",
+        "publish_date": "2026-05-26"
+      },
+      {
+        "title": "​南开大学物理科学学院2026级新生党员组织关系转接说明",
+        "url": "https://physics.nankai.edu.cn/2026/0518/c572a595485/page.htm",
+        "publish_date": "2026-05-18"
+      },
+      {
+        "title": "关于接收研究生新生团组织关系转接的说明",
+        "url": "https://physics.nankai.edu.cn/2026/0518/c572a595484/page.htm",
+        "publish_date": "2026-05-18"
+      },
+      {
+        "title": "南开大学2026届毕业生“启航奖”评选通知",
+        "url": "https://physics.nankai.edu.cn/2026/0515/c572a595316/page.htm",
+        "publish_date": "2026-05-15"
+      },
+      {
+        "title": "关于做好我校2026年毕业生基层就业学费补偿国家助学贷款代偿工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0515/c572a595278/page.htm",
+        "publish_date": "2026-05-15"
+      },
+      {
+        "title": "关于开展“我要上典礼”——2026年毕业典礼学生发言代表选拔的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0514/c572a595193/page.htm",
+        "publish_date": "2026-05-14"
+      },
+      {
+        "title": "申报本科生校外交流助学金的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0511/c572a594733/page.htm",
+        "publish_date": "2026-05-11"
+      },
+      {
+        "title": "关于做好南开大学2026届研究生优秀毕业生 评选工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0507/c572a594389/page.htm",
+        "publish_date": "2026-05-07"
+      },
+      {
+        "title": "关于组织参加第一届天津市大中小学国防教育主题绘画作品征集活动的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0507/c572a594338/page.htm",
+        "publish_date": "2026-05-07"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:32:11.020935+00:00"
+  },
+  "P03-page1": {
+    "path": "tests/fixtures/audit/P03-page1.html",
+    "source_id": "P03",
+    "url": "https://physics.nankai.edu.cn/576/list.htm",
+    "items": [
+      {
+        "title": "【小蓝册】研究生常用办事手册下载",
+        "url": "https://physics.nankai.edu.cn/2021/0526/c576a367014/page.htm",
+        "publish_date": "2021-05-26"
+      },
+      {
+        "title": "物理科学学院2027年接收推荐免试研究生预报名的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0812/c576a601184/page.htm",
+        "publish_date": "2026-08-12"
+      },
+      {
+        "title": "南开大学2026级研究生新生报到须知",
+        "url": "https://yzb.nankai.edu.cn/2026/0729/c5508a600861/page.htm",
+        "publish_date": "2026-08-11"
+      },
+      {
+        "title": "2026级博士研究生调档函及录取通知书发放说明",
+        "url": "https://physics.nankai.edu.cn/2026/0622/c576a598746/page.htm",
+        "publish_date": "2026-06-22"
+      },
+      {
+        "title": "关于对2026年拟录取博士研究生函调政治思想情况的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0617/c576a598511/page.htm",
+        "publish_date": "2026-06-17"
+      },
+      {
+        "title": "关于2026年硕士研究生调档函及录取通知书发放时间的说明",
+        "url": "https://physics.nankai.edu.cn/2026/0608/c576a597839/page.htm",
+        "publish_date": "2026-06-08"
+      },
+      {
+        "title": "关于2026年度中国光学学会科技创新奖提名推荐工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0526/c576a596201/page.htm",
+        "publish_date": "2026-05-26"
+      },
+      {
+        "title": "2026年王大珩奖学金候选人申报通知",
+        "url": "https://physics.nankai.edu.cn/2026/0525/c576a596185/page.htm",
+        "publish_date": "2026-05-25"
+      },
+      {
+        "title": "关于对2026年拟录取硕士研究生函调政治思想情况的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0525/c576a596179/page.htm",
+        "publish_date": "2026-05-25"
+      },
+      {
+        "title": "【毕业答辩】2026年春季学期物理科学学院硕士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2026/0515/c576a595290/page.htm",
+        "publish_date": "2026-05-15"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:15:21.999684+00:00"
+  },
+  "P03-page2": {
+    "path": "tests/fixtures/audit/P03-page2.html",
+    "source_id": "P03",
+    "url": "https://physics.nankai.edu.cn/576/list2.htm",
+    "items": [
+      {
+        "title": "【毕业答辩】2026年春季学期物理科学学院博士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2026/0513/c576a595086/page.htm",
+        "publish_date": "2026-05-13"
+      },
+      {
+        "title": "物理科学学院2026年硕士研究生招生考试复试分数线",
+        "url": "https://physics.nankai.edu.cn/2026/0325/c576a591387/page.htm",
+        "publish_date": "2026-03-25"
+      },
+      {
+        "title": "南开大学物理学学位评定分委员会 博士研究生申请学位成果细则",
+        "url": "https://physics.nankai.edu.cn/2026/0313/c576a590822/page.htm",
+        "publish_date": "2026-03-13"
+      },
+      {
+        "title": "【硕士】南开大学2025-2026-2硕士研究生论文评审及答辩工作通知   ",
+        "url": "https://physics.nankai.edu.cn/2026/0306/c576a590496/page.htm",
+        "publish_date": "2026-03-06"
+      },
+      {
+        "title": "【博士】南开大学2025-2026-2博士研究生论文评审及答辩工作通知",
+        "url": "https://physics.nankai.edu.cn/2026/0306/c576a590495/page.htm",
+        "publish_date": "2026-03-06"
+      },
+      {
+        "title": "【毕业答辩】2025年秋季学期物理科学学院博士、硕士毕业论文答辩公告",
+        "url": "https://physics.nankai.edu.cn/2025/1114/c576a583890/page.htm",
+        "publish_date": "2025-11-14"
+      },
+      {
+        "title": "物理科学学院2026年硕博连读生招生选拔实施细则",
+        "url": "https://physics.nankai.edu.cn/2025/1110/c576a583405/page.htm",
+        "publish_date": "2025-11-10"
+      },
+      {
+        "title": "物理科学学院2026年“申请-考核”制博士研究生招生选拔实施细则",
+        "url": "https://physics.nankai.edu.cn/2025/1029/c576a582425/page.htm",
+        "publish_date": "2025-10-29"
+      },
+      {
+        "title": "物理科学学院关于接收2026年推荐免试（含直博）生工作的通知",
+        "url": "https://physics.nankai.edu.cn/2025/0921/c576a578151/page.htm",
+        "publish_date": "2025-09-21"
+      },
+      {
+        "title": "​【毕业】南开大学2025-2026学年第一学期学术学位硕士研究生论文评审及答辩工作通知",
+        "url": "https://physics.nankai.edu.cn/2025/0917/c576a577832/page.htm",
+        "publish_date": "2025-09-17"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:32:12.524145+00:00"
+  },
+  "J01-page1": {
+    "path": "tests/fixtures/audit/J01-page1.html",
+    "source_id": "J01",
+    "url": "https://jwc.nankai.edu.cn/tzgg/list.htm",
+    "items": [
+      {
+        "title": "南开大学2026-2027学年第一学期本科生选课通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0817/c35436a601256/page.htm",
+        "publish_date": "2026-08-17"
+      },
+      {
+        "title": "关于开展2023年第二批教材建设立项和2024年教材建设项目结题验收的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0904/c35436a601844/page.htm",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0829/c35436a601586/page.htm",
+        "publish_date": "2026-08-29"
+      },
+      {
+        "title": "关于公布和启动2026年南开大学本科生创新创业训练立项项目的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0828/c35436a601555/page.htm",
+        "publish_date": "2026-08-28"
+      },
+      {
+        "title": "关于开展2026-2027学年第一学期本科课程助教工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0828/c35436a601541/page.htm",
+        "publish_date": "2026-08-28"
+      },
+      {
+        "title": "南开大学2026级本科新生二次选拔统考考试通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0827/c35436a601531/page.htm",
+        "publish_date": "2026-08-27"
+      },
+      {
+        "title": "2026-2027学年第一学期本科通识选修课程选课指南",
+        "url": "https://jwc.nankai.edu.cn/2026/0820/c35436a601308/page.htm",
+        "publish_date": "2026-08-20"
+      },
+      {
+        "title": "关于南开大学2026年度拟增设本科专业的公示",
+        "url": "https://jwc.nankai.edu.cn/2026/0819/c35436a601300/page.htm",
+        "publish_date": "2026-08-19"
+      },
+      {
+        "title": "南开大学2026级本科新生二次选拔通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0816/c35436a601244/page.htm",
+        "publish_date": "2026-08-17"
+      },
+      {
+        "title": "关于选聘南开大学伯苓学院2026级班导师的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0812/c35436a601177/page.htm",
+        "publish_date": "2026-08-12"
+      }
+    ],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:15:27.890302+00:00"
+  },
+  "J01-page2": {
+    "path": "tests/fixtures/audit/J01-page2.html",
+    "source_id": "J01",
+    "url": "https://jwc.nankai.edu.cn/tzgg/list2.htm",
+    "items": [
+      {
+        "title": "关于组织参加首届教学智能体大赛的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0707/c35436a599910/page.htm",
+        "publish_date": "2026-07-07"
+      },
+      {
+        "title": "关于组织开展2026年天津市师生数字素养提升实践活动项目申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0707/c35436a599911/page.htm",
+        "publish_date": "2026-07-07"
+      },
+      {
+        "title": "南开大学推荐参评2026年度天津市普通高等学校本科优秀毕业设计（论文）名单公示",
+        "url": "https://jwc.nankai.edu.cn/2026/0703/c35436a599581/page.htm",
+        "publish_date": "2026-07-03"
+      },
+      {
+        "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生准备工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0629/c35436a599246/page.htm",
+        "publish_date": "2026-06-29"
+      },
+      {
+        "title": "关于2025-2026学年第二学期本科课堂教学质量评价结论公示",
+        "url": "https://jwc.nankai.edu.cn/2026/0624/c35436a598906/page.htm",
+        "publish_date": "2026-06-24"
+      },
+      {
+        "title": "南开大学2026年微专业招生工作通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0618/c35436a598629/page.htm",
+        "publish_date": "2026-06-18"
+      },
+      {
+        "title": "关于举办第二届京津冀蒙本科高校课程思政教学比赛校内初赛的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0618/c35436a598626/page.htm",
+        "publish_date": "2026-06-18"
+      },
+      {
+        "title": "关于南开大学2026届本科生优秀毕业论文（设计）名单的公示",
+        "url": "https://jwc.nankai.edu.cn/2026/0612/c35436a598246/page.htm",
+        "publish_date": "2026-06-12"
+      },
+      {
+        "title": "关于开展2026级本科新生教材教辅征订工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0610/c35436a598072/page.htm",
+        "publish_date": "2026-06-10"
+      },
+      {
+        "title": "关于开展2026-2027-1学期本科课程选用教材审核工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2026/0610/c35436a598071/page.htm",
+        "publish_date": "2026-06-10"
+      }
+    ],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:32:16.279669+00:00"
+  },
+  "J02-page2": {
+    "path": "tests/fixtures/audit/J02-page2.html",
+    "source_id": "J02",
+    "url": "https://jwc.nankai.edu.cn/gzdt/list2.htm",
+    "items": [
+      {
+        "title": "关于开展2022-2023学年第一学期通识选修课程申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2022/0517/c36059a554863/page.htm",
+        "publish_date": "2022-05-17"
+      },
+      {
+        "title": "关于开展2022年天津市创新创业教育特色示范课程申报工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2022/0314/c36059a554872/page.htm",
+        "publish_date": "2022-03-14"
+      },
+      {
+        "title": "2021-2022学年第二学期向本科生开放研究生课程列表",
+        "url": "https://jwc.nankai.edu.cn/2021/1230/c36059a554879/page.htm",
+        "publish_date": "2021-12-30"
+      },
+      {
+        "title": "南开大学2021-2022学年第二学期本科通识选修课程选课指南",
+        "url": "https://jwc.nankai.edu.cn/2021/1230/c36059a554880/page.htm",
+        "publish_date": "2021-12-30"
+      },
+      {
+        "title": "2021-2022-2学期南开大学港澳台学生国情教育课程列表",
+        "url": "https://jwc.nankai.edu.cn/2021/1228/c36059a554881/page.htm",
+        "publish_date": "2021-12-28"
+      },
+      {
+        "title": "以融合课程为推进的“新文科”建设打开新局面",
+        "url": "https://jwc.nankai.edu.cn/2021/1228/c36059a554882/page.htm",
+        "publish_date": "2021-12-28"
+      },
+      {
+        "title": "关于开展2021-2022学年第二学期本科课程教材选用情况报送工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2021/1227/c36059a554883/page.htm",
+        "publish_date": "2021-12-27"
+      },
+      {
+        "title": "关于转发《关于举办“首届高等院校劳动教育课程设计与教学实施”大赛的通知》的通知",
+        "url": "https://jwc.nankai.edu.cn/2021/1222/c36059a554884/page.htm",
+        "publish_date": "2021-12-23"
+      },
+      {
+        "title": "关于开展2021年度在线课程资源审查工作的通知",
+        "url": "https://jwc.nankai.edu.cn/2021/1018/c36059a554897/page.htm",
+        "publish_date": "2021-10-18"
+      },
+      {
+        "title": "关于面向2021级学生开设心理健康教育课程的通知",
+        "url": "https://jwc.nankai.edu.cn/2021/0928/c36059a554898/page.htm",
+        "publish_date": "2021-09-28"
+      }
+    ],
+    "site_id": "jwc",
+    "fetched_at": "2026-09-05T14:32:17.017608+00:00"
+  },
+  "Z01-page2": {
+    "path": "tests/fixtures/audit/Z01-page2.html",
+    "source_id": "Z01",
+    "url": "https://nkzbb.nankai.edu.cn/cghw/index.chtml?curPage=2",
+    "items": [
+      {
+        "title": "南开大学基建保障处低氮真空热水锅炉、低氮常压热水锅炉及附属设备采购项目（NK2026H058N）更正公告1号",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4584.chtml",
+        "publish_date": "2026-08-01"
+      },
+      {
+        "title": "南开大学电子信息与光学工程学院电路基础实验箱采购项目（NK2026H053N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4555.chtml",
+        "publish_date": "2026-07-24"
+      },
+      {
+        "title": "南开大学党委网络安全和信息化办公室（大数据管理中心）终端零信任可信安全系统采购项目（NK2026H057N）单一来源采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4554.chtml",
+        "publish_date": "2026-07-24"
+      },
+      {
+        "title": "南开大学基建保障处低氮真空热水锅炉、低氮常压热水锅炉及附属设备采购项目（NK2026H058N）公开招标公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4549.chtml",
+        "publish_date": "2026-07-21"
+      },
+      {
+        "title": "南开大学前沿交叉学科研究院LED屏幕及配套设备采购项目（NK2026H062N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4548.chtml",
+        "publish_date": "2026-07-21"
+      },
+      {
+        "title": "南开大学津南校区学生宿舍电能表采购项目（NK2026H056N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4545.chtml",
+        "publish_date": "2026-07-20"
+      },
+      {
+        "title": "南开大学材料科学与工程学院紫外可见近红外分光光度计采购项目（NK2026H055W）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4543.chtml",
+        "publish_date": "2026-07-20"
+      },
+      {
+        "title": "南开大学化学学院化学合成高通量手套箱工作站采购项目(NK2026H060N)公开招标公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4542.chtml",
+        "publish_date": "2026-07-20"
+      },
+      {
+        "title": "南开大学材料科学与工程学院二次离子质谱仪采购项目(NK2026H018W)更正公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4527.chtml",
+        "publish_date": "2026-07-14"
+      },
+      {
+        "title": "南开大学膳食服务中心燃气报警器采购项目（NK2026H045N）补充公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4521.chtml",
+        "publish_date": "2026-07-10"
+      },
+      {
+        "title": "南开大学计算机学院嵌入式系统原理实验箱采购项目（NK2026H049N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4518.chtml",
+        "publish_date": "2026-07-09"
+      },
+      {
+        "title": "南开大学计算机学院台式计算机主机采购项目（NK2026H051N）公开招标公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4517.chtml",
+        "publish_date": "2026-07-09"
+      },
+      {
+        "title": "南开大学材料科学与工程学院二次离子质谱仪采购项目（NK2026H018W）单一来源公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4506.chtml",
+        "publish_date": "2026-07-07"
+      },
+      {
+        "title": "南开大学智能光子研究院微波矢量信号源采购项目(NK2026H047W)单一来源采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4505.chtml",
+        "publish_date": "2026-07-07"
+      },
+      {
+        "title": "南开大学膳食服务中心燃气报警器采购项目（NK2026H045N）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cghw/4504.chtml",
+        "publish_date": "2026-07-07"
+      }
+    ],
+    "site_id": "nkzbb",
+    "fetched_at": "2026-09-05T14:48:39.074781+00:00"
+  },
+  "Z04-page2": {
+    "path": "tests/fixtures/audit/Z04-page2.html",
+    "source_id": "Z04",
+    "url": "https://nkzbb.nankai.edu.cn/cgqt/index.chtml?curPage=2",
+    "items": [
+      {
+        "title": "南开大学食堂食品原材料采购供应商遴选项目（三）（NK2026F005L）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4182.chtml",
+        "publish_date": "2026-03-23"
+      },
+      {
+        "title": "南开大学食堂食品原材料采购供应商遴选项目（二）（NK2026F004L）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4181.chtml",
+        "publish_date": "2026-03-23"
+      },
+      {
+        "title": "南开大学食堂食品原材料采购供应商遴选项目（一）（NK2026F003L）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4180.chtml",
+        "publish_date": "2026-03-23"
+      },
+      {
+        "title": "南开大学食堂食品原材料采购供应商遴选项目（NK2026F002L）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4139.chtml",
+        "publish_date": "2026-03-06"
+      },
+      {
+        "title": "南开大学八里台校区2026年西南村银行项目（NK2026Z002）变更公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4070.chtml",
+        "publish_date": "2026-01-16"
+      },
+      {
+        "title": "南开大学八里台校区2026年纪念品店项目（NK2026Z003）变更公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4069.chtml",
+        "publish_date": "2026-01-15"
+      },
+      {
+        "title": "南开大学泰达学院食堂用食品相关原材料供应商公开遴选项目（第二次）（NK2025F009L）采购公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4068.chtml",
+        "publish_date": "2026-01-15"
+      },
+      {
+        "title": "南开大学八里台2026年生活服务配套项目（龙兴里）（NK2026Z001）更正公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4067.chtml",
+        "publish_date": "2026-01-15"
+      },
+      {
+        "title": "南开大学八里台校区2026年西南村银行项目（NK2026Z002）公开招租公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4061.chtml",
+        "publish_date": "2026-01-14"
+      },
+      {
+        "title": "南开大学采购招标代理机构遴选项目（NK2026F001L）遴选公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4044.chtml",
+        "publish_date": "2026-01-12"
+      },
+      {
+        "title": "南开大学八里台2026年生活服务配套项目（龙兴里）（NK2026Z001）公开招租公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4043.chtml",
+        "publish_date": "2026-01-12"
+      },
+      {
+        "title": "南开大学八里台校区2026年纪念品店项目（NK2026Z003）公开招租公告",
+        "url": "https://nkzbb.nankai.edu.cn/cgqt/4042.chtml",
+        "publish_date": "2026-01-12"
+      }
+    ],
+    "site_id": "nkzbb",
+    "fetched_at": "2026-09-05T14:49:32.816149+00:00"
+  },
+  "Z09-page2": {
+    "path": "tests/fixtures/audit/Z09-page2.html",
+    "source_id": "Z09",
+    "url": "https://nkzbb.nankai.edu.cn/yxgk/index.chtml?curPage=2",
+    "items": [
+      {
+        "title": "南开大学文学院智元历史文化场景AI数据平台采购项目 政府采购意向公开（第101批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4565.chtml",
+        "publish_date": "2026-07-28"
+      },
+      {
+        "title": "南开大学文学院虚拟实景3D融合制作系统采购项目 政府采购意向公开（第100批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4564.chtml",
+        "publish_date": "2026-07-28"
+      },
+      {
+        "title": "南开大学文学院超融合系统平台采购项目 政府采购意向公开（第99批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4563.chtml",
+        "publish_date": "2026-07-28"
+      },
+      {
+        "title": "南开大学接待服务中心餐饮原材料采购项目（2026年第98批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4552.chtml",
+        "publish_date": "2026-07-21"
+      },
+      {
+        "title": "南开大学大数据管理中心2026-2028年度互联网接入服务采购项目 （2026年第96批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4405.chtml",
+        "publish_date": "2026-06-13"
+      },
+      {
+        "title": "南开大学大数据管理中心津南校区至八里台校区互联光缆建设采购项目  （2026年第97批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4404.chtml",
+        "publish_date": "2026-06-13"
+      },
+      {
+        "title": "2026年南开大学教学网络支撑平台建设项目 政府采购意向公开（第95批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4400.chtml",
+        "publish_date": "2026-06-12"
+      },
+      {
+        "title": "南开大学附属医院（天津市第四医院）物业管理服务采购项目  （2026年第94批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4386.chtml",
+        "publish_date": "2026-06-09"
+      },
+      {
+        "title": "南开大学大数据管理中心南开大学私有云中间件资源池扩容 政府采购意向公开（第93批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4350.chtml",
+        "publish_date": "2026-05-29"
+      },
+      {
+        "title": "南开大学八里台校区伯苓楼及综合实验楼报告厅、多功能厅室内提升工程 （2026年第92批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4344.chtml",
+        "publish_date": "2026-05-28"
+      },
+      {
+        "title": "2026年南开大学教学网络支撑平台建设项目 政府采购意向公开（第91批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4337.chtml",
+        "publish_date": "2026-05-27"
+      },
+      {
+        "title": "南开大学计网学院实验教学中心台式计算机采购项目\t政府采购意向公开（第90批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4330.chtml",
+        "publish_date": "2026-05-26"
+      },
+      {
+        "title": "南开大学计网学院实验教学中心机房云桌面系统采购项目 政府采购意向公开（第89批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4329.chtml",
+        "publish_date": "2026-05-26"
+      },
+      {
+        "title": "南开大学计网学院实验教学中心计算机系统能力培养远程实验平台采购项目 政府采购意向公开（第88批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4328.chtml",
+        "publish_date": "2026-05-26"
+      },
+      {
+        "title": "南开大学教务部津南校区公教楼教室中控、教学工作站设备采购项目 政府采购意向公开（第87批）",
+        "url": "https://nkzbb.nankai.edu.cn/yxgk/4310.chtml",
+        "publish_date": "2026-05-18"
+      }
+    ],
+    "site_id": "nkzbb",
+    "fetched_at": "2026-09-05T14:48:39.882692+00:00"
+  },
+  "P02-page1": {
+    "path": "tests/fixtures/audit/P02-page1.html",
+    "source_id": "P02",
+    "url": "https://physics.nankai.edu.cn/574/list.htm",
+    "items": [
+      {
+        "title": "2026 年物理科学学院伯苓班（拔尖计划）、量子信息班录取结果公示",
+        "url": "https://physics.nankai.edu.cn/2026/0904/c574a601801/page.htm",
+        "publish_date": "2026-09-04"
+      },
+      {
+        "title": "学院关于开展2027年推免工作的通知",
+        "url": "https://physics.nankai.edu.cn/2026/0831/c574a601622/page.htm",
+        "publish_date": "2026-08-31"
+      },
+      {
+        "title": "学院推荐优秀应届本科毕业生免试攻读研究生工作细则（更新）公示",
+        "url": "https://physics.nankai.edu.cn/2026/0829/c574a601592/page.htm",
+        "publish_date": "2026-08-29"
+      },
+      {
+        "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）",
+        "url": "https://physics.nankai.edu.cn/2026/0809/c574a601108/page.htm",
+        "publish_date": "2026-08-09"
+      },
+      {
+        "title": "2025级理科试验班（物理与光电信息技术工程）大类分流名单公示",
+        "url": "https://physics.nankai.edu.cn/2026/0604/c574a597609/page.htm",
+        "publish_date": "2026-06-04"
+      },
+      {
+        "title": "2026年物理伯苓和强基班双向流动申请通知",
+        "url": "https://physics.nankai.edu.cn/2026/0521/c574a595895/page.htm",
+        "publish_date": "2026-05-21"
+      },
+      {
+        "title": "2026年教育部物理学育人模式改革虚拟教研室教学改革课题申报通知",
+        "url": "https://physics.nankai.edu.cn/2026/0507/c574a594368/page.htm",
+        "publish_date": "2026-05-07"
+      },
+      {
+        "title": "IYPT中国代表队名单",
+        "url": "https://physics.nankai.edu.cn/2026/0429/c574a594023/page.htm",
+        "publish_date": "2026-04-29"
+      },
+      {
+        "title": "第十八届南开大学物理学术竞赛获奖名单",
+        "url": "https://physics.nankai.edu.cn/2026/0428/c574a593922/page.htm",
+        "publish_date": "2026-04-28"
+      },
+      {
+        "title": "2026年物理科学学院拟接收转专业名单公示",
+        "url": "https://physics.nankai.edu.cn/2026/0421/c574a593447/page.htm",
+        "publish_date": "2026-04-21"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:15:21.249579+00:00"
+  },
+  "P02-page2": {
+    "path": "tests/fixtures/audit/P02-page2.html",
+    "source_id": "P02",
+    "url": "https://physics.nankai.edu.cn/574/list2.htm",
+    "items": [
+      {
+        "title": "物理科学学院2026年转专业笔试以及面试工作安排",
+        "url": "https://physics.nankai.edu.cn/2026/0408/c574a592451/page.htm",
+        "publish_date": "2026-04-08"
+      },
+      {
+        "title": "2026年学院转专业细则公示",
+        "url": "https://physics.nankai.edu.cn/2026/0402/c574a592003/page.htm",
+        "publish_date": "2026-04-02"
+      },
+      {
+        "title": "关于举办第一届天津市大学生物理学术竞赛（TJ-UPT）的通知（第一轮）",
+        "url": "https://physics.nankai.edu.cn/2026/0317/c574a590928/page.htm",
+        "publish_date": "2026-03-17"
+      },
+      {
+        "title": "学院本科专业课助教报名通知",
+        "url": "https://physics.nankai.edu.cn/2026/0302/c574a590138/page.htm",
+        "publish_date": "2026-03-02"
+      },
+      {
+        "title": "大学物理课程助教报名通知（仅含理论课）",
+        "url": "https://physics.nankai.edu.cn/2026/0301/c574a590122/page.htm",
+        "publish_date": "2026-03-01"
+      },
+      {
+        "title": "南开本科生科研成果拓展自旋操控新途径",
+        "url": "https://physics.nankai.edu.cn/2026/0128/c574a589597/page.htm",
+        "publish_date": "2026-01-28"
+      },
+      {
+        "title": "关于对超过最长学习年限且无法取得联系的本科生拟注销学籍的公告",
+        "url": "https://physics.nankai.edu.cn/2025/0925/c574a578451/page.htm",
+        "publish_date": "2025-10-02"
+      },
+      {
+        "title": "关于学院师生开放交流的通知",
+        "url": "https://physics.nankai.edu.cn/2025/0922/c574a578213/page.htm",
+        "publish_date": "2025-09-22"
+      },
+      {
+        "title": "2025年物理科学学院伯苓班（拔尖计划） 录取结果公示",
+        "url": "https://physics.nankai.edu.cn/2025/0915/c574a577612/page.htm",
+        "publish_date": "2025-09-15"
+      },
+      {
+        "title": "南开大学代表队在第十六届中国大学生物理学术竞赛（CUPT）中取得佳绩",
+        "url": "https://physics.nankai.edu.cn/2025/0913/c574a577501/page.htm",
+        "publish_date": "2025-09-13"
+      }
+    ],
+    "site_id": "physics",
+    "fetched_at": "2026-09-05T14:32:11.765522+00:00"
+  }
+}

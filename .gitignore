@@ -1,0 +1,12 @@
+.audit-cache/
+__pycache__/
+.venv/
+.env
+.env.*
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.runtime/
+.deployment/
+state-data/

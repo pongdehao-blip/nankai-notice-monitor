@@ -1,0 +1,403 @@
+{
+  "regex": "/c\\d+a(\\d+)/page\\.htm$",
+  "cross_source_observations": [
+    {
+      "identity": "physics:601108",
+      "observations": [
+        {
+          "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）",
+          "url": "https://physics.nankai.edu.cn/2026/0809/c572a601108/page.htm",
+          "publish_date": "2026-08-09",
+          "source_id": "P01"
+        },
+        {
+          "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）",
+          "url": "https://physics.nankai.edu.cn/2026/0809/c574a601108/page.htm",
+          "publish_date": "2026-08-09",
+          "source_id": "P02"
+        }
+      ]
+    },
+    {
+      "identity": "physics:367014",
+      "observations": [
+        {
+          "title": "【小蓝册】研究生常用办事手册下载",
+          "url": "https://physics.nankai.edu.cn/2021/0526/c576a367014/page.htm",
+          "publish_date": "2021-05-26",
+          "source_id": "P03"
+        },
+        {
+          "title": "【小蓝册】研究生常用办事手册下载",
+          "url": "https://physics.nankai.edu.cn/2021/0526/c25820a367014/page.htm",
+          "publish_date": "2021-05-26",
+          "source_id": "P06"
+        }
+      ]
+    },
+    {
+      "identity": "physics:601184",
+      "observations": [
+        {
+          "title": "物理科学学院2027年接收推荐免试研究生预报名的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0812/c576a601184/page.htm",
+          "publish_date": "2026-08-12",
+          "source_id": "P03"
+        },
+        {
+          "title": "物理科学学院2027年接收推荐免试研究生预报名的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0812/c25820a601184/page.htm",
+          "publish_date": "2026-08-12",
+          "source_id": "P06"
+        },
+        {
+          "title": "物理科学学院2027年接收推荐免试研究生预报名的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0812/c25821a601184/page.htm",
+          "publish_date": "2026-08-12",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:598746",
+      "observations": [
+        {
+          "title": "2026级博士研究生调档函及录取通知书发放说明",
+          "url": "https://physics.nankai.edu.cn/2026/0622/c576a598746/page.htm",
+          "publish_date": "2026-06-22",
+          "source_id": "P03"
+        },
+        {
+          "title": "2026级博士研究生调档函及录取通知书发放说明",
+          "url": "https://physics.nankai.edu.cn/2026/0622/c25821a598746/page.htm",
+          "publish_date": "2026-06-22",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:598511",
+      "observations": [
+        {
+          "title": "关于对2026年拟录取博士研究生函调政治思想情况的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0617/c576a598511/page.htm",
+          "publish_date": "2026-06-17",
+          "source_id": "P03"
+        },
+        {
+          "title": "关于对2026年拟录取博士研究生函调政治思想情况的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0617/c25821a598511/page.htm",
+          "publish_date": "2026-06-17",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:597839",
+      "observations": [
+        {
+          "title": "关于2026年硕士研究生调档函及录取通知书发放时间的说明",
+          "url": "https://physics.nankai.edu.cn/2026/0608/c576a597839/page.htm",
+          "publish_date": "2026-06-08",
+          "source_id": "P03"
+        },
+        {
+          "title": "关于2026年硕士研究生调档函及录取通知书发放时间的说明",
+          "url": "https://physics.nankai.edu.cn/2026/0608/c25820a597839/page.htm",
+          "publish_date": "2026-06-08",
+          "source_id": "P06"
+        }
+      ]
+    },
+    {
+      "identity": "physics:596179",
+      "observations": [
+        {
+          "title": "关于对2026年拟录取硕士研究生函调政治思想情况的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0525/c576a596179/page.htm",
+          "publish_date": "2026-05-25",
+          "source_id": "P03"
+        },
+        {
+          "title": "关于对2026年拟录取硕士研究生函调政治思想情况的通知",
+          "url": "https://physics.nankai.edu.cn/2026/0525/c25820a596179/page.htm",
+          "publish_date": "2026-05-25",
+          "source_id": "P06"
+        }
+      ]
+    },
+    {
+      "identity": "physics:591387",
+      "observations": [
+        {
+          "title": "物理科学学院2026年硕士研究生招生考试复试分数线",
+          "url": "https://physics.nankai.edu.cn/2026/0325/c576a591387/page.htm",
+          "publish_date": "2026-03-25",
+          "source_id": "P03"
+        },
+        {
+          "title": "物理科学学院2026年硕士研究生招生考试复试分数线",
+          "url": "https://physics.nankai.edu.cn/2026/0325/c25820a591387/page.htm",
+          "publish_date": "2026-03-25",
+          "source_id": "P06"
+        }
+      ]
+    },
+    {
+      "identity": "physics:583405",
+      "observations": [
+        {
+          "title": "物理科学学院2026年硕博连读生招生选拔实施细则",
+          "url": "https://physics.nankai.edu.cn/2025/1110/c576a583405/page.htm",
+          "publish_date": "2025-11-10",
+          "source_id": "P03"
+        },
+        {
+          "title": "物理科学学院2026年硕博连读生招生选拔实施细则",
+          "url": "https://physics.nankai.edu.cn/2025/1110/c25821a583405/page.htm",
+          "publish_date": "2025-12-16",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:582425",
+      "observations": [
+        {
+          "title": "物理科学学院2026年“申请-考核”制博士研究生招生选拔实施细则",
+          "url": "https://physics.nankai.edu.cn/2025/1029/c576a582425/page.htm",
+          "publish_date": "2025-10-29",
+          "source_id": "P03"
+        },
+        {
+          "title": "物理科学学院2026年“申请-考核”制博士研究生招生选拔实施细则",
+          "url": "https://physics.nankai.edu.cn/2025/1029/c25821a582425/page.htm",
+          "publish_date": "2025-10-29",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:578151",
+      "observations": [
+        {
+          "title": "物理科学学院关于接收2026年推荐免试（含直博）生工作的通知",
+          "url": "https://physics.nankai.edu.cn/2025/0921/c576a578151/page.htm",
+          "publish_date": "2025-09-21",
+          "source_id": "P03"
+        },
+        {
+          "title": "物理科学学院关于接收2026年推荐免试（含直博）生工作的通知",
+          "url": "https://physics.nankai.edu.cn/2025/0921/c25820a578151/page.htm",
+          "publish_date": "2025-09-21",
+          "source_id": "P06"
+        },
+        {
+          "title": "物理科学学院关于接收2026年推荐免试（含直博）生工作的通知",
+          "url": "https://physics.nankai.edu.cn/2025/0921/c25821a578151/page.htm",
+          "publish_date": "2025-09-21",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:571255",
+      "observations": [
+        {
+          "title": "2025级新生党员组织关系转接说明",
+          "url": "https://physics.nankai.edu.cn/2025/0520/c25820a571255/page.htm",
+          "publish_date": "2025-05-20",
+          "source_id": "P06"
+        },
+        {
+          "title": "2025级新生党员组织关系转接说明",
+          "url": "https://physics.nankai.edu.cn/2025/0520/c25821a571255/page.htm",
+          "publish_date": "2025-05-20",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:571253",
+      "observations": [
+        {
+          "title": "关于接收2025级研究生新生团组织关系转接的说明",
+          "url": "https://physics.nankai.edu.cn/2025/0520/c25820a571253/page.htm",
+          "publish_date": "2025-05-20",
+          "source_id": "P06"
+        },
+        {
+          "title": "关于接收2025级研究生新生团组织关系转接的说明",
+          "url": "https://physics.nankai.edu.cn/2025/0520/c25821a571253/page.htm",
+          "publish_date": "2025-05-20",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "physics:517072",
+      "observations": [
+        {
+          "title": "物理科学学院2024年强基生转段接收为研究生实施细则",
+          "url": "https://physics.nankai.edu.cn/2023/0803/c25820a517072/page.htm",
+          "publish_date": "2023-08-03",
+          "source_id": "P06"
+        },
+        {
+          "title": "物理科学学院2024年强基生转段接收为研究生实施细则",
+          "url": "https://physics.nankai.edu.cn/2023/0803/c25821a517072/page.htm",
+          "publish_date": "2023-08-03",
+          "source_id": "P07"
+        }
+      ]
+    },
+    {
+      "identity": "jwc:601256",
+      "observations": [
+        {
+          "title": "南开大学2026-2027学年第一学期本科生选课通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0817/c35436a601256/page.htm",
+          "publish_date": "2026-08-17",
+          "source_id": "J01"
+        },
+        {
+          "title": "南开大学2026-2027学年第一学期本科生选课通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0817/c35933a601256/page.htm",
+          "publish_date": "2026-08-17",
+          "source_id": "J15"
+        }
+      ]
+    },
+    {
+      "identity": "jwc:601586",
+      "observations": [
+        {
+          "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生工作的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0829/c35436a601586/page.htm",
+          "publish_date": "2026-08-29",
+          "source_id": "J01"
+        },
+        {
+          "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生工作的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0829/c36067a601586/page.htm",
+          "publish_date": "2026-08-29",
+          "source_id": "J05"
+        }
+      ]
+    },
+    {
+      "identity": "jwc:601541",
+      "observations": [
+        {
+          "title": "关于开展2026-2027学年第一学期本科课程助教工作的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0828/c35436a601541/page.htm",
+          "publish_date": "2026-08-28",
+          "source_id": "J01"
+        },
+        {
+          "title": "关于开展2026-2027学年第一学期本科课程助教工作的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0828/c35937a601541/page.htm",
+          "publish_date": "2026-08-28",
+          "source_id": "J19"
+        }
+      ]
+    },
+    {
+      "identity": "jwc:601177",
+      "observations": [
+        {
+          "title": "关于选聘南开大学伯苓学院2026级班导师的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0812/c35436a601177/page.htm",
+          "publish_date": "2026-08-12",
+          "source_id": "J01"
+        },
+        {
+          "title": "关于选聘南开大学伯苓学院2026级班导师的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0812/c35430a601177/page.htm",
+          "publish_date": "2026-08-12",
+          "source_id": "J25"
+        }
+      ]
+    },
+    {
+      "identity": "jwc:599581",
+      "observations": [
+        {
+          "title": "南开大学推荐参评2026年度天津市普通高等学校本科优秀毕业设计（论文）名单公示",
+          "url": "https://jwc.nankai.edu.cn/2026/0703/c35436a599581/page.htm",
+          "publish_date": "2026-07-03",
+          "source_id": "J01"
+        },
+        {
+          "title": "南开大学推荐参评2026年度天津市普通高等学校本科优秀毕业设计（论文）名单公示",
+          "url": "https://jwc.nankai.edu.cn/2026/0703/c36069a599581/page.htm",
+          "publish_date": "2026-07-03",
+          "source_id": "J06"
+        }
+      ]
+    },
+    {
+      "identity": "jwc:599246",
+      "observations": [
+        {
+          "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生准备工作的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0629/c35436a599246/page.htm",
+          "publish_date": "2026-06-29",
+          "source_id": "J01"
+        },
+        {
+          "title": "关于做好2027年推荐优秀应届本科毕业生免试攻读研究生准备工作的通知",
+          "url": "https://jwc.nankai.edu.cn/2026/0629/c36067a599246/page.htm",
+          "publish_date": "2026-06-29",
+          "source_id": "J05"
+        }
+      ]
+    }
+  ],
+  "title_metadata_probes": [
+    {
+      "site_id": "physics",
+      "url": "https://physics.nankai.edu.cn/2026/0809/c572a601108/page.htm",
+      "fetched_at": "2026-09-05T14:51:25.318803+00:00",
+      "http_status": 200,
+      "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）"
+    },
+    {
+      "site_id": "physics",
+      "url": "https://physics.nankai.edu.cn/_t12/2026/0809/c572a601108/page.htm",
+      "fetched_at": "2026-09-05T14:51:26.058031+00:00",
+      "http_status": 200,
+      "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）"
+    },
+    {
+      "site_id": "physics",
+      "url": "https://physics.nankai.edu.cn/2026/0809/c574a601108/page.htm",
+      "fetched_at": "2026-09-05T14:51:26.809634+00:00",
+      "http_status": 200,
+      "title": "物理科学学院物理伯苓、量子信息项目班介绍 （2026年）"
+    },
+    {
+      "site_id": "jwc",
+      "url": "https://jwc.nankai.edu.cn/2026/0817/c35436a601256/page.htm",
+      "fetched_at": "2026-09-05T14:51:27.574142+00:00",
+      "http_status": 200,
+      "title": "南开大学2026-2027学年第一学期本科生选课通知"
+    },
+    {
+      "site_id": "jwc",
+      "url": "https://jwc.nankai.edu.cn/_t12/2026/0817/c35436a601256/page.htm",
+      "fetched_at": "2026-09-05T14:51:28.337132+00:00",
+      "http_status": 302,
+      "title": null,
+      "error": "HTTPError"
+    },
+    {
+      "site_id": "jwc",
+      "url": "https://jwc.nankai.edu.cn/2026/0817/c35933a601256/page.htm",
+      "fetched_at": "2026-09-05T14:51:29.080628+00:00",
+      "http_status": 200,
+      "title": "南开大学2026-2027学年第一学期本科生选课通知"
+    }
+  ],
+  "scope": "Title metadata only. No article-body or attachment analysis. Template equivalence limited to tested examples."
+}
