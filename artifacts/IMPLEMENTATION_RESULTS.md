@@ -15,4 +15,12 @@
 
 目标仓库：https://github.com/pongdehao-blip/nankai-notice-monitor
 
-尚需确认仓库工作流运行结果、FEISHU_WEBHOOK Secret 已配置、首次生产基线和下一次 17:42 心跳。验收项 B16.7/B16.8 未完成前，不声明完整线上 v1 已验收。
+2026-09-06 已完成生产验证：
+
+- 发布提交：`6fbb51f2650f8f39cf65d961a5d8d8d199604a08`；[Offline acceptance 通过](https://github.com/pongdehao-blip/nankai-notice-monitor/actions/runs/34020080675)。
+- 用户确认已配置 FEISHU_WEBHOOK 和机器人关键词；仅核验 Secret 名称，未读取密钥。
+- [首次生产基线成功](https://github.com/pongdehao-blip/nankai-notice-monitor/actions/runs/34022915737)：47/47 来源 initialized=true，715 条历史通知，events=0，来源异常为 0。
+- [真实日报成功](https://github.com/pongdehao-blip/nankai-notice-monitor/actions/runs/34023101252)：北京时间约 16:54，delivery=sent，来源异常为 0；飞书接口确认成功，最终状态提交为 `94b4f1ef622765696b0e7ad200352493d9f0b580`。
+- 定时工作流处于 active。当天已成功投递，因此 9 月 6 日 17:42 仍采集但跳过重复日报；下一次应发送的定时日报为 9 月 7 日 17:42（GitHub 调度可能延迟）。
+
+尚待用户确认群内消息可见，以及实际定时触发后的心跳到达。未观察到下一次定时投递前，不声明定时端到端验收全部完成。
