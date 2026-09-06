@@ -1,5 +1,7 @@
 # Nankai Notice Watch v1
 
+日常维护入口：[一页操作清单](MAINTENANCE_CHECKLIST.md)。
+
 监测南开大学物理科学学院、教务部、招投标管理办公室的公开通知列表，每 3 小时采集，北京时间 **17:42 先采集再发送飞书日报**。无新增时仍发送心跳；错误只进入日报，不做实时推送。
 
 生产来源表是 [config/sources.yaml](config/sources.yaml)：43 个基线来源加上经用户批准的 4 个候选，共 **47 个来源**。
