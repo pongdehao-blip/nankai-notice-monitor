@@ -20023,6 +20023,11 @@
       ]
     }
   ],
-  "delivery": {},
+  "delivery": {
+    "last_success_date": "2026-09-06",
+    "last_success_at": "2026-09-06T08:53:29.289511+00:00",
+    "last_error": null,
+    "last_attempt_at": "2026-09-06T08:53:29.289511+00:00"
+  },
   "incidents": {}
 }
