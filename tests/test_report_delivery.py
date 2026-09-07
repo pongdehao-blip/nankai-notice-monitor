@@ -63,7 +63,7 @@ def test_partial_delivery_keeps_pending_then_retry(source,tmp_path):
     client.send.side_effect=verify_pending_before_send
     daily(state,[source],f,path,AT,client)
     assert all(e['reported_at']==AT for e in load_state(path)['events'].values())
-    assert daily(state,[source],f,path,AT,client)[2]=='already_sent'
+    assert daily(state,[source],f,path,AT,client)[2]=='no_changes'
 
 def test_checkpoint_failure_prevents_delivery(source,tmp_path):
     state=empty_state()

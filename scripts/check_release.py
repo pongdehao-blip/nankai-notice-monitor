@@ -20,14 +20,20 @@ def main():
     sources=load_sources(ROOT/'config/sources.yaml')
     assert len(sources)==47
     workflows={p.stem:yaml.safe_load(p.read_text(encoding='utf-8')) for p in (ROOT/'.github/workflows').glob('*.yml')}
-    for name,hours in [('crawl','2,5,8,11,14,20,23'),('daily-report','17')]:
+    for name in ('crawl','daily-report'):
         w=workflows[name]
         triggers=w.get('on',w.get(True)) # YAML 1.1 parsers interpret `on` as Boolean.
-        assert triggers['schedule']==[{'cron':f'42 {hours} * * *','timezone':'Asia/Shanghai'}]
+        if name=='crawl':
+            assert triggers['schedule']==[{'cron':'42 2,5,8,11,14,17,20,23 * * *','timezone':'Asia/Shanghai'}]
+        else:
+            assert 'schedule' not in triggers
         assert 'workflow_dispatch' in triggers
         assert w['permissions']=={'contents':'write'}
         assert w['concurrency']=={'group':'nankai-notice-state','cancel-in-progress':False}
         assert all(job['runs-on']=='ubuntu-latest' for job in w['jobs'].values())
+        delivery_steps=[step for job in w['jobs'].values() for step in job['steps'] if step.get('run')=='python scripts/run_action.py watch']
+        assert len(delivery_steps)==1
+        assert delivery_steps[0]['env']['FEISHU_WEBHOOK']=='${{ secrets.FEISHU_WEBHOOK }}'
     patterns=[r'https://open\.feishu\.cn/open-apis/bot/v2/hook/[A-Za-z0-9-]{20,}',r'gh[pousr]_[A-Za-z0-9]{20,}',r'github_pat_[A-Za-z0-9_]{20,}',r'(?i)Authorization:\s*(?:Bearer|Basic)\s+[A-Za-z0-9/+_=.-]{12,}',r'(?i)(?:Cookie|Set-Cookie):\s*[^\s]{12,}']
     files=release_files()
     for p in files:

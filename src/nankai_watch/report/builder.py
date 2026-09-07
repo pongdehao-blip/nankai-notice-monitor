@@ -55,9 +55,10 @@ def build_report(state,sources,at,max_bytes=18000):
     for event in pending:
         grouped[event['notice_id']].append(event)
     names={s.source_id:s.name for s in sources}
-    lines=[f'本次待报：{len(grouped)} 条通知，{len(pending)} 个变更记录。']
+    stamp=datetime.fromisoformat(at).astimezone(ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+    lines=[f'本轮采集开始：{stamp}（北京时间）',f'本次待报：{len(grouped)} 条通知，{len(pending)} 个变更记录。']
     if not pending:
-        lines.append('当前无新增或更新通知，监测心跳正常执行。')
+        lines.append('当前无新增或更新通知。'+('本次报告采集异常或此前未送达的异常记录。' if state['incidents'] else '本次为预览或显式手动心跳。'))
     for site,label in SITE_LABELS.items():
         selected=[(key,events) for key,events in grouped.items() if state['notices'][key]['site_id']==site]
         if not selected:

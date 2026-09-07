@@ -1,8 +1,5 @@
-name: Daily Feishu report
+name: Manual collect and notify
 on:
-  schedule:
-    - cron: '42 17 * * *'
-      timezone: Asia/Shanghai
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,7 +20,7 @@ jobs:
       - name: Crawl, checkpoint and deliver daily report
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: python scripts/run_action.py daily
+        run: python scripts/run_action.py watch
       - name: Retain public state for recovery
         if: failure()
         uses: actions/upload-artifact@v4

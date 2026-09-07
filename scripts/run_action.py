@@ -10,7 +10,7 @@ from nankai_watch.models import utc_now,WatchError
 from nankai_watch.state import state_lock,load_state,save_state
 from nankai_watch.crawler import crawl
 from nankai_watch.fetcher import Fetcher
-from nankai_watch.service import daily
+from nankai_watch.service import watch
 from nankai_watch.report.feishu import FeishuClient
 from nankai_watch.report.builder import split_report
 from state_branch import prepare,persist
@@ -18,7 +18,7 @@ from state_branch import prepare,persist
 
 def main():
     p=argparse.ArgumentParser()
-    p.add_argument('command',choices=['crawl','daily'])
+    p.add_argument('command',choices=['crawl','watch','daily'])
     args=p.parse_args()
     path=None
     fetcher=None
@@ -39,7 +39,7 @@ def main():
                 if os.environ.get('FEISHU_WEBHOOK'):
                     client=FeishuClient(os.environ['FEISHU_WEBHOOK'])
                 try:
-                    run,report,outcome=daily(state,sources,fetcher,path,utc_now(),client=client,checkpoint=lambda:persist(path.parent))
+                    run,report,outcome=watch(state,sources,fetcher,path,utc_now(),client=client,checkpoint=lambda:persist(path.parent))
                 finally:
                     # On partial delivery failure, pending events and health survive.
                     if path.is_file():
@@ -48,7 +48,7 @@ def main():
             print(json.dumps(dict(command=args.command,delivery=outcome,source_failures=failures,notices=len(state['notices'])),ensure_ascii=False))
             return 2 if failures else 0
     except WatchError as exc:
-        if exc.status=='STATE_ERROR' and state is None and args.command=='daily' and os.environ.get('FEISHU_WEBHOOK'):
+        if exc.status=='STATE_ERROR' and state is None and args.command in ('watch','daily') and os.environ.get('FEISHU_WEBHOOK'):
             try:
                 client=client or FeishuClient(os.environ['FEISHU_WEBHOOK'])
                 day=datetime.now(ZoneInfo('Asia/Shanghai')).date().isoformat()

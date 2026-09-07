@@ -4,7 +4,7 @@ from .report.builder import build_report
 from .models import WatchError
 
 
-def daily(state,sources,fetcher,state_path,at,client=None,dry_run=False,max_pages=3,force_report=False,checkpoint=None):
+def watch(state,sources,fetcher,state_path,at,client=None,dry_run=False,max_pages=3,force_report=False,checkpoint=None):
     run=crawl(state,sources,fetcher,max_pages=max_pages,at=at)
     # Durable capture before any network delivery, including missing webhook failure.
     save_state(state_path,state)
@@ -13,8 +13,9 @@ def daily(state,sources,fetcher,state_path,at,client=None,dry_run=False,max_page
     report=build_report(state,sources,at)
     if dry_run:
         return run,report,'dry_run'
-    if not force_report and state['delivery'].get('last_success_date')==report.day:
-        return run,report,'already_sent'
+    # Retry persisted events/incidents even when this crawl discovers nothing new.
+    if not force_report and not report.event_ids and not state['incidents']:
+        return run,report,'no_changes'
     try:
         if client is None:
             raise WatchError('DELIVERY_ERROR','FEISHU_WEBHOOK is not configured')
@@ -31,3 +32,7 @@ def daily(state,sources,fetcher,state_path,at,client=None,dry_run=False,max_page
     state['delivery'].update(last_success_date=report.day,last_success_at=at,last_error=None,last_attempt_at=at)
     save_state(state_path,state)
     return run,report,'sent'
+
+
+# Compatibility for existing local commands; daily now uses event-based delivery.
+daily=watch
