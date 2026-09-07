@@ -15398,7 +15398,7 @@
       "notice_id": "nkzbb:url:f97fdeb764ad4040f563ec6b0c9213a520be5f4ad1b1270ccd4656d2b90761d4",
       "type": "NEW",
       "detected_at": "2026-09-07T17:54:48.313289+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-07T17:54:48.313289+00:00",
       "title": "南开大学津南校区新物质创造大楼项目施工（NK2026G029）评标结果公示",
       "publish_date": "2026-09-07"
     }
@@ -23187,10 +23187,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-07",
-    "last_success_at": "2026-09-07T10:36:07.510483+00:00",
+    "last_success_date": "2026-09-08",
+    "last_success_at": "2026-09-07T17:54:48.313289+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-07T10:36:07.510483+00:00"
+    "last_attempt_at": "2026-09-07T17:54:48.313289+00:00"
   },
   "incidents": {}
 }
