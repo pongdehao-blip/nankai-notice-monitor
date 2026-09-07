@@ -15368,7 +15368,7 @@
       "notice_id": "nkzbb:url:6709106de57b95ce32a0ea5993fa468179732ef64d570e33a979c3eb0a262808",
       "type": "NEW",
       "detected_at": "2026-09-07T10:36:07.510483+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-07T10:36:07.510483+00:00",
       "title": "南开大学国有资产管理办公室杨柳青A地块试验田改造项目（NK2026G040）竞争性磋商公告",
       "publish_date": "2026-09-07"
     }
@@ -22774,9 +22774,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-07",
-    "last_success_at": "2026-09-07T10:11:31.862024+00:00",
+    "last_success_at": "2026-09-07T10:36:07.510483+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-07T10:11:31.862024+00:00"
+    "last_attempt_at": "2026-09-07T10:36:07.510483+00:00"
   },
   "incidents": {}
 }
