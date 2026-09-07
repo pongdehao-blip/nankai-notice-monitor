@@ -1,5 +1,17 @@
 # Phase B 实现与验收记录
 
+## 2026-09-07 按需推送版本
+
+本节为当前版本验收；下方固定日报记录仅保留历史背景。用户确认的规则见 [NOTIFICATION_POLICY.md](../config/NOTIFICATION_POLICY.md)。
+
+- 部署提交 `75de8cb406d3266a65630c9155417ec0c6e8ca22`：每 3 小时采集后按待报 NEW、UPDATED 或采集异常发送，凌晨照常执行；无待报内容时安静。取消固定日报及每日一次限制。
+- 本地 64 项测试通过，新增覆盖同日多批、夜间更新、日期单独更新、无公告变化时故障提醒、异常发送失败后恢复补报、旧版每日投递日期兼容，以及无新增发现时重试积压。
+- [线上自动验收通过](https://github.com/pongdehao-blip/nankai-notice-monitor/actions/runs/34112203196)。
+- [首次实际运行通过](https://github.com/pongdehao-blip/nankai-notice-monitor/actions/runs/34112283346)：北京时间约 18:37，command=watch，delivery=sent，source_failures=0，notices=717。当天 18:12 旧版已成功投递，本次仍成功发送，验证同日后续批次不受旧日期限制。
+- 使用原 state 分支与机器人 Secret，未重建基线。固定日报的一次性 Codex 验收跟进已暂停；不增加长期检查或定期备份。GitHub 的计划触发延迟仍属现有平台限制。
+
+## 旧版固定日报验收历史
+
 本地实现已覆盖批准的 47 个来源；J21 保持 `/ddpj/list.htm`，四个批准空栏目 allow_empty=true，四个新增候选补充启用，`/533/` 未启用。
 
 ## 已验证
