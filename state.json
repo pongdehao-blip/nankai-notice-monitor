@@ -15338,7 +15338,7 @@
       "notice_id": "physics:article:601942",
       "type": "NEW",
       "detected_at": "2026-09-07T05:11:49.489768+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-07T10:11:31.862024+00:00",
       "title": "关于开展2026-2027学年度“思政后备计划”训练营选聘和2026年下半年“兼职辅导员” 选聘工作的通知",
       "publish_date": "2026-09-07"
     }
@@ -22359,10 +22359,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-06",
-    "last_success_at": "2026-09-06T08:53:29.289511+00:00",
+    "last_success_date": "2026-09-07",
+    "last_success_at": "2026-09-07T10:11:31.862024+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-06T08:53:29.289511+00:00"
+    "last_attempt_at": "2026-09-07T10:11:31.862024+00:00"
   },
   "incidents": {}
 }
