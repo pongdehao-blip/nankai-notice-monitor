@@ -15456,7 +15456,7 @@
       "notice_id": "physics:article:602006",
       "type": "NEW",
       "detected_at": "2026-09-08T05:14:06.631087+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T05:14:06.631087+00:00",
       "title": "南开团队在转角石墨烯光位移光谱研究中取得了重要进展",
       "publish_date": "2026-09-08"
     },
@@ -15465,7 +15465,7 @@
       "notice_id": "nkzbb:url:e37cc5a0da874f0437220ba3926b30ae55d328ce885d2c3d5e5d4cb35d8f5b6c",
       "type": "NEW",
       "detected_at": "2026-09-08T05:14:06.631087+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T05:14:06.631087+00:00",
       "title": "南开大学智能光子研究院前沿交叉学科中心家具采购项目（NK2026H071N）采购公告",
       "publish_date": "2026-09-08"
     }
@@ -24023,9 +24023,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-08",
-    "last_success_at": "2026-09-07T17:54:48.313289+00:00",
+    "last_success_at": "2026-09-08T05:14:06.631087+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-07T17:54:48.313289+00:00"
+    "last_attempt_at": "2026-09-08T05:14:06.631087+00:00"
   },
   "incidents": {}
 }
