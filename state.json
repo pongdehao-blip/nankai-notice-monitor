@@ -15593,7 +15593,7 @@
       "notice_id": "physics:article:602097",
       "type": "NEW",
       "detected_at": "2026-09-08T11:44:12.844384+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T11:44:12.844384+00:00",
       "title": "特殊学术专长鉴定结果公示",
       "publish_date": "2026-09-08"
     },
@@ -15602,7 +15602,7 @@
       "notice_id": "physics:article:601185",
       "type": "NEW",
       "detected_at": "2026-09-08T11:44:12.844384+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T11:44:12.844384+00:00",
       "title": "物理科学学院2027年接收推免生（含直博生）外语水平及本科专业范围要求",
       "publish_date": "2026-09-08"
     },
@@ -15611,7 +15611,7 @@
       "notice_id": "nkzbb:url:35911f0b5b9a71dddac225629bcd46b3b86535e7904984952a6ea154bec8e6cf",
       "type": "NEW",
       "detected_at": "2026-09-08T11:44:12.844384+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T11:44:12.844384+00:00",
       "title": "南开大学金融学院CRSP数据库服务采购项目(NK2026F068)单一来源采购公告",
       "publish_date": "2026-09-08"
     },
@@ -15620,7 +15620,7 @@
       "notice_id": "nkzbb:url:7d43bd28ddcf0634559b17f324f0a4336f32b2d08617aa75ae0fe035878c20b5",
       "type": "NEW",
       "detected_at": "2026-09-08T11:44:12.844384+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T11:44:12.844384+00:00",
       "title": "南开大学生命科学学院显微互动教学系统采购项目（NK2026H068N）成交公告",
       "publish_date": "2026-09-08"
     },
@@ -15629,7 +15629,7 @@
       "notice_id": "nkzbb:url:2da8baa8946b7c27a6dca5c4a38009599bc34f311c9be07d9fddf93602121796",
       "type": "NEW",
       "detected_at": "2026-09-08T11:44:12.844384+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-08T11:44:12.844384+00:00",
       "title": "南开大学金融学院电子班牌信息发布系统采购项目（NK2026H069N）结果公告",
       "publish_date": "2026-09-08"
     }
@@ -24571,9 +24571,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-08",
-    "last_success_at": "2026-09-08T05:14:06.631087+00:00",
+    "last_success_at": "2026-09-08T11:44:12.844384+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-08T05:14:06.631087+00:00"
+    "last_attempt_at": "2026-09-08T11:44:12.844384+00:00"
   },
   "incidents": {}
 }
