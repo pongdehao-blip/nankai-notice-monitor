@@ -15694,7 +15694,7 @@
       "notice_id": "physics:article:602134",
       "type": "NEW",
       "detected_at": "2026-09-09T04:35:14.898531+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-09T04:35:14.898531+00:00",
       "title": "学院推免综合排名及拟推荐名单公示",
       "publish_date": "2026-09-09"
     },
@@ -15703,7 +15703,7 @@
       "notice_id": "physics:article:602099",
       "type": "NEW",
       "detected_at": "2026-09-09T04:35:14.898531+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-09T04:35:14.898531+00:00",
       "title": "2027年推免预报名入围面试名单",
       "publish_date": "2026-09-09"
     }
@@ -26180,10 +26180,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-08",
-    "last_success_at": "2026-09-08T11:44:12.844384+00:00",
+    "last_success_date": "2026-09-09",
+    "last_success_at": "2026-09-09T04:35:14.898531+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-08T11:44:12.844384+00:00"
+    "last_attempt_at": "2026-09-09T04:35:14.898531+00:00"
   },
   "incidents": {}
 }
