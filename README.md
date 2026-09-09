@@ -2,7 +2,7 @@
 
 日常维护入口：[一页操作清单](MAINTENANCE_CHECKLIST.md)。
 
-监测南开大学物理科学学院、教务部、招投标管理办公室的公开通知列表，每 3 小时采集，**每轮结束后按需推送 NEW 新增、UPDATED 更新或采集异常**，凌晨同样发送。无待报变化且无异常时保持安静。
+监测南开大学物理科学学院、教务部、招投标管理办公室的公开通知列表，每 1 小时采集，**每轮结束后按需推送 NEW 新增、UPDATED 更新或采集异常**，凌晨同样发送。无待报变化且无异常时保持安静。
 
 生产来源表是 [config/sources.yaml](config/sources.yaml)：43 个基线来源加上经用户批准的 4 个候选，共 **47 个来源**。
 J21 保留 `/ddpj/list.htm`，只允许 J09/J10/J13/J14 当前为空；`/533/` 和曝光台未启用。
@@ -69,7 +69,7 @@ py -m venv .venv
 
 ## 定时与运行检查
 
-北京时间计划采集时间：02:42、05:42、08:42、11:42、14:42、17:42、20:42、23:42。每轮采集后按需发送，全天执行；`daily-report.yml` 仅保留手动入口，取消独立 17:42 日报。
+北京时间计划采集时间：每天 00:42 至 23:42，每小时的第 42 分钟。每轮采集后按需发送，全天执行；`daily-report.yml` 仅保留手动入口，取消独立 17:42 日报。
 工作流使用 `timezone: Asia/Shanghai`，与当前 [GitHub schedule 文档](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule)一致。
 
 GitHub 调度可能延迟。公开仓库长期无活动时，定时工作流可能自动停用；检查 Actions 是否显示 disabled，点击 **Enable workflow** 后手动运行一次，确认执行结果恢复。
