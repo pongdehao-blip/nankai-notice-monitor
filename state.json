@@ -15784,7 +15784,7 @@
       "notice_id": "physics:article:602306",
       "type": "NEW",
       "detected_at": "2026-09-10T11:48:15.917168+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-10T11:48:15.917168+00:00",
       "title": "学院推免综合排名及拟推荐名单（递补）公示",
       "publish_date": "2026-09-10"
     },
@@ -15793,7 +15793,7 @@
       "notice_id": "nkzbb:url:5e8c82428985186fc3e39f53a7abaaf2f5b2b62250beeeb1df01345a2fef69c4",
       "type": "NEW",
       "detected_at": "2026-09-10T11:48:15.917168+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-10T11:48:15.917168+00:00",
       "title": "南开大学电子信息与光学工程学院混合信号数字荧光示波器采购项目（NK2026H075N）采购公告",
       "publish_date": "2026-09-10"
     }
@@ -29343,9 +29343,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-10",
-    "last_success_at": "2026-09-10T01:26:22.810011+00:00",
+    "last_success_at": "2026-09-10T11:48:15.917168+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-10T01:26:22.810011+00:00"
+    "last_attempt_at": "2026-09-10T11:48:15.917168+00:00"
   },
   "incidents": {}
 }
