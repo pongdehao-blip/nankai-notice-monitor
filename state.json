@@ -16005,7 +16005,7 @@
       "notice_id": "physics:article:602345",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "物理科学学院、泰达应用物理研究院关于做好南开大学2025-2026学年度研究生国家奖学金评选的通知",
       "publish_date": "2026-09-11"
     },
@@ -16014,7 +16014,7 @@
       "notice_id": "physics:article:602351",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "关于第二届“南开大学物理科学学院、泰达应用物理研究院忠道奖学金”评选工作的通知",
       "publish_date": "2026-09-11"
     },
@@ -16023,7 +16023,7 @@
       "notice_id": "physics:article:602356",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "物理科学学院关于做好南开大学2025-2026学年度研究生专项奖学金评选的通知",
       "publish_date": "2026-09-11"
     },
@@ -16032,7 +16032,7 @@
       "notice_id": "physics:article:602336",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "2027年推免预报名入围面试递补名单",
       "publish_date": "2026-09-11"
     },
@@ -16041,7 +16041,7 @@
       "notice_id": "jwc:article:602344",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "关于2026级本科生选课正选阶段放课时间调整的通知",
       "publish_date": "2026-09-11"
     },
@@ -16050,7 +16050,7 @@
       "notice_id": "jwc:article:602350",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "关于启动南开大学2026-2027学年第一学期本科教学督导工作的通知",
       "publish_date": "2026-09-11"
     },
@@ -16059,7 +16059,7 @@
       "notice_id": "jwc:article:602352",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "关于开展2026-2027学年第一学期本科课堂教学质量评价的通知",
       "publish_date": "2026-09-11"
     },
@@ -16068,7 +16068,7 @@
       "notice_id": "jwc:article:602377",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "关于组织青年教师参加南开大学2026 年本科教学观摩活动的通知",
       "publish_date": "2026-09-11"
     },
@@ -16077,7 +16077,7 @@
       "notice_id": "nkzbb:url:675cd265f1191fd52b534d12fa53c7ca2af1a28562ec17b60004f59d725e3ac3",
       "type": "NEW",
       "detected_at": "2026-09-11T05:13:57.125457+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T05:13:57.125457+00:00",
       "title": "南开大学陈省身数学研究所外文原版期刊采购项目(NK2026H036W)中标公告",
       "publish_date": "2026-09-11"
     }
@@ -31546,10 +31546,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-10",
-    "last_success_at": "2026-09-10T11:48:15.917168+00:00",
+    "last_success_date": "2026-09-11",
+    "last_success_at": "2026-09-11T05:13:57.125457+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-10T11:48:15.917168+00:00"
+    "last_attempt_at": "2026-09-11T05:13:57.125457+00:00"
   },
   "incidents": {}
 }
