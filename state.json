@@ -16274,7 +16274,7 @@
       "notice_id": "physics:article:602437",
       "type": "NEW",
       "detected_at": "2026-09-11T14:36:47.458718+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T14:36:47.458718+00:00",
       "title": "物理科学学院关于做好南开大学2025-2026学年度本科生各类奖助学金评选工作的通知",
       "publish_date": "2026-09-11"
     },
@@ -16283,7 +16283,7 @@
       "notice_id": "physics:article:602438",
       "type": "NEW",
       "detected_at": "2026-09-11T14:36:47.458718+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T14:36:47.458718+00:00",
       "title": "2025-2026学年度物理科学学院本科生比亚迪奖学金评选",
       "publish_date": "2026-09-11"
     },
@@ -16292,7 +16292,7 @@
       "notice_id": "nkzbb:url:0041017e43947fb57bd22c7b683cc4f6b66dcd06e0c929542e900040009c13be",
       "type": "NEW",
       "detected_at": "2026-09-11T14:36:47.458718+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T14:36:47.458718+00:00",
       "title": "南开大学计算机学院大模型一体机采购项目（NK2026H072N）成交公告",
       "publish_date": "2026-09-11"
     },
@@ -16301,7 +16301,7 @@
       "notice_id": "nkzbb:url:ff114ed75183bf99c22cb788ff5053b1a4c23c852ceecc5fa1a5e37ccf4f44da",
       "type": "NEW",
       "detected_at": "2026-09-11T14:36:47.458718+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T14:36:47.458718+00:00",
       "title": "南开大学津南校区新物质创造大楼项目施工（NK2026G029）定标结果公示",
       "publish_date": "2026-09-11"
     }
@@ -32539,9 +32539,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-11",
-    "last_success_at": "2026-09-11T09:59:36.317298+00:00",
+    "last_success_at": "2026-09-11T14:36:47.458718+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-11T09:59:36.317298+00:00"
+    "last_attempt_at": "2026-09-11T14:36:47.458718+00:00"
   },
   "incidents": {}
 }
