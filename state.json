@@ -16163,7 +16163,7 @@
       "notice_id": "physics:article:602397",
       "type": "NEW",
       "detected_at": "2026-09-11T09:59:36.317298+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T09:59:36.317298+00:00",
       "title": "物理科学学院推免预报名面试须知",
       "publish_date": "2026-09-11"
     },
@@ -16172,7 +16172,7 @@
       "notice_id": "nkzbb:url:d39157a8392aef1a1156b2fce45d5cec14726f629c4ca60a67e689800a32b214",
       "type": "NEW",
       "detected_at": "2026-09-11T09:59:36.317298+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T09:59:36.317298+00:00",
       "title": "南开大学泰达学院食堂经营项目（NK2026F015L）公开招标公告",
       "publish_date": "2026-09-11"
     },
@@ -16181,7 +16181,7 @@
       "notice_id": "nkzbb:url:4acdea6ea3de35613adc94ec1a368ab8cd09228715c8e98f7061e74a35f92a39",
       "type": "NEW",
       "detected_at": "2026-09-11T09:59:36.317298+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-11T09:59:36.317298+00:00",
       "title": "南开大学基建保障处八里台校区学一食堂南侧小树林管线迁移工程采购项目（2026年第117批）",
       "publish_date": "2026-09-11"
     }
@@ -32035,9 +32035,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-11",
-    "last_success_at": "2026-09-11T05:13:57.125457+00:00",
+    "last_success_at": "2026-09-11T09:59:36.317298+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-11T05:13:57.125457+00:00"
+    "last_attempt_at": "2026-09-11T09:59:36.317298+00:00"
   },
   "incidents": {}
 }
