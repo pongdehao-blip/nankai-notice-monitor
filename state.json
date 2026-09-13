@@ -16331,7 +16331,7 @@
       "notice_id": "nkzbb:url:a742569ef7a1d458463b46678cbd20d48f17e7c72c742d0a630f8ca22533aea0",
       "type": "NEW",
       "detected_at": "2026-09-13T12:50:27.072668+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-13T12:50:27.072668+00:00",
       "title": "南开大学津南校区化学大楼施工（NK2026G030）评标结果公示",
       "publish_date": "2026-09-13"
     }
@@ -37176,10 +37176,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-11",
-    "last_success_at": "2026-09-11T14:36:47.458718+00:00",
+    "last_success_date": "2026-09-13",
+    "last_success_at": "2026-09-13T12:50:27.072668+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-11T14:36:47.458718+00:00"
+    "last_attempt_at": "2026-09-13T12:50:27.072668+00:00"
   },
   "incidents": {}
 }
