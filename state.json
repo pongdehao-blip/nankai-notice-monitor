@@ -16466,7 +16466,7 @@
       "notice_id": "physics:article:602558",
       "type": "NEW",
       "detected_at": "2026-09-14T10:57:44.326212+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-14T10:57:44.326212+00:00",
       "title": "2026年教育部物理学育人模式改革虚拟教研室教学改革课题立项名单",
       "publish_date": "2026-09-14"
     },
@@ -16475,7 +16475,7 @@
       "notice_id": "jwc:article:602595",
       "type": "NEW",
       "detected_at": "2026-09-14T10:57:44.326212+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-14T10:57:44.326212+00:00",
       "title": "南开大学关于2027年推荐优秀应届本科毕业生免试攻读研究生名单的公示",
       "publish_date": "2026-09-14"
     },
@@ -16484,7 +16484,7 @@
       "notice_id": "jwc:article:602557",
       "type": "NEW",
       "detected_at": "2026-09-14T10:57:44.326212+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-14T10:57:44.326212+00:00",
       "title": "关于2025-2026学年第二学期本科课程优秀助教评选结果公示",
       "publish_date": "2026-09-14"
     },
@@ -16493,7 +16493,7 @@
       "notice_id": "nkzbb:url:1dc7f26ec287240191a8eea5330099cad4cd947ece7fe2d92e0a6cfba4507e1e",
       "type": "NEW",
       "detected_at": "2026-09-14T10:57:44.326212+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-14T10:57:44.326212+00:00",
       "title": "南开大学实验室设备处危化品储存柜采购项目（NK2026H073N）更正公告1号",
       "publish_date": "2026-09-14"
     },
@@ -16502,7 +16502,7 @@
       "notice_id": "nkzbb:url:9027f74c7c383bab812cb2b8be3fbb5193212df41e60e1d9af0e26b92eca89de",
       "type": "NEW",
       "detected_at": "2026-09-14T10:57:44.326212+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-14T10:57:44.326212+00:00",
       "title": "南开大学八里台校区第五教学楼加固及修缮改造工程（NK2026G043）竞争性磋商公告",
       "publish_date": "2026-09-14"
     },
@@ -16511,7 +16511,7 @@
       "notice_id": "nkzbb:url:bc026cbb59d0102ccf94d86b0842e313eed279d9b7eda7de0eef741ac56ae6d3",
       "type": "NEW",
       "detected_at": "2026-09-14T10:57:44.326212+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-14T10:57:44.326212+00:00",
       "title": "南开大学接待服务中心餐饮原材料采购项目（NK2026F064）更正公告",
       "publish_date": "2026-09-14"
     }
@@ -36972,10 +36972,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-13",
-    "last_success_at": "2026-09-13T12:50:27.072668+00:00",
+    "last_success_date": "2026-09-14",
+    "last_success_at": "2026-09-14T10:57:44.326212+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-13T12:50:27.072668+00:00"
+    "last_attempt_at": "2026-09-14T10:57:44.326212+00:00"
   },
   "incidents": {}
 }
