@@ -16562,7 +16562,7 @@
       "notice_id": "nkzbb:url:3717776d03fa3c2e069c32c34c0b854777cf308b3f7924b6555a9cc0607f9423",
       "type": "NEW",
       "detected_at": "2026-09-15T05:18:30.995643+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-15T05:18:30.995643+00:00",
       "title": "南开大学实验室设备处智慧安全实验室建设采购项目（NK2026H076N）公开招标公告",
       "publish_date": "2026-09-15"
     },
@@ -16571,7 +16571,7 @@
       "notice_id": "nkzbb:url:9cf6d51b2205dad19e4a4a940682c029a6adcd004e9e67e4ad26ba270e5945d7",
       "type": "NEW",
       "detected_at": "2026-09-15T05:18:30.995643+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-15T05:18:30.995643+00:00",
       "title": "南开大学智能光子研究院激光线宽精密测量系统采购项目 政府采购意向公开（第118批）",
       "publish_date": "2026-09-15"
     }
@@ -37416,10 +37416,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-14",
-    "last_success_at": "2026-09-14T10:57:44.326212+00:00",
+    "last_success_date": "2026-09-15",
+    "last_success_at": "2026-09-15T05:18:30.995643+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-14T10:57:44.326212+00:00"
+    "last_attempt_at": "2026-09-15T05:18:30.995643+00:00"
   },
   "incidents": {}
 }
