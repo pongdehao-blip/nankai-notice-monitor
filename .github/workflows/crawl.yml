@@ -1,8 +1,5 @@
 name: Collect and notify
 on:
-  schedule:
-    - cron: '42 * * * *'
-      timezone: Asia/Shanghai
   workflow_dispatch:
 permissions:
   contents: write

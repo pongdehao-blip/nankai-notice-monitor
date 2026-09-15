@@ -70,9 +70,9 @@ py -m venv .venv
 ## 定时与运行检查
 
 北京时间计划采集时间：每天 00:42 至 23:42，每小时的第 42 分钟。每轮采集后按需发送，全天执行；`daily-report.yml` 仅保留手动入口，取消独立 17:42 日报。
-工作流使用 `timezone: Asia/Shanghai`，与当前 [GitHub schedule 文档](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule)一致。
+自 2026-09-15 起，由 cron-job.org（时区 `Asia/Shanghai`）每小时第 42 分钟调用 `crawl.yml` 的 `workflow_dispatch`。外部手动测试和真实定时验收通过后，已移除 GitHub 内置 schedule。配置、验收和令牌维护见 [外部每小时触发](EXTERNAL_SCHEDULER.md)。
 
-GitHub 调度可能延迟。公开仓库长期无活动时，定时工作流可能自动停用；检查 Actions 是否显示 disabled，点击 **Enable workflow** 后手动运行一次，确认执行结果恢复。
+外部定时器、网络和 GitHub runner 仍可能延迟，不保证准点完成。先查看 cron-job.org 执行历史，再根据响应中的运行 ID 核对 Actions；HTTP 成功只表示触发被接受。工作流必须保持启用；如果显示 disabled，恢复 **Enable workflow** 后再验证。修改采集时间应修改 cron-job.org 中的执行计划。
 无消息不等于故障：优先查看 Actions 最近运行和 state.json 的来源 `last_success_at`。`delivery.last_success_at` 只在实际发送成功时更新，不能用来判断安静期间的采集是否正常。每轮存在采集故障时，即使无公告变化也单独报告；同一故障持续会每轮提醒，恢复后无其他待报内容则安静。若异常消息此前未送达，恢复后仍补报并注明已恢复。整个工作流未触发时，程序自身无法发送异常提醒。按用户决定，不增加长期自动运行检查或状态定期备份。
 
 ## 故障恢复

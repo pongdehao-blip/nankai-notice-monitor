@@ -23,10 +23,7 @@ def main():
     for name in ('crawl','daily-report'):
         w=workflows[name]
         triggers=w.get('on',w.get(True)) # YAML 1.1 parsers interpret `on` as Boolean.
-        if name=='crawl':
-            assert triggers['schedule']==[{'cron':'42 * * * *','timezone':'Asia/Shanghai'}]
-        else:
-            assert 'schedule' not in triggers
+        assert 'schedule' not in triggers
         assert 'workflow_dispatch' in triggers
         assert w['permissions']=={'contents':'write'}
         assert w['concurrency']=={'group':'nankai-notice-state','cancel-in-progress':False}

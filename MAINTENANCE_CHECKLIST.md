@@ -2,7 +2,7 @@
 
 **运行位置：GitHub Actions 云端。电脑关机不影响采集和日报；本地文件用于修改与测试。**
 
-**计划时间（北京时间）：**每天 00:42 至 23:42，每小时的第 42 分钟 采集；每轮结束后有新增、更新或采集异常就发送，凌晨同样执行；无待报内容时不发消息。计划触发和执行可能延迟。
+**计划时间（北京时间）：**cron-job.org 每天 00:42 至 23:42，通过 workflow_dispatch 触发采集；GitHub 内置 schedule 已移除。每轮结束后有新增、更新或采集异常就发送，凌晨同样执行；无待报内容时不发消息。计划触发和执行可能延迟。
 
 **常用入口：**[运行记录 Actions](https://github.com/pongdehao-blip/nankai-notice-monitor/actions) · [飞书 Secret 设置](https://github.com/pongdehao-blip/nankai-notice-monitor/settings/secrets/actions) · [生产状态及历史](https://github.com/pongdehao-blip/nankai-notice-monitor/blob/state/state.json)
 
@@ -27,9 +27,10 @@
 ## 修改与交接
 
 - [ ] 改栏目：先审核官网列表，再更新 `config/sources.yaml` 和审批记录；保留原基线值及批准范围。
-- [ ] 改程序或时间：修改对应代码或工作流，完成适当测试并推送 `main`；确认 **Offline acceptance** 通过，再检查实际运行。本地修改不会自动上线。
+- [ ] 改程序：修改代码或工作流，测试并推送 `main`；确认 **Offline acceptance** 通过。改时间：修改 cron-job.org 执行计划并保存，关联外部历史和 GitHub 运行验收。
+- [ ] 外部触发维护：确认请求失败 1 次即邮件通知已保存；在令牌到期前更新并测试。当前配置及验收证据见 [EXTERNAL_SCHEDULER.md](EXTERNAL_SCHEDULER.md)。
 - [ ] 求助时提供：**异常时间、栏目编号（如有）、Actions 运行链接、飞书现象**；不要提供 Webhook。
 
 **已确认的维护范围：**暂不设置长期自动运行检查，不增加状态文件定期备份；原有 `state` 分支运行状态提交和 Git 历史继续保留。固定日报及其一次性验收已由本次按需推送方案取代。持续采集故障每轮提醒；程序本身未启动时无法发送提醒。
 
-详细流程见 [README](README.md)。本清单更新于 2026-09-09。
+详细流程见 [README](README.md)。本清单更新于 2026-09-15。

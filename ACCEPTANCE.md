@@ -1,3 +1,9 @@
+# 2026-09-15 外部每小时触发验收补充
+
+本节优先于下方历史验收中固定日报、内置 schedule 和每日心跳的描述。
+外部手动测试、飞书真实投递、真实 17:42 定时触发及 state 持久化均已核验；详见 [EXTERNAL_SCHEDULER.md](EXTERNAL_SCHEDULER.md)。
+生产入口仅保留 workflow_dispatch，由 cron-job.org 每小时第 42 分钟调用。离线发布检查要求两个生产工作流均无 schedule，同时保持 state 并发组、contents 写权限及原 watch 入口。
+
 # Nankai Notice Watch v1 — ACCEPTANCE
 
 This document defines pass/fail gates for Phase A and Phase B.
