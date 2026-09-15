@@ -40639,18 +40639,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-15",
-    "last_success_at": "2026-09-15T10:26:24.019031+00:00",
+    "last_success_at": "2026-09-15T13:42:24.021650+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-15T10:26:24.019031+00:00"
+    "last_attempt_at": "2026-09-15T13:42:24.021650+00:00"
   },
-  "incidents": {
-    "J25:PARSE_ERROR": {
-      "source_id": "J25",
-      "status": "PARSE_ERROR",
-      "first_at": "2026-09-15T13:42:24.021650+00:00",
-      "last_at": "2026-09-15T13:42:24.021650+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
