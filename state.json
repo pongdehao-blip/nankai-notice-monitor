@@ -16751,7 +16751,7 @@
       "notice_id": "physics:article:602732",
       "type": "NEW",
       "detected_at": "2026-09-16T00:42:26.704723+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-16T00:42:26.704723+00:00",
       "title": "关于举办南开大学第六届学生媒体达人大赛的通知",
       "publish_date": "2026-09-16"
     }
@@ -43740,10 +43740,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-15",
-    "last_success_at": "2026-09-15T13:42:24.021650+00:00",
+    "last_success_date": "2026-09-16",
+    "last_success_at": "2026-09-16T00:42:26.704723+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-15T13:42:24.021650+00:00"
+    "last_attempt_at": "2026-09-16T00:42:26.704723+00:00"
   },
   "incidents": {}
 }
