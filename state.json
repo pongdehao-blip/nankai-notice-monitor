@@ -16908,7 +16908,7 @@
       "notice_id": "nkzbb:url:91378ec731309ef961e2dac2d78d851e082d1b001d46715651d9b96732e1e23a",
       "type": "NEW",
       "detected_at": "2026-09-16T09:42:20.816361+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-16T09:42:20.816361+00:00",
       "title": "南开大学图书馆2027年Sage Premier数据库服务采购项目（NK2026F072）单一来源采购公示",
       "publish_date": "2026-09-16"
     }
@@ -46586,9 +46586,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-16",
-    "last_success_at": "2026-09-16T07:42:19.857696+00:00",
+    "last_success_at": "2026-09-16T09:42:20.816361+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-16T07:42:19.857696+00:00"
+    "last_attempt_at": "2026-09-16T09:42:20.816361+00:00"
   },
   "incidents": {}
 }
