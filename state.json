@@ -16869,7 +16869,7 @@
       "notice_id": "jwc:article:602760",
       "type": "NEW",
       "detected_at": "2026-09-16T06:42:23.220087+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-16T06:42:23.220087+00:00",
       "title": "南开大学关于2027年推荐优秀应届本科毕业生免试攻读研究生递补名单的公示",
       "publish_date": "2026-09-15"
     },
@@ -16878,7 +16878,7 @@
       "notice_id": "nkzbb:url:d0fee188ce2a35566c1200f5c38f87a1e7307a7866cb3b28f198fc8af0a80053",
       "type": "NEW",
       "detected_at": "2026-09-16T06:42:23.220087+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-16T06:42:23.220087+00:00",
       "title": "南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目（NK2026H070N）采购公告",
       "publish_date": "2026-09-16"
     }
@@ -45788,9 +45788,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-16",
-    "last_success_at": "2026-09-16T04:42:33.641338+00:00",
+    "last_success_at": "2026-09-16T06:42:23.220087+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-16T04:42:33.641338+00:00"
+    "last_attempt_at": "2026-09-16T06:42:23.220087+00:00"
   },
   "incidents": {}
 }
