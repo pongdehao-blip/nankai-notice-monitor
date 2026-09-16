@@ -46172,18 +46172,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-16",
-    "last_success_at": "2026-09-16T06:42:23.220087+00:00",
+    "last_success_at": "2026-09-16T07:42:19.857696+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-16T06:42:23.220087+00:00"
+    "last_attempt_at": "2026-09-16T07:42:19.857696+00:00"
   },
-  "incidents": {
-    "J01:HTTP_ERROR": {
-      "source_id": "J01",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-09-16T07:42:19.857696+00:00",
-      "last_at": "2026-09-16T07:42:19.857696+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
