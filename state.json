@@ -16809,7 +16809,7 @@
       "notice_id": "jwc:article:602752",
       "type": "NEW",
       "detected_at": "2026-09-16T04:42:33.641338+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-16T04:42:33.641338+00:00",
       "title": "关于2026年下半年全国大学英语四、六级考试报名工作的通知",
       "publish_date": "2026-09-16"
     },
@@ -16818,7 +16818,7 @@
       "notice_id": "nkzbb:url:b67a21fed2f4c6086fe7f79f3073cc230db8a0ee858f20da32e6078887c1f534",
       "type": "NEW",
       "detected_at": "2026-09-16T04:42:33.641338+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-16T04:42:33.641338+00:00",
       "title": "南开大学继续教育学院紫金山路校区2026-2027年度物业服务项目（NK2026F070）采购公告",
       "publish_date": "2026-09-16"
     }
@@ -44960,9 +44960,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-16",
-    "last_success_at": "2026-09-16T00:42:26.704723+00:00",
+    "last_success_at": "2026-09-16T04:42:33.641338+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-16T00:42:26.704723+00:00"
+    "last_attempt_at": "2026-09-16T04:42:33.641338+00:00"
   },
   "incidents": {}
 }
