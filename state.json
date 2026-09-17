@@ -16938,7 +16938,7 @@
       "notice_id": "nkzbb:url:e62badd378e34a2153c7c7c3b8cd4de7dfdaddc927a3f4a47dec317bcc667a44",
       "type": "NEW",
       "detected_at": "2026-09-17T00:42:22.197102+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-17T00:42:22.197102+00:00",
       "title": "南开大学八里台校区外国语学院考试用房装修改造工程（项目编号NK2026G041）成交公告",
       "publish_date": "2026-09-17"
     }
@@ -50839,10 +50839,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-16",
-    "last_success_at": "2026-09-16T09:42:20.816361+00:00",
+    "last_success_date": "2026-09-17",
+    "last_success_at": "2026-09-17T00:42:22.197102+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-16T09:42:20.816361+00:00"
+    "last_attempt_at": "2026-09-17T00:42:22.197102+00:00"
   },
   "incidents": {}
 }
