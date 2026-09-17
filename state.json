@@ -17148,7 +17148,7 @@
       "notice_id": "nkzbb:url:2ae780309b77a0018168a42063aa37f2697dda44e4a54fd464a4e26c37459556",
       "type": "NEW",
       "detected_at": "2026-09-17T15:42:21.223895+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-17T15:42:21.223895+00:00",
       "title": "南开大学国有资产管理办公室杨柳青A地块试验田改造项目（NK2026G040）更正公告",
       "publish_date": "2026-09-17"
     }
@@ -55658,9 +55658,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-17",
-    "last_success_at": "2026-09-17T09:42:23.025796+00:00",
+    "last_success_at": "2026-09-17T15:42:21.223895+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-17T09:42:23.025796+00:00"
+    "last_attempt_at": "2026-09-17T15:42:21.223895+00:00"
   },
   "incidents": {}
 }
