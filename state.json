@@ -17028,7 +17028,7 @@
       "notice_id": "nkzbb:url:77f13d0ec173793e1ab6ec0f9e59d429767369c51c40bbfd1d2cb55a8aca4898",
       "type": "NEW",
       "detected_at": "2026-09-17T03:42:20.110757+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-17T03:42:20.110757+00:00",
       "title": "南开大学八里台校区商学院2026-2029年物业管理服务项目（NK2026F069）公开招标公告",
       "publish_date": "2026-09-17"
     }
@@ -51698,9 +51698,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-17",
-    "last_success_at": "2026-09-17T01:42:20.160621+00:00",
+    "last_success_at": "2026-09-17T03:42:20.110757+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-17T01:42:20.160621+00:00"
+    "last_attempt_at": "2026-09-17T03:42:20.110757+00:00"
   },
   "incidents": {}
 }
