@@ -16989,7 +16989,7 @@
       "notice_id": "nkzbb:url:e40d9d144f242fb42e5464626cbc9c8533a8a775ad15294da56e183d9114978f",
       "type": "NEW",
       "detected_at": "2026-09-17T01:42:20.160621+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-17T01:42:20.160621+00:00",
       "title": "南开大学金融学院CRSP数据库服务采购项目(NK2026F068)成交公告",
       "publish_date": "2026-09-17"
     },
@@ -16998,7 +16998,7 @@
       "notice_id": "nkzbb:url:315f0ef7064109a1a41e4d86393b88da0f2e0a659fd53893a18e49eafcf74af9",
       "type": "NEW",
       "detected_at": "2026-09-17T01:42:20.160621+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-17T01:42:20.160621+00:00",
       "title": "南开大学大数据管理中心八里台校区老图书馆弱电工程采购项目 （2026年第120批）",
       "publish_date": "2026-09-17"
     }
@@ -50900,9 +50900,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-17",
-    "last_success_at": "2026-09-17T00:42:22.197102+00:00",
+    "last_success_at": "2026-09-17T01:42:20.160621+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-17T00:42:22.197102+00:00"
+    "last_attempt_at": "2026-09-17T01:42:20.160621+00:00"
   },
   "incidents": {}
 }
