@@ -17303,7 +17303,7 @@
       "notice_id": "nkzbb:url:819aefc6d0436f22919df3af0f2e31ac9edb35424b7c11bb00dac1ffdb5976e0",
       "type": "NEW",
       "detected_at": "2026-09-18T10:42:21.149942+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-18T10:42:21.149942+00:00",
       "title": "南开大学实验室设备处危化品储存柜采购项目（NK2026H073N）成交公告",
       "publish_date": "2026-09-18"
     }
@@ -59653,9 +59653,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-18",
-    "last_success_at": "2026-09-18T08:42:19.845634+00:00",
+    "last_success_at": "2026-09-18T10:42:21.149942+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-18T08:42:19.845634+00:00"
+    "last_attempt_at": "2026-09-18T10:42:21.149942+00:00"
   },
   "incidents": {}
 }
