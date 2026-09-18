@@ -17220,7 +17220,7 @@
       "notice_id": "physics:article:602915",
       "type": "NEW",
       "detected_at": "2026-09-18T02:42:22.435375+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-18T02:42:22.435375+00:00",
       "title": "物理科学学院2027年预报名推免考核成绩",
       "publish_date": "2026-09-18"
     },
@@ -17229,7 +17229,7 @@
       "notice_id": "physics:article:602921",
       "type": "NEW",
       "detected_at": "2026-09-18T02:42:22.435375+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-18T02:42:22.435375+00:00",
       "title": "物理科学学院2027年强基生转段接收为研究生考核结果公示",
       "publish_date": "2026-09-18"
     }
@@ -58426,10 +58426,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-17",
-    "last_success_at": "2026-09-17T15:42:21.223895+00:00",
+    "last_success_date": "2026-09-18",
+    "last_success_at": "2026-09-18T02:42:22.435375+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-17T15:42:21.223895+00:00"
+    "last_attempt_at": "2026-09-18T02:42:22.435375+00:00"
   },
   "incidents": {}
 }
