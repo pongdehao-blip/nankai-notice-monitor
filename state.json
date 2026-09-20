@@ -17534,7 +17534,7 @@
       "notice_id": "nkzbb:url:9eb28264d6c5da990880b1406b2911a496d2756469c76379b832dc01dee589da",
       "type": "NEW",
       "detected_at": "2026-09-20T07:42:23.373491+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T07:42:23.373491+00:00",
       "title": "南开大学基建处津南校区学生公寓（一期）项目施工工程采购项目 （2026年第126批）",
       "publish_date": "2026-09-20"
     },
@@ -17543,7 +17543,7 @@
       "notice_id": "nkzbb:url:f64ebfcce41e5cbef84eb73dea7074ac3578510d55331783b28c3b64ae2c4a58",
       "type": "NEW",
       "detected_at": "2026-09-20T07:42:23.373491+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T07:42:23.373491+00:00",
       "title": "南开大学基建处津南校区学生公寓（一期）监理服务采购项目 （2026年第127批）",
       "publish_date": "2026-09-20"
     }
@@ -59893,9 +59893,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-20",
-    "last_success_at": "2026-09-20T06:42:25.917316+00:00",
+    "last_success_at": "2026-09-20T07:42:23.373491+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-20T06:42:25.917316+00:00"
+    "last_attempt_at": "2026-09-20T07:42:23.373491+00:00"
   },
   "incidents": {}
 }
