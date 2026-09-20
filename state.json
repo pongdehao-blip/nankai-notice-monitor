@@ -17363,7 +17363,7 @@
       "notice_id": "jwc:article:603024",
       "type": "NEW",
       "detected_at": "2026-09-20T02:42:24.325938+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T02:42:24.325938+00:00",
       "title": "南开大学关于2027年推荐优秀应届本科毕业生免试攻读研究生递补名单的公示",
       "publish_date": "2026-09-20"
     }
@@ -59713,9 +59713,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-20",
-    "last_success_at": "2026-09-20T00:42:20.561421+00:00",
+    "last_success_at": "2026-09-20T02:42:24.325938+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-20T00:42:20.561421+00:00"
+    "last_attempt_at": "2026-09-20T02:42:24.325938+00:00"
   },
   "incidents": {}
 }
