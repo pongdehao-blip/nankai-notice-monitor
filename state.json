@@ -17636,7 +17636,7 @@
       "notice_id": "nkzbb:url:824fe5de9b30f8d9477afb060ff2906d39cd394ae3471e78d4b2a5d691fd29aa",
       "type": "NEW",
       "detected_at": "2026-09-20T10:42:25.924109+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T10:42:25.924109+00:00",
       "title": "南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目（NK2026H070N）更正公告",
       "publish_date": "2026-09-20"
     },
@@ -17645,7 +17645,7 @@
       "notice_id": "nkzbb:url:53a7116ba0a4ae76f4bbc325a393b9505db835022a94555b4ded34bacaa3d035",
       "type": "NEW",
       "detected_at": "2026-09-20T10:42:25.924109+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T10:42:25.924109+00:00",
       "title": "南开大学图书馆2027年ProQuest Central Premium数据库服务采购项目（NK2026F074）单一来源采购公示",
       "publish_date": "2026-09-20"
     },
@@ -17654,7 +17654,7 @@
       "notice_id": "nkzbb:url:d8107f0f62cdb0a2837326de47c1f56d45aa1bb053b34b6c8e6309ed41e57d84",
       "type": "NEW",
       "detected_at": "2026-09-20T10:42:25.924109+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T10:42:25.924109+00:00",
       "title": "南开大学电子信息与光学工程学院混合信号数字荧光示波器采购项目（NK2026H075N）结果公告",
       "publish_date": "2026-09-20"
     },
@@ -17663,7 +17663,7 @@
       "notice_id": "nkzbb:url:0f4d7408a1b10fc4cbe030e0182043d954a73b5f4790769fe0567caf55e3be16",
       "type": "NEW",
       "detected_at": "2026-09-20T10:42:25.924109+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T10:42:25.924109+00:00",
       "title": "南开大学智能光子研究院前沿交叉学科中心家具采购项目（NK2026H071N）成交公告",
       "publish_date": "2026-09-20"
     }
@@ -60013,9 +60013,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-20",
-    "last_success_at": "2026-09-20T07:42:23.373491+00:00",
+    "last_success_at": "2026-09-20T10:42:25.924109+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-20T07:42:23.373491+00:00"
+    "last_attempt_at": "2026-09-20T10:42:25.924109+00:00"
   },
   "incidents": {}
 }
