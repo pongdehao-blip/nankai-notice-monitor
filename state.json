@@ -17456,7 +17456,7 @@
       "notice_id": "nkzbb:url:ede3ab169786770860d03a4cd3cb21e67fd2e49f0fc77a4b8615a43c92daae33",
       "type": "NEW",
       "detected_at": "2026-09-20T06:42:25.917316+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T06:42:25.917316+00:00",
       "title": "南开大学基建处津南校区学生公寓（二期）监理服务采购项目（2026年第122批）",
       "publish_date": "2026-09-20"
     },
@@ -17465,7 +17465,7 @@
       "notice_id": "nkzbb:url:86a2762077abfa03bcfb954343db0a2eb5524a4a7a5ce9ab5b7e5a14e2ae93dd",
       "type": "NEW",
       "detected_at": "2026-09-20T06:42:25.917316+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T06:42:25.917316+00:00",
       "title": "南开大学基建处津南校区学生第三食堂监理服务采购项目 （2026年第123批）",
       "publish_date": "2026-09-20"
     },
@@ -17474,7 +17474,7 @@
       "notice_id": "nkzbb:url:5a8cfd68993054313ff1e741a82c6f8c59872f3d6f7902c04495a649d0f58912",
       "type": "NEW",
       "detected_at": "2026-09-20T06:42:25.917316+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T06:42:25.917316+00:00",
       "title": "南开大学基建处津南校区学生第三食堂项目施工工程采购项目 （2026年第124批）",
       "publish_date": "2026-09-20"
     },
@@ -17483,7 +17483,7 @@
       "notice_id": "nkzbb:url:9e6ab466a2ce2dfb6c3c7c377c80e0420368406d7cb66aa9570bbaa3a89fd7f9",
       "type": "NEW",
       "detected_at": "2026-09-20T06:42:25.917316+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-20T06:42:25.917316+00:00",
       "title": "南开大学基建处津南校区学生公寓（二期）项目施工工程采购项目 （2026年第125批）",
       "publish_date": "2026-09-20"
     }
@@ -59833,9 +59833,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-20",
-    "last_success_at": "2026-09-20T02:42:24.325938+00:00",
+    "last_success_at": "2026-09-20T06:42:25.917316+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-20T02:42:24.325938+00:00"
+    "last_attempt_at": "2026-09-20T06:42:25.917316+00:00"
   },
   "incidents": {}
 }
