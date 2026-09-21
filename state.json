@@ -17723,7 +17723,7 @@
       "notice_id": "jwc:article:603160",
       "type": "NEW",
       "detected_at": "2026-09-21T08:42:25.197516+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-21T08:42:25.197516+00:00",
       "title": "关于第二届京津冀蒙本科高校课程思政教学比赛拟推荐名单的公示",
       "publish_date": "2026-09-21"
     }
@@ -60072,10 +60072,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-20",
-    "last_success_at": "2026-09-20T14:42:28.916712+00:00",
+    "last_success_date": "2026-09-21",
+    "last_success_at": "2026-09-21T08:42:25.197516+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-20T14:42:28.916712+00:00"
+    "last_attempt_at": "2026-09-21T08:42:25.197516+00:00"
   },
   "incidents": {}
 }
