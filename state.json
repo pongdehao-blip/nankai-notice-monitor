@@ -17753,7 +17753,7 @@
       "notice_id": "nkzbb:url:19f92e914d52a15c747c9ec66a0b0357b34527f871bd1e21818151a1794da398",
       "type": "NEW",
       "detected_at": "2026-09-21T11:42:23.251756+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-21T11:42:23.251756+00:00",
       "title": "南开大学医学院数字玻片扫描仪采购项目（NK2026H074N）采购公告",
       "publish_date": "2026-09-21"
     }
@@ -60103,9 +60103,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-21",
-    "last_success_at": "2026-09-21T08:42:25.197516+00:00",
+    "last_success_at": "2026-09-21T11:42:23.251756+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-21T08:42:25.197516+00:00"
+    "last_attempt_at": "2026-09-21T11:42:23.251756+00:00"
   },
   "incidents": {}
 }
