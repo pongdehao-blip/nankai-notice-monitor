@@ -17813,7 +17813,7 @@
       "notice_id": "nkzbb:url:ae20391b2d73043502d8e25ceb8119cfbf507a192fcb4449c8f03829e8e333f3",
       "type": "NEW",
       "detected_at": "2026-09-22T03:42:22.432720+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-22T03:42:22.432720+00:00",
       "title": "南开大学八里台校区化学学院综合实验楼有机光电及储能实验室修缮工程 （2026年第128批）",
       "publish_date": "2026-09-22"
     }
@@ -60170,9 +60170,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-22",
-    "last_success_at": "2026-09-22T02:42:22.229688+00:00",
+    "last_success_at": "2026-09-22T03:42:22.432720+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-22T02:42:22.229688+00:00"
+    "last_attempt_at": "2026-09-22T03:42:22.432720+00:00"
   },
   "incidents": {}
 }
