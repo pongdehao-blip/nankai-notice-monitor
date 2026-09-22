@@ -17843,7 +17843,7 @@
       "notice_id": "physics:article:603233",
       "type": "NEW",
       "detected_at": "2026-09-22T09:42:24.512725+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-22T09:42:24.512725+00:00",
       "title": "“诵响海河新韵 笔绘津沽华章”中华经典诵读写大赛通知",
       "publish_date": "2026-09-22"
     }
@@ -60200,9 +60200,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-22",
-    "last_success_at": "2026-09-22T03:42:22.432720+00:00",
+    "last_success_at": "2026-09-22T09:42:24.512725+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-22T03:42:22.432720+00:00"
+    "last_attempt_at": "2026-09-22T09:42:24.512725+00:00"
   },
   "incidents": {}
 }
