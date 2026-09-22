@@ -17783,7 +17783,7 @@
       "notice_id": "jwc:article:603189",
       "type": "NEW",
       "detected_at": "2026-09-22T02:42:22.229688+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-22T02:42:22.229688+00:00",
       "title": "关于2026年南开大学生命科学基本实验技能竞赛 复赛安排的通知",
       "publish_date": "2026-09-22"
     }
@@ -60139,10 +60139,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-21",
-    "last_success_at": "2026-09-21T11:42:23.251756+00:00",
+    "last_success_date": "2026-09-22",
+    "last_success_at": "2026-09-22T02:42:22.229688+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-21T11:42:23.251756+00:00"
+    "last_attempt_at": "2026-09-22T02:42:22.229688+00:00"
   },
   "incidents": {}
 }
