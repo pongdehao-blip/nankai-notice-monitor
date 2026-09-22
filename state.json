@@ -17873,7 +17873,7 @@
       "notice_id": "nkzbb:url:f21f24a6d9e09c97b2938433fa4b57665c2ab607dd4218450f92218fb9035c67",
       "type": "NEW",
       "detected_at": "2026-09-22T10:42:26.827766+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-22T10:42:26.827766+00:00",
       "title": "南开大学八里台校区第五教学楼加固及修缮改造工程（NK2026G043）更正公告",
       "publish_date": "2026-09-22"
     }
@@ -60230,9 +60230,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-22",
-    "last_success_at": "2026-09-22T09:42:24.512725+00:00",
+    "last_success_at": "2026-09-22T10:42:26.827766+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-22T09:42:24.512725+00:00"
+    "last_attempt_at": "2026-09-22T10:42:26.827766+00:00"
   },
   "incidents": {}
 }
