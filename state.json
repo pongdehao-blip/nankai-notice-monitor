@@ -17933,7 +17933,7 @@
       "notice_id": "physics:article:603346",
       "type": "NEW",
       "detected_at": "2026-09-24T03:42:20.532704+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-24T03:42:20.532704+00:00",
       "title": "2027年接收推免生（直博）面试安排",
       "publish_date": "2026-09-24"
     }
@@ -60289,10 +60289,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-09-23",
-    "last_success_at": "2026-09-23T04:42:21.361298+00:00",
+    "last_success_date": "2026-09-24",
+    "last_success_at": "2026-09-24T03:42:20.532704+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-23T04:42:21.361298+00:00"
+    "last_attempt_at": "2026-09-24T03:42:20.532704+00:00"
   },
   "incidents": {}
 }
