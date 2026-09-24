@@ -18053,7 +18053,7 @@
       "notice_id": "nkzbb:url:cffc19bb37d064508bf2959b0273a9748b02313c1397457a22096e144f25ff26",
       "type": "NEW",
       "detected_at": "2026-09-24T13:42:19.837493+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-24T13:42:19.837493+00:00",
       "title": "南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目（NK2026H070N）结果公告",
       "publish_date": "2026-09-24"
     }
@@ -60410,9 +60410,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-24",
-    "last_success_at": "2026-09-24T10:42:27.977618+00:00",
+    "last_success_at": "2026-09-24T13:42:19.837493+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-24T10:42:27.977618+00:00"
+    "last_attempt_at": "2026-09-24T13:42:19.837493+00:00"
   },
   "incidents": {}
 }
