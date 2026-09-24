@@ -18014,7 +18014,7 @@
       "notice_id": "nkzbb:url:7fda70ad53f8f48b190a5b869faa9a96c435c07d0e6d14cfc2fbb683cfd2c10a",
       "type": "NEW",
       "detected_at": "2026-09-24T10:42:27.977618+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-24T10:42:27.977618+00:00",
       "title": "南开大学国有资产管理办公室杨柳青A地块试验田改造项目（第二次）（NK2026G040）竞争性磋商公告",
       "publish_date": "2026-09-24"
     },
@@ -18023,7 +18023,7 @@
       "notice_id": "nkzbb:url:a1e0c5abf0bb91430e63cd8f78d36422c9600d4a6b24d6cf05c18ff09bd5ce9a",
       "type": "NEW",
       "detected_at": "2026-09-24T10:42:27.977618+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-24T10:42:27.977618+00:00",
       "title": "南开大学津南校区化学大楼施工（NK2026G030）中标结果公示",
       "publish_date": "2026-09-24"
     }
@@ -60380,9 +60380,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-24",
-    "last_success_at": "2026-09-24T08:42:25.556211+00:00",
+    "last_success_at": "2026-09-24T10:42:27.977618+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-24T08:42:25.556211+00:00"
+    "last_attempt_at": "2026-09-24T10:42:27.977618+00:00"
   },
   "incidents": {}
 }
