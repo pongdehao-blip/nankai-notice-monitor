@@ -18263,7 +18263,7 @@
       "notice_id": "nkzbb:url:0c18bba04187b8b0a2f7b87bb8c410fcae238228e158f8f37bb6443e67d40f0b",
       "type": "NEW",
       "detected_at": "2026-09-29T06:42:21.964939+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-29T06:42:21.964939+00:00",
       "title": "南开大学继续教育学院紫金山路校区2026-2027年度物业服务项目（NK2026F070）成交公告",
       "publish_date": "2026-09-29"
     }
@@ -60620,9 +60620,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-29",
-    "last_success_at": "2026-09-29T01:42:21.634538+00:00",
+    "last_success_at": "2026-09-29T06:42:21.964939+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-29T01:42:21.634538+00:00"
+    "last_attempt_at": "2026-09-29T06:42:21.964939+00:00"
   },
   "incidents": {}
 }
