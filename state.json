@@ -18344,7 +18344,7 @@
       "notice_id": "nkzbb:url:87f962af228f394405bdb845a8c173d3f1949d45233ba1789d91341d96f8bcd1",
       "type": "NEW",
       "detected_at": "2026-09-29T09:42:23.745430+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-29T09:42:23.745430+00:00",
       "title": "南开大学接待服务中心餐饮原材料采购项目（NK2026F064）（第二标段）终止公告",
       "publish_date": "2026-09-29"
     },
@@ -18353,7 +18353,7 @@
       "notice_id": "nkzbb:url:42322a09821c19d7a179432f967572e361ed441a56066420b65b68ce8878e3cc",
       "type": "NEW",
       "detected_at": "2026-09-29T09:42:23.745430+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-29T09:42:23.745430+00:00",
       "title": "南开大学接待服务中心餐饮原材料采购项目（NK2026F064）中标公告",
       "publish_date": "2026-09-29"
     }
@@ -60710,9 +60710,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-29",
-    "last_success_at": "2026-09-29T08:42:22.691224+00:00",
+    "last_success_at": "2026-09-29T09:42:23.745430+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-29T08:42:22.691224+00:00"
+    "last_attempt_at": "2026-09-29T09:42:23.745430+00:00"
   },
   "incidents": {}
 }
