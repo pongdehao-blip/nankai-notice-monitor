@@ -18293,7 +18293,7 @@
       "notice_id": "nkzbb:url:0eb5c4270332bcbbda16ff66dda040745b761b5aae4349cf4056efff12c5bcff",
       "type": "NEW",
       "detected_at": "2026-09-29T08:42:22.691224+00:00",
-      "reported_at": null,
+      "reported_at": "2026-09-29T08:42:22.691224+00:00",
       "title": "南开大学图书馆2027年ProQuest Central Premium数据库服务采购项目（NK2026F074）单一来源采购公告",
       "publish_date": "2026-09-29"
     }
@@ -60650,9 +60650,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-09-29",
-    "last_success_at": "2026-09-29T06:42:21.964939+00:00",
+    "last_success_at": "2026-09-29T08:42:22.691224+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-09-29T06:42:21.964939+00:00"
+    "last_attempt_at": "2026-09-29T08:42:22.691224+00:00"
   },
   "incidents": {}
 }
