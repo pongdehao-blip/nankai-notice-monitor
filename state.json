@@ -60777,82 +60777,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-03",
-    "last_success_at": "2026-10-02T21:42:23.269085+00:00",
+    "last_success_at": "2026-10-02T22:42:19.328251+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-02T21:42:23.269085+00:00"
+    "last_attempt_at": "2026-10-02T22:42:19.328251+00:00"
   },
-  "incidents": {
-    "Z01:HTTP_ERROR": {
-      "source_id": "Z01",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z02:HTTP_ERROR": {
-      "source_id": "Z02",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z03:HTTP_ERROR": {
-      "source_id": "Z03",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z04:HTTP_ERROR": {
-      "source_id": "Z04",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z05:HTTP_ERROR": {
-      "source_id": "Z05",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z06:HTTP_ERROR": {
-      "source_id": "Z06",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z07:HTTP_ERROR": {
-      "source_id": "Z07",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z08:HTTP_ERROR": {
-      "source_id": "Z08",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z09:HTTP_ERROR": {
-      "source_id": "Z09",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-02T22:42:19.328251+00:00",
-      "last_at": "2026-10-02T22:42:19.328251+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
