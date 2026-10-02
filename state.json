@@ -18422,10 +18422,10 @@
     "P01": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/572/list.htm": {
@@ -18512,10 +18512,10 @@
     "P02": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/574/list.htm": {
@@ -18602,10 +18602,10 @@
     "P03": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/576/list.htm": {
@@ -18692,10 +18692,10 @@
     "P04": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/573/list.htm": {
@@ -18782,10 +18782,10 @@
     "P05": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/bkzs/list.htm": {
@@ -18816,10 +18816,10 @@
     "P06": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/sszs/list.htm": {
@@ -18906,10 +18906,10 @@
     "P07": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/bszs/list.htm": {
@@ -18996,10 +18996,10 @@
     "P08": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/bsh/list.htm": {
@@ -19030,10 +19030,10 @@
     "P09": {
       "initialized": true,
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
-      "last_status": "TIMEOUT",
+      "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
-      "last_error": "Public site request timed out",
+      "consecutive_failures": 2,
+      "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
         "https://physics.nankai.edu.cn/dbxkycg/list.htm": {
@@ -19122,7 +19122,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19212,7 +19212,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19281,7 +19281,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19371,7 +19371,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19461,7 +19461,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19551,7 +19551,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19641,7 +19641,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19731,7 +19731,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19821,7 +19821,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19911,7 +19911,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -19966,7 +19966,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20056,7 +20056,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": false,
       "page_cache": {
@@ -20075,7 +20075,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": false,
       "page_cache": {
@@ -20094,7 +20094,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20184,7 +20184,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20274,7 +20274,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": false,
       "page_cache": {
@@ -20293,7 +20293,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": false,
       "page_cache": {
@@ -20312,7 +20312,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20402,7 +20402,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20471,7 +20471,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20561,7 +20561,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20651,7 +20651,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20741,7 +20741,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20831,7 +20831,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20900,7 +20900,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -20962,7 +20962,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21052,7 +21052,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21142,7 +21142,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21190,7 +21190,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21252,7 +21252,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21377,7 +21377,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21502,7 +21502,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21627,7 +21627,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21752,7 +21752,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -21877,7 +21877,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -22002,7 +22002,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -22127,7 +22127,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -22252,7 +22252,7 @@
       "last_success_at": "2026-10-01T15:42:27.562820+00:00",
       "last_status": "HTTP_ERROR",
       "last_item_count": 0,
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "last_error": "Public site HTTP 502",
       "ever_nonempty": true,
       "page_cache": {
@@ -22374,390 +22374,6 @@
     }
   },
   "runs": [
-    {
-      "run_id": "ce475118-42c5-4a46-824a-decc60c0dccd",
-      "scheduled_at": "2026-09-27T13:42:20.037695+00:00",
-      "started_at": "2026-09-27T13:42:20.037695+00:00",
-      "finished_at": "2026-09-27T13:43:17.718264+00:00",
-      "source_results": [
-        {
-          "source_id": "P01",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P02",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P03",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P04",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P05",
-          "status": "OK",
-          "item_count": 2,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P06",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P07",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P08",
-          "status": "OK",
-          "item_count": 2,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "P09",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "C02",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "C03",
-          "status": "OK",
-          "item_count": 7,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "C04",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J01",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J02",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J03",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J04",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J05",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J06",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J07",
-          "status": "OK",
-          "item_count": 4,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J08",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J09",
-          "status": "OK",
-          "item_count": 0,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J10",
-          "status": "OK",
-          "item_count": 0,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J11",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J12",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J13",
-          "status": "OK",
-          "item_count": 0,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J14",
-          "status": "OK",
-          "item_count": 0,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J15",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J16",
-          "status": "OK",
-          "item_count": 7,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J17",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J18",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J19",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J20",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J21",
-          "status": "OK",
-          "item_count": 7,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J22",
-          "status": "OK",
-          "item_count": 6,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J23",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J24",
-          "status": "OK",
-          "item_count": 10,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "J25",
-          "status": "OK",
-          "item_count": 4,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "C01",
-          "status": "OK",
-          "item_count": 6,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z01",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z02",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z03",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z04",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z05",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z06",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z07",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z08",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        },
-        {
-          "source_id": "Z09",
-          "status": "OK",
-          "item_count": 15,
-          "pages": 1,
-          "baseline": false,
-          "error": null
-        }
-      ]
-    },
     {
       "run_id": "3b247476-c64f-4642-9e0c-aaf0ce55c992",
       "scheduled_at": "2026-09-27T14:42:21.118955+00:00",
@@ -60773,6 +60389,390 @@
           "error": "Public site HTTP 502"
         }
       ]
+    },
+    {
+      "run_id": "eac91c5d-a3e5-4302-b64c-0f8a91373474",
+      "scheduled_at": "2026-10-02T00:42:21.364729+00:00",
+      "started_at": "2026-10-02T00:42:21.364729+00:00",
+      "finished_at": "2026-10-02T00:50:43.958314+00:00",
+      "source_results": [
+        {
+          "source_id": "P01",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P02",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P03",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P04",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P05",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P06",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P07",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P08",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "P09",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "C02",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "C03",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "C04",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J01",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J02",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J03",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J04",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J05",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J06",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J07",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J08",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J09",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J10",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J11",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J12",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J13",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J14",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J15",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J16",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J17",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J18",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J19",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J20",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J21",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J22",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J23",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J24",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "J25",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "C01",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z01",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z02",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z03",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z04",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z05",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z06",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z07",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z08",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        },
+        {
+          "source_id": "Z09",
+          "status": "HTTP_ERROR",
+          "item_count": 0,
+          "pages": 1,
+          "baseline": false,
+          "error": "Public site HTTP 502"
+        }
+      ]
     }
   ],
   "delivery": {
@@ -60781,5 +60781,382 @@
     "last_error": null,
     "last_attempt_at": "2026-10-01T23:42:19.129914+00:00"
   },
-  "incidents": {}
+  "incidents": {
+    "P01:HTTP_ERROR": {
+      "source_id": "P01",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P02:HTTP_ERROR": {
+      "source_id": "P02",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P03:HTTP_ERROR": {
+      "source_id": "P03",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P04:HTTP_ERROR": {
+      "source_id": "P04",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P05:HTTP_ERROR": {
+      "source_id": "P05",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P06:HTTP_ERROR": {
+      "source_id": "P06",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P07:HTTP_ERROR": {
+      "source_id": "P07",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P08:HTTP_ERROR": {
+      "source_id": "P08",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "P09:HTTP_ERROR": {
+      "source_id": "P09",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "C02:HTTP_ERROR": {
+      "source_id": "C02",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "C03:HTTP_ERROR": {
+      "source_id": "C03",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "C04:HTTP_ERROR": {
+      "source_id": "C04",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J01:HTTP_ERROR": {
+      "source_id": "J01",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J02:HTTP_ERROR": {
+      "source_id": "J02",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J03:HTTP_ERROR": {
+      "source_id": "J03",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J04:HTTP_ERROR": {
+      "source_id": "J04",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J05:HTTP_ERROR": {
+      "source_id": "J05",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J06:HTTP_ERROR": {
+      "source_id": "J06",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J07:HTTP_ERROR": {
+      "source_id": "J07",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J08:HTTP_ERROR": {
+      "source_id": "J08",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J09:HTTP_ERROR": {
+      "source_id": "J09",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J10:HTTP_ERROR": {
+      "source_id": "J10",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J11:HTTP_ERROR": {
+      "source_id": "J11",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J12:HTTP_ERROR": {
+      "source_id": "J12",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J13:HTTP_ERROR": {
+      "source_id": "J13",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J14:HTTP_ERROR": {
+      "source_id": "J14",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J15:HTTP_ERROR": {
+      "source_id": "J15",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J16:HTTP_ERROR": {
+      "source_id": "J16",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J17:HTTP_ERROR": {
+      "source_id": "J17",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J18:HTTP_ERROR": {
+      "source_id": "J18",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J19:HTTP_ERROR": {
+      "source_id": "J19",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J20:HTTP_ERROR": {
+      "source_id": "J20",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J21:HTTP_ERROR": {
+      "source_id": "J21",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J22:HTTP_ERROR": {
+      "source_id": "J22",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J23:HTTP_ERROR": {
+      "source_id": "J23",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J24:HTTP_ERROR": {
+      "source_id": "J24",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "J25:HTTP_ERROR": {
+      "source_id": "J25",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "C01:HTTP_ERROR": {
+      "source_id": "C01",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z01:HTTP_ERROR": {
+      "source_id": "Z01",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z02:HTTP_ERROR": {
+      "source_id": "Z02",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z03:HTTP_ERROR": {
+      "source_id": "Z03",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z04:HTTP_ERROR": {
+      "source_id": "Z04",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z05:HTTP_ERROR": {
+      "source_id": "Z05",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z06:HTTP_ERROR": {
+      "source_id": "Z06",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z07:HTTP_ERROR": {
+      "source_id": "Z07",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z08:HTTP_ERROR": {
+      "source_id": "Z08",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    },
+    "Z09:HTTP_ERROR": {
+      "source_id": "Z09",
+      "status": "HTTP_ERROR",
+      "first_at": "2026-10-02T00:42:21.364729+00:00",
+      "last_at": "2026-10-02T00:42:21.364729+00:00",
+      "count": 1,
+      "recovered_at": null
+    }
+  }
 }
