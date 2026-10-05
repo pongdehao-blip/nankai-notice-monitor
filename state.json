@@ -60776,27 +60776,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-03",
-    "last_success_at": "2026-10-03T13:42:19.552890+00:00",
+    "last_success_date": "2026-10-05",
+    "last_success_at": "2026-10-05T15:42:21.591925+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-03T13:42:19.552890+00:00"
+    "last_attempt_at": "2026-10-05T15:42:21.591925+00:00"
   },
-  "incidents": {
-    "J14:HTTP_ERROR": {
-      "source_id": "J14",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-05T15:42:21.591925+00:00",
-      "last_at": "2026-10-05T15:42:21.591925+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "J17:PARSE_ERROR": {
-      "source_id": "J17",
-      "status": "PARSE_ERROR",
-      "first_at": "2026-10-05T15:42:21.591925+00:00",
-      "last_at": "2026-10-05T15:42:21.591925+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
