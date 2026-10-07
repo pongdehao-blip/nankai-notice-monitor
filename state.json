@@ -18443,7 +18443,7 @@
       "notice_id": "nkzbb:url:885f367d6c5fbdface1691b48011279d7590918824a7d2e47a022d8d707a5f36",
       "type": "NEW",
       "detected_at": "2026-10-07T11:42:21.465127+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-07T11:42:21.465127+00:00",
       "title": "南开大学团委专题展演及舞台搭建配套服务项目（NK2026F076）采购公告",
       "publish_date": "2026-10-07"
     }
@@ -60806,10 +60806,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-05",
-    "last_success_at": "2026-10-05T15:42:21.591925+00:00",
+    "last_success_date": "2026-10-07",
+    "last_success_at": "2026-10-07T11:42:21.465127+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-05T15:42:21.591925+00:00"
+    "last_attempt_at": "2026-10-07T11:42:21.465127+00:00"
   },
   "incidents": {}
 }
