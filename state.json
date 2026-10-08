@@ -18473,7 +18473,7 @@
       "notice_id": "physics:article:603866",
       "type": "NEW",
       "detected_at": "2026-10-08T07:42:19.412636+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-08T07:42:19.412636+00:00",
       "title": "推荐优秀学生参与2026年南开大学 “资助育人宣传大使”评选工作的通知",
       "publish_date": "2026-10-08"
     }
@@ -60836,10 +60836,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-07",
-    "last_success_at": "2026-10-07T11:42:21.465127+00:00",
+    "last_success_date": "2026-10-08",
+    "last_success_at": "2026-10-08T07:42:19.412636+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-07T11:42:21.465127+00:00"
+    "last_attempt_at": "2026-10-08T07:42:19.412636+00:00"
   },
   "incidents": {}
 }
