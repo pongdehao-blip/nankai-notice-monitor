@@ -18596,7 +18596,7 @@
       "notice_id": "nkzbb:url:23dfaf2a7ffcd0c9203b970349004a0ca149cd814a5fa68fce3efff61b7eac85",
       "type": "NEW",
       "detected_at": "2026-10-08T10:42:23.301516+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-08T10:42:23.301516+00:00",
       "title": "南开大学海外社交媒体平台运营、推广服务（NK2026F071）采购公告",
       "publish_date": "2026-10-08"
     },
@@ -18605,7 +18605,7 @@
       "notice_id": "nkzbb:url:4f7a382dcc6f28889ccf2dd60e95abf355600fda475610dd2ee4558c9491a609",
       "type": "NEW",
       "detected_at": "2026-10-08T10:42:23.301516+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-08T10:42:23.301516+00:00",
       "title": "南开大学医学院数字玻片扫描仪采购项目（NK2026H074N）成交公告",
       "publish_date": "2026-10-08"
     },
@@ -18614,7 +18614,7 @@
       "notice_id": "nkzbb:url:5c698178140afea1fe6a5fbfbd4861d940c4046dd3099be6979a2e72ed2afb61",
       "type": "NEW",
       "detected_at": "2026-10-08T10:42:23.301516+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-08T10:42:23.301516+00:00",
       "title": "南开大学实验室设备处智慧安全实验室建设采购项目(NK2026H076N)中标公告",
       "publish_date": "2026-10-08"
     },
@@ -18623,7 +18623,7 @@
       "notice_id": "nkzbb:url:24a807b26d374b711cb50a41d4e5036b16af5eeebd9a33a18ea249954db90bc2",
       "type": "NEW",
       "detected_at": "2026-10-08T10:42:23.301516+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-08T10:42:23.301516+00:00",
       "title": "南开大学泰达学院食堂经营项目（NK2026F015L）中标公告",
       "publish_date": "2026-10-08"
     }
@@ -60987,9 +60987,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-08",
-    "last_success_at": "2026-10-08T09:42:21.017617+00:00",
+    "last_success_at": "2026-10-08T10:42:23.301516+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-08T09:42:21.017617+00:00"
+    "last_attempt_at": "2026-10-08T10:42:23.301516+00:00"
   },
   "incidents": {}
 }
