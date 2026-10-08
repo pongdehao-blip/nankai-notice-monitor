@@ -18503,7 +18503,7 @@
       "notice_id": "nkzbb:url:83941eb235e950ef21d7793a6ad5b3d318ca71d82cd57e5c567bd95faaf33c7c",
       "type": "NEW",
       "detected_at": "2026-10-08T08:42:19.180293+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-08T08:42:19.180293+00:00",
       "title": "南开大学2026年校园自助售货机项目（NK2026Z008）公开招租公告",
       "publish_date": "2026-10-08"
     }
@@ -60867,9 +60867,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-08",
-    "last_success_at": "2026-10-08T07:42:19.412636+00:00",
+    "last_success_at": "2026-10-08T08:42:19.180293+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-08T07:42:19.412636+00:00"
+    "last_attempt_at": "2026-10-08T08:42:19.180293+00:00"
   },
   "incidents": {}
 }
