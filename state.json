@@ -18674,7 +18674,7 @@
       "notice_id": "jwc:article:603959",
       "type": "NEW",
       "detected_at": "2026-10-09T08:42:19.496081+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-09T08:42:19.496081+00:00",
       "title": "陈军院士领衔讲授《未来产业学科导引》",
       "publish_date": "2026-10-09"
     },
@@ -18683,7 +18683,7 @@
       "notice_id": "jwc:article:603962",
       "type": "NEW",
       "detected_at": "2026-10-09T08:42:19.496081+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-09T08:42:19.496081+00:00",
       "title": "何志毅教授领衔讲授《产业经济导论》",
       "publish_date": "2026-10-09"
     }
@@ -61060,10 +61060,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-08",
-    "last_success_at": "2026-10-08T10:42:23.301516+00:00",
+    "last_success_date": "2026-10-09",
+    "last_success_at": "2026-10-09T08:42:19.496081+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-08T10:42:23.301516+00:00"
+    "last_attempt_at": "2026-10-09T08:42:19.496081+00:00"
   },
   "incidents": {}
 }
