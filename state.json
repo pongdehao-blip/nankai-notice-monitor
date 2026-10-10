@@ -18713,7 +18713,7 @@
       "notice_id": "nkzbb:url:6e45eea07e171f11b9eb14ef0380b5b41b2eb0386d668fa248a0c501318bd273",
       "type": "NEW",
       "detected_at": "2026-10-10T07:42:18.471383+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-10T07:42:18.471383+00:00",
       "title": "南开大学图书馆Wiley电子期刊采购项目（NK2026F060）单一来源采购公告",
       "publish_date": "2026-10-10"
     }
@@ -61090,10 +61090,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-09",
-    "last_success_at": "2026-10-09T08:42:19.496081+00:00",
+    "last_success_date": "2026-10-10",
+    "last_success_at": "2026-10-10T07:42:18.471383+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-09T08:42:19.496081+00:00"
+    "last_attempt_at": "2026-10-10T07:42:18.471383+00:00"
   },
   "incidents": {}
 }
