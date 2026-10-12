@@ -19013,7 +19013,7 @@
       "notice_id": "physics:article:604168",
       "type": "NEW",
       "detected_at": "2026-10-12T06:42:18.731566+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T06:42:18.731566+00:00",
       "title": "2026年本科生周恩来奖学金申请推荐工作安排",
       "publish_date": "2026-10-12"
     }
@@ -61391,9 +61391,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-12",
-    "last_success_at": "2026-10-12T02:42:21.005170+00:00",
+    "last_success_at": "2026-10-12T06:42:18.731566+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-12T02:42:21.005170+00:00"
+    "last_attempt_at": "2026-10-12T06:42:18.731566+00:00"
   },
   "incidents": {}
 }
