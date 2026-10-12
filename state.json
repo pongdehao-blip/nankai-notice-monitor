@@ -18920,7 +18920,7 @@
       "notice_id": "physics:article:604129",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "【“开悟” 物理前沿讲座 （第221期）】Time-Varying Photonics: Past, Present and Future",
       "publish_date": "2026-09-20"
     },
@@ -18929,7 +18929,7 @@
       "notice_id": "physics:article:604126",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "【“开悟” 物理前沿讲座 （第219期）】Ab initio nuclear theory for heavy nuclei and physics beyond the Standard Model",
       "publish_date": "2026-10-07"
     },
@@ -18938,7 +18938,7 @@
       "notice_id": "physics:article:604127",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "【“开悟” 物理前沿讲座 （第220期）】球状新团中缓慢冷却的白矮星",
       "publish_date": "2026-10-08"
     },
@@ -18947,7 +18947,7 @@
       "notice_id": "physics:article:604132",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "【“开悟” 物理前沿讲座 （第222期）】On-Chip Functional Meta-Devices Enabled by Nanophotonic Cavities",
       "publish_date": "2026-10-12"
     },
@@ -18956,7 +18956,7 @@
       "notice_id": "physics:article:604133",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "【“开悟” 物理前沿讲座 （第223期）】Model-independent Approaches to Dark Matter: Effective Theory and S-matrix Bootstrap",
       "publish_date": "2026-10-12"
     },
@@ -18965,7 +18965,7 @@
       "notice_id": "physics:article:604136",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "【“开悟” 物理前沿讲座 （第224期）】星际尘埃与恒星的共同演化：从创生之柱到超级空腔",
       "publish_date": "2026-10-12"
     },
@@ -18974,7 +18974,7 @@
       "notice_id": "jwc:article:604131",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "关于组织开展2026年天津市大中小学“故事思政”微课展示活动校级初选工作的通知",
       "publish_date": "2026-10-09"
     },
@@ -18983,7 +18983,7 @@
       "notice_id": "jwc:article:604138",
       "type": "NEW",
       "detected_at": "2026-10-12T02:42:21.005170+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-12T02:42:21.005170+00:00",
       "title": "关于南开大学第二批课程思政案例库验收与评优结果的公示",
       "publish_date": "2026-10-12"
     }
@@ -61439,9 +61439,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-12",
-    "last_success_at": "2026-10-12T00:42:19.360664+00:00",
+    "last_success_at": "2026-10-12T02:42:21.005170+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-12T00:42:19.360664+00:00"
+    "last_attempt_at": "2026-10-12T02:42:21.005170+00:00"
   },
   "incidents": {}
 }
