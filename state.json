@@ -19184,7 +19184,7 @@
       "notice_id": "physics:article:604312",
       "type": "NEW",
       "detected_at": "2026-10-13T07:42:20.597780+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-13T07:42:20.597780+00:00",
       "title": "【“开悟” 物理前沿讲座 （第225期）】Lightest 0^−+ Glueball as Dominant Constituent of X(2370)",
       "publish_date": "2026-10-13"
     },
@@ -19193,7 +19193,7 @@
       "notice_id": "nkzbb:url:f9b9b6c5a3c30ee61ef78726614d1215a8361de9fd91cfd36e60fe2a3276cfee",
       "type": "NEW",
       "detected_at": "2026-10-13T07:42:20.597780+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-13T07:42:20.597780+00:00",
       "title": "南开大学八里台校区学一食堂南侧小树林管线迁移工程（NK2026G044）竞争性磋商公告",
       "publish_date": "2026-10-13"
     }
@@ -61571,9 +61571,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-13",
-    "last_success_at": "2026-10-13T02:42:22.395101+00:00",
+    "last_success_at": "2026-10-13T07:42:20.597780+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-13T02:42:22.395101+00:00"
+    "last_attempt_at": "2026-10-13T07:42:20.597780+00:00"
   },
   "incidents": {}
 }
