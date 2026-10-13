@@ -19133,7 +19133,7 @@
       "notice_id": "nkzbb:url:9f454a334042b4a1965a7e8ccb53447c52a4094bdee51019e526b45f0421107c",
       "type": "NEW",
       "detected_at": "2026-10-13T02:42:22.395101+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-13T02:42:22.395101+00:00",
       "title": "南开大学继续教育学院培训拍摄服务采购项目（NK2026F073）采购公告",
       "publish_date": "2026-10-13"
     }
@@ -61511,9 +61511,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-13",
-    "last_success_at": "2026-10-13T01:42:20.409121+00:00",
+    "last_success_at": "2026-10-13T02:42:22.395101+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-13T01:42:20.409121+00:00"
+    "last_attempt_at": "2026-10-13T02:42:22.395101+00:00"
   },
   "incidents": {}
 }
