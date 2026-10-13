@@ -19223,7 +19223,7 @@
       "notice_id": "physics:article:604314",
       "type": "NEW",
       "detected_at": "2026-10-13T08:42:18.851606+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-13T08:42:18.851606+00:00",
       "title": "【“开悟” 物理前沿讲座 （第226期）】磁性材料中磁学效应与拉曼效应的群论研究",
       "publish_date": "2026-10-13"
     }
@@ -61601,9 +61601,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-13",
-    "last_success_at": "2026-10-13T07:42:20.597780+00:00",
+    "last_success_at": "2026-10-13T08:42:18.851606+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-13T07:42:20.597780+00:00"
+    "last_attempt_at": "2026-10-13T08:42:18.851606+00:00"
   },
   "incidents": {}
 }
