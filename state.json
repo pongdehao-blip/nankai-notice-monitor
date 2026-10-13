@@ -19103,7 +19103,7 @@
       "notice_id": "nkzbb:url:7c635130e4951a448138752d14f9d58d0bea69d3e4675c28c8f9538ccb2eec3a",
       "type": "NEW",
       "detected_at": "2026-10-13T01:42:20.409121+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-13T01:42:20.409121+00:00",
       "title": "2026年南开大学附属小学计算机机房及信息技术设施升级改造项目 政府采购意向公开（第129批）",
       "publish_date": "2026-10-13"
     }
@@ -61480,10 +61480,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-12",
-    "last_success_at": "2026-10-12T14:42:23.293769+00:00",
+    "last_success_date": "2026-10-13",
+    "last_success_at": "2026-10-13T01:42:20.409121+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-12T14:42:23.293769+00:00"
+    "last_attempt_at": "2026-10-13T01:42:20.409121+00:00"
   },
   "incidents": {}
 }
