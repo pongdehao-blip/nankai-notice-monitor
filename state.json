@@ -19313,7 +19313,7 @@
       "notice_id": "physics:article:604416",
       "type": "NEW",
       "detected_at": "2026-10-14T08:42:21.827634+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-14T08:42:21.827634+00:00",
       "title": "关于组织开展南开大学2026年学生年度人物评选活动的通知",
       "publish_date": "2026-10-14"
     }
@@ -61691,9 +61691,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-14",
-    "last_success_at": "2026-10-14T03:42:19.320120+00:00",
+    "last_success_at": "2026-10-14T08:42:21.827634+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-14T03:42:19.320120+00:00"
+    "last_attempt_at": "2026-10-14T08:42:21.827634+00:00"
   },
   "incidents": {}
 }
