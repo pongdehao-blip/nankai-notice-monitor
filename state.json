@@ -19283,7 +19283,7 @@
       "notice_id": "physics:article:604359",
       "type": "NEW",
       "detected_at": "2026-10-14T03:42:19.320120+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-14T03:42:19.320120+00:00",
       "title": "推荐我院2026年度“交通银行残疾大学生励志奖学金”候选人",
       "publish_date": "2026-10-14"
     }
@@ -61661,9 +61661,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-14",
-    "last_success_at": "2026-10-14T01:42:21.216670+00:00",
+    "last_success_at": "2026-10-14T03:42:19.320120+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-14T01:42:21.216670+00:00"
+    "last_attempt_at": "2026-10-14T03:42:19.320120+00:00"
   },
   "incidents": {}
 }
