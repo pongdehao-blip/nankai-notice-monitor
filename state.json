@@ -19343,7 +19343,7 @@
       "notice_id": "nkzbb:url:38a2e777083179757e410489196238c3c858848da23a10947b6d895be797e993",
       "type": "NEW",
       "detected_at": "2026-10-15T07:42:22.296943+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-15T07:42:22.296943+00:00",
       "title": "南开大学实验室设备处智慧安全实验室建设采购项目（NK2026H076N）更正公告",
       "publish_date": "2026-10-15"
     }
@@ -61720,19 +61720,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-14",
-    "last_success_at": "2026-10-14T08:42:21.827634+00:00",
+    "last_success_date": "2026-10-15",
+    "last_success_at": "2026-10-15T07:42:22.296943+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-14T08:42:21.827634+00:00"
+    "last_attempt_at": "2026-10-15T07:42:22.296943+00:00"
   },
-  "incidents": {
-    "J01:HTTP_ERROR": {
-      "source_id": "J01",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-15T07:42:22.296943+00:00",
-      "last_at": "2026-10-15T07:42:22.296943+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
