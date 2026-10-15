@@ -19373,7 +19373,7 @@
       "notice_id": "nkzbb:url:f9da1781565ef3bdb5cb56369102b61621e0cbb6d43dbaedfb7f32a32bb2316c",
       "type": "NEW",
       "detected_at": "2026-10-15T13:42:22.638343+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-15T13:42:22.638343+00:00",
       "title": "南开大学团委专题展演及舞台搭建配套服务项目(NK2026F076)结果公告",
       "publish_date": "2026-10-15"
     }
@@ -61751,9 +61751,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-15",
-    "last_success_at": "2026-10-15T07:42:22.296943+00:00",
+    "last_success_at": "2026-10-15T13:42:22.638343+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-15T07:42:22.296943+00:00"
+    "last_attempt_at": "2026-10-15T13:42:22.638343+00:00"
   },
   "incidents": {}
 }
