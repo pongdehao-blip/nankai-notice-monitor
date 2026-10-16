@@ -19410,7 +19410,7 @@
       "notice_id": "jwc:article:604514",
       "type": "NEW",
       "detected_at": "2026-10-16T02:42:19.678673+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-16T02:42:19.678673+00:00",
       "title": "南开大学 2027 届本科毕业生图像信息采集通知",
       "publish_date": "2026-10-16"
     }
@@ -61787,10 +61787,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-15",
-    "last_success_at": "2026-10-15T13:42:22.638343+00:00",
+    "last_success_date": "2026-10-16",
+    "last_success_at": "2026-10-16T02:42:19.678673+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-15T13:42:22.638343+00:00"
+    "last_attempt_at": "2026-10-16T02:42:19.678673+00:00"
   },
   "incidents": {}
 }
