@@ -19440,7 +19440,7 @@
       "notice_id": "jwc:article:604556",
       "type": "NEW",
       "detected_at": "2026-10-16T09:42:21.137904+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-16T09:42:21.137904+00:00",
       "title": "关于举办2026年本科生创新科研基本技能培训班的通知",
       "publish_date": "2026-10-16"
     }
@@ -61818,9 +61818,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-16",
-    "last_success_at": "2026-10-16T02:42:19.678673+00:00",
+    "last_success_at": "2026-10-16T09:42:21.137904+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-16T02:42:19.678673+00:00"
+    "last_attempt_at": "2026-10-16T09:42:21.137904+00:00"
   },
   "incidents": {}
 }
