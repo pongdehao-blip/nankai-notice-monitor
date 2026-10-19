@@ -19551,7 +19551,7 @@
       "notice_id": "nkzbb:url:f37aa3e5a4f15d0d39a9eaa2f51a639bc01142756ac756bd6b3fd8ee01a9e8c4",
       "type": "NEW",
       "detected_at": "2026-10-19T09:42:20.676149+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-19T09:42:20.676149+00:00",
       "title": "南开大学图书馆2027年ProQuest Central Premium数据库服务采购项目（NK2026F074）成交公告",
       "publish_date": "2026-10-19"
     },
@@ -19560,7 +19560,7 @@
       "notice_id": "nkzbb:url:39308ad8cdfba1fbc44288b8c0e324828da2bf5bc80f3f8a25cd5a25f2c67a37",
       "type": "NEW",
       "detected_at": "2026-10-19T09:42:20.676149+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-19T09:42:20.676149+00:00",
       "title": "南开大学2026年校园自助售货机项目（NK2026Z008）成交公告",
       "publish_date": "2026-10-19"
     }
@@ -61938,9 +61938,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-19",
-    "last_success_at": "2026-10-19T03:42:21.801738+00:00",
+    "last_success_at": "2026-10-19T09:42:20.676149+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-19T03:42:21.801738+00:00"
+    "last_attempt_at": "2026-10-19T09:42:20.676149+00:00"
   },
   "incidents": {}
 }
