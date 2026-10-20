@@ -19620,7 +19620,7 @@
       "notice_id": "nkzbb:url:d246cbda9ec158a5849e598fb53225e0a8a40587bcfd5f2c5b48a6c0b2fa13cd",
       "type": "NEW",
       "detected_at": "2026-10-20T01:42:23.226402+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-20T01:42:23.226402+00:00",
       "title": "南开大学海外社交媒体平台运营、推广服务（NK2026F071）成交公告",
       "publish_date": "2026-10-20"
     }
@@ -61997,10 +61997,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-19",
-    "last_success_at": "2026-10-19T10:42:20.772391+00:00",
+    "last_success_date": "2026-10-20",
+    "last_success_at": "2026-10-20T01:42:23.226402+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-19T10:42:20.772391+00:00"
+    "last_attempt_at": "2026-10-20T01:42:23.226402+00:00"
   },
   "incidents": {}
 }
