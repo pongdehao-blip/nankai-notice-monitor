@@ -19694,7 +19694,7 @@
       "notice_id": "physics:article:604752",
       "type": "NEW",
       "detected_at": "2026-10-20T03:42:30.417767+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-20T03:42:30.417767+00:00",
       "title": "2026第一届天津市大学生物理学术竞赛获奖名单公示",
       "publish_date": "2026-10-20"
     }
@@ -62072,9 +62072,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-20",
-    "last_success_at": "2026-10-20T02:42:21.518367+00:00",
+    "last_success_at": "2026-10-20T03:42:30.417767+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-20T02:42:21.518367+00:00"
+    "last_attempt_at": "2026-10-20T03:42:30.417767+00:00"
   },
   "incidents": {}
 }
