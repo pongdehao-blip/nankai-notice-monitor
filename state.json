@@ -19664,7 +19664,7 @@
       "notice_id": "physics:article:604731",
       "type": "NEW",
       "detected_at": "2026-10-20T02:42:21.518367+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-20T02:42:21.518367+00:00",
       "title": "物理科学学院2027年接收推荐免试（含直博）生录取名单公示",
       "publish_date": "2026-10-20"
     }
@@ -62042,9 +62042,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-20",
-    "last_success_at": "2026-10-20T01:42:23.226402+00:00",
+    "last_success_at": "2026-10-20T02:42:21.518367+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-20T01:42:23.226402+00:00"
+    "last_attempt_at": "2026-10-20T02:42:21.518367+00:00"
   },
   "incidents": {}
 }
