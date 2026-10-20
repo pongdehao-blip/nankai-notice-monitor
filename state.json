@@ -62101,19 +62101,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-20",
-    "last_success_at": "2026-10-20T09:42:21.096704+00:00",
+    "last_success_date": "2026-10-21",
+    "last_success_at": "2026-10-20T17:42:20.241798+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-20T09:42:21.096704+00:00"
+    "last_attempt_at": "2026-10-20T17:42:20.241798+00:00"
   },
-  "incidents": {
-    "J01:HTTP_ERROR": {
-      "source_id": "J01",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-10-20T17:42:20.241798+00:00",
-      "last_at": "2026-10-20T17:42:20.241798+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
