@@ -19844,7 +19844,7 @@
       "notice_id": "nkzbb:url:43d48ae498474b3ced8f7ff4072e4d16c7b6dab1103bcc85204e61aa9ef64f9a",
       "type": "NEW",
       "detected_at": "2026-10-22T14:42:23.235555+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-22T14:42:23.235555+00:00",
       "title": "南开大学八里台校区学一食堂南侧小树林管线迁移工程（NK2026G044）更正公告",
       "publish_date": "2026-10-22"
     }
@@ -62222,9 +62222,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-22",
-    "last_success_at": "2026-10-22T03:42:20.919774+00:00",
+    "last_success_at": "2026-10-22T14:42:23.235555+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-22T03:42:20.919774+00:00"
+    "last_attempt_at": "2026-10-22T14:42:23.235555+00:00"
   },
   "incidents": {}
 }
