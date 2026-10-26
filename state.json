@@ -19932,7 +19932,7 @@
       "notice_id": "physics:article:605112",
       "type": "NEW",
       "detected_at": "2026-10-26T08:42:23.234044+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-26T08:42:23.234044+00:00",
       "title": "南开团队发现半导体异质界面光生电荷沿界面的横向光登伯效应",
       "publish_date": "2026-10-26"
     },
@@ -19941,7 +19941,7 @@
       "notice_id": "nkzbb:url:9968018b3937e23649b70f6d3e9ffcd3a4575e106d0c57f9293f8736e488ddec",
       "type": "NEW",
       "detected_at": "2026-10-26T08:42:23.234044+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-26T08:42:23.234044+00:00",
       "title": "南开大学化学学院600MHz和800MHz核磁冷头维保采购项目（NK2026F084）单一来源采购公示",
       "publish_date": "2026-10-26"
     }
@@ -62318,10 +62318,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-23",
-    "last_success_at": "2026-10-23T03:42:19.765611+00:00",
+    "last_success_date": "2026-10-26",
+    "last_success_at": "2026-10-26T08:42:23.234044+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-23T03:42:19.765611+00:00"
+    "last_attempt_at": "2026-10-26T08:42:23.234044+00:00"
   },
   "incidents": {}
 }
