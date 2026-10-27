@@ -20112,7 +20112,7 @@
       "notice_id": "physics:article:605286",
       "type": "NEW",
       "detected_at": "2026-10-27T10:42:22.279095+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-27T10:42:22.279095+00:00",
       "title": "物理科学学院2026年度“青年学科带头人培养计划” （第二批次）拟推荐人选公示通知",
       "publish_date": "2026-10-27"
     },
@@ -20121,7 +20121,7 @@
       "notice_id": "jwc:article:605297",
       "type": "NEW",
       "detected_at": "2026-10-27T10:42:22.279095+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-27T10:42:22.279095+00:00",
       "title": "2026 年天津市大学生生命科学竞赛生命科学基本实验技能竞赛部分获奖候选名单公示",
       "publish_date": "2026-10-27"
     }
@@ -62506,9 +62506,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-27",
-    "last_success_at": "2026-10-27T09:42:22.747537+00:00",
+    "last_success_at": "2026-10-27T10:42:22.279095+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-27T09:42:22.747537+00:00"
+    "last_attempt_at": "2026-10-27T10:42:22.279095+00:00"
   },
   "incidents": {}
 }
