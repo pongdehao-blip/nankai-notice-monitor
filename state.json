@@ -20001,7 +20001,7 @@
       "notice_id": "jwc:article:605180",
       "type": "NEW",
       "detected_at": "2026-10-27T01:42:26.574560+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-27T01:42:26.574560+00:00",
       "title": "关于组织参加教育部高等教育司2026年度“人工智能赋能高等教育人才培养”系列师资培训的通知",
       "publish_date": "2026-10-27"
     }
@@ -62378,10 +62378,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-26",
-    "last_success_at": "2026-10-26T12:42:21.498603+00:00",
+    "last_success_date": "2026-10-27",
+    "last_success_at": "2026-10-27T01:42:26.574560+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-26T12:42:21.498603+00:00"
+    "last_attempt_at": "2026-10-27T01:42:26.574560+00:00"
   },
   "incidents": {}
 }
