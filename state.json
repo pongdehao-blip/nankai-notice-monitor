@@ -20052,7 +20052,7 @@
       "notice_id": "nkzbb:url:f2b844515a616cf9a7f275f514700b4b22d48f11420fae04af1b259ee5ecc2e1",
       "type": "NEW",
       "detected_at": "2026-10-27T09:42:22.747537+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-27T09:42:22.747537+00:00",
       "title": "南开大学党委网络安全和信息化办公室（大数据管理中心）应用发布网关采购项目（NK2026H079N）采购公告",
       "publish_date": "2026-10-27"
     },
@@ -20061,7 +20061,7 @@
       "notice_id": "nkzbb:url:7dcab9cd89b32bc33db672ce3d14c1abc01aecff12c7e94c4ed416623c55607e",
       "type": "NEW",
       "detected_at": "2026-10-27T09:42:22.747537+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-27T09:42:22.747537+00:00",
       "title": "南开大学商学院设计制作服务采购项目（NK2026F078）招标公告",
       "publish_date": "2026-10-27"
     }
@@ -62439,9 +62439,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-27",
-    "last_success_at": "2026-10-27T01:42:26.574560+00:00",
+    "last_success_at": "2026-10-27T09:42:22.747537+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-27T01:42:26.574560+00:00"
+    "last_attempt_at": "2026-10-27T09:42:22.747537+00:00"
   },
   "incidents": {}
 }
