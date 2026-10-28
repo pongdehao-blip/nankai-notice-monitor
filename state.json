@@ -20151,7 +20151,7 @@
       "notice_id": "physics:article:605356",
       "type": "NEW",
       "detected_at": "2026-10-28T07:42:22.309888+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-28T07:42:22.309888+00:00",
       "title": "关于开展“弘扬伟大长征精神 走好新的长征路”主题宣传教育活动的通知",
       "publish_date": "2026-10-28"
     }
@@ -62535,10 +62535,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-27",
-    "last_success_at": "2026-10-27T10:42:22.279095+00:00",
+    "last_success_date": "2026-10-28",
+    "last_success_at": "2026-10-28T07:42:22.309888+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-27T10:42:22.279095+00:00"
+    "last_attempt_at": "2026-10-28T07:42:22.309888+00:00"
   },
   "incidents": {}
 }
