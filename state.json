@@ -20202,7 +20202,7 @@
       "notice_id": "nkzbb:url:baf4c7ff4be2d25a5b812abf3106ee90382687a85d000660d01bf8bd2a3e0ffa",
       "type": "NEW",
       "detected_at": "2026-10-28T08:42:20.488454+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-28T08:42:20.488454+00:00",
       "title": "南开大学引进人才周转住房装修工程采购项目（NK2026G047）竞争性磋商公告",
       "publish_date": "2026-10-28"
     },
@@ -20211,7 +20211,7 @@
       "notice_id": "nkzbb:url:3406e02410d45a57d1a945f18162cda632221ee0e77c6c5e5082c02b34865e74",
       "type": "NEW",
       "detected_at": "2026-10-28T08:42:20.488454+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-28T08:42:20.488454+00:00",
       "title": "南开大学八里台校区学一食堂南侧小树林管线迁移工程（NK2026G044）成交公告",
       "publish_date": "2026-10-28"
     }
@@ -62596,9 +62596,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-28",
-    "last_success_at": "2026-10-28T07:42:22.309888+00:00",
+    "last_success_at": "2026-10-28T08:42:20.488454+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-28T07:42:22.309888+00:00"
+    "last_attempt_at": "2026-10-28T08:42:20.488454+00:00"
   },
   "incidents": {}
 }
