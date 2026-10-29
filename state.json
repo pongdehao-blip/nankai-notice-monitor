@@ -20271,7 +20271,7 @@
       "notice_id": "nkzbb:url:580e99139c2fd1631d6394066fbe13cafea8e76c186909da2cdfa05ea9f9f371",
       "type": "NEW",
       "detected_at": "2026-10-29T05:42:23.281529+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-29T05:42:23.281529+00:00",
       "title": "南开大学2026-2028年度小型维修工程采购项目(NK2026G045)成交公告",
       "publish_date": "2026-10-29"
     }
@@ -62655,10 +62655,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-28",
-    "last_success_at": "2026-10-28T09:42:22.940797+00:00",
+    "last_success_date": "2026-10-29",
+    "last_success_at": "2026-10-29T05:42:23.281529+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-28T09:42:22.940797+00:00"
+    "last_attempt_at": "2026-10-29T05:42:23.281529+00:00"
   },
   "incidents": {}
 }
