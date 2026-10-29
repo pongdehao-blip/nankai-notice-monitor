@@ -20322,7 +20322,7 @@
       "notice_id": "nkzbb:url:3f72a08fbd4eeadc38f7086049b37c2b23d8d70f99234cd2768265d0dbf91eeb",
       "type": "NEW",
       "detected_at": "2026-10-29T06:42:21.945988+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-29T06:42:21.945988+00:00",
       "title": "南开大学大数据管理中心津南校区数据中心精密空调采购项目（NK2026H082N）招标公告",
       "publish_date": "2026-10-29"
     },
@@ -20331,7 +20331,7 @@
       "notice_id": "nkzbb:url:e01fc104219d38b76f292a60148b0844342155fc738f70df8380361c47b6bb58",
       "type": "NEW",
       "detected_at": "2026-10-29T06:42:21.945988+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-29T06:42:21.945988+00:00",
       "title": "南开大学大数据管理中心津南校区数据中心UPS配电设备采购项目(NK2026H081N)公开招标公告",
       "publish_date": "2026-10-29"
     }
@@ -62716,9 +62716,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-29",
-    "last_success_at": "2026-10-29T05:42:23.281529+00:00",
+    "last_success_at": "2026-10-29T06:42:21.945988+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-29T05:42:23.281529+00:00"
+    "last_attempt_at": "2026-10-29T06:42:21.945988+00:00"
   },
   "incidents": {}
 }
