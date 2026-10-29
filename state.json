@@ -20361,7 +20361,7 @@
       "notice_id": "jwc:article:605480",
       "type": "NEW",
       "detected_at": "2026-10-29T07:42:19.960370+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-29T07:42:19.960370+00:00",
       "title": "关于做好2027年度本科毕业论文（设计）管理工作和校级优秀本科毕业论文（设计）评选工作的通知",
       "publish_date": "2026-10-29"
     }
@@ -62746,9 +62746,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-29",
-    "last_success_at": "2026-10-29T06:42:21.945988+00:00",
+    "last_success_at": "2026-10-29T07:42:19.960370+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-29T06:42:21.945988+00:00"
+    "last_attempt_at": "2026-10-29T07:42:19.960370+00:00"
   },
   "incidents": {}
 }
