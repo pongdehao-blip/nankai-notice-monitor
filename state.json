@@ -20409,7 +20409,7 @@
       "notice_id": "jwc:article:605539",
       "type": "NEW",
       "detected_at": "2026-10-30T02:42:23.927559+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-30T02:42:23.927559+00:00",
       "title": "关于普通高等教育天津市级规划教材校内推荐教材的公示",
       "publish_date": "2026-10-30"
     }
@@ -62793,10 +62793,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-29",
-    "last_success_at": "2026-10-29T09:42:24.354515+00:00",
+    "last_success_date": "2026-10-30",
+    "last_success_at": "2026-10-30T02:42:23.927559+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-29T09:42:24.354515+00:00"
+    "last_attempt_at": "2026-10-30T02:42:23.927559+00:00"
   },
   "incidents": {}
 }
