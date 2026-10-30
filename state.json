@@ -20460,7 +20460,7 @@
       "notice_id": "nkzbb:url:f52d59c45884d05ad6865ecb21a11311e13ab0e68245ea8296d5c614802eba38",
       "type": "NEW",
       "detected_at": "2026-10-30T03:42:21.097121+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-30T03:42:21.097121+00:00",
       "title": "南开大学滨海学院（滨海校区）10KV箱站改造及高低压电缆敷设工程竞争性磋商公告",
       "publish_date": "2026-10-28"
     },
@@ -20469,7 +20469,7 @@
       "notice_id": "nkzbb:url:a018b46a3a37b2190fd35f1a0578ae0b8354040918f8e79bb0b639e3fd065eed",
       "type": "NEW",
       "detected_at": "2026-10-30T03:42:21.097121+00:00",
-      "reported_at": null,
+      "reported_at": "2026-10-30T03:42:21.097121+00:00",
       "title": "南开大学滨海学院（滨海校区）一期修缮楼宇加装烟感报警系统项目更正公告",
       "publish_date": "2026-10-29"
     }
@@ -62854,9 +62854,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-10-30",
-    "last_success_at": "2026-10-30T02:42:23.927559+00:00",
+    "last_success_at": "2026-10-30T03:42:21.097121+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-30T02:42:23.927559+00:00"
+    "last_attempt_at": "2026-10-30T03:42:21.097121+00:00"
   },
   "incidents": {}
 }
