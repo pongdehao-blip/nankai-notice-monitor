@@ -20589,7 +20589,7 @@
       "notice_id": "nkzbb:url:be61153c5d5e4fab4f251cd0186d9bf6373138cf7edddb1d9898ae57d9f54ab4",
       "type": "NEW",
       "detected_at": "2026-11-02T09:42:23.367176+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-02T09:42:23.367176+00:00",
       "title": "南开大学2027年度微软校园软件正版化服务采购项目(NK2026F079)采购公告",
       "publish_date": "2026-11-02"
     }
@@ -62973,10 +62973,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-10-30",
-    "last_success_at": "2026-10-30T08:42:21.870990+00:00",
+    "last_success_date": "2026-11-02",
+    "last_success_at": "2026-11-02T09:42:23.367176+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-10-30T08:42:21.870990+00:00"
+    "last_attempt_at": "2026-11-02T09:42:23.367176+00:00"
   },
   "incidents": {}
 }
