@@ -20619,7 +20619,7 @@
       "notice_id": "nkzbb:url:799bbd94dc396b9b1352adeeb5536e12804ff5959539b84e09de20e9b710592b",
       "type": "NEW",
       "detected_at": "2026-11-02T13:42:22.008352+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-02T13:42:22.008352+00:00",
       "title": "南开大学化学学院伯苓楼辅楼四楼超净室改造工程（项目编号：NK2026G050）采购公告",
       "publish_date": "2026-11-02"
     }
@@ -63004,9 +63004,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-02",
-    "last_success_at": "2026-11-02T09:42:23.367176+00:00",
+    "last_success_at": "2026-11-02T13:42:22.008352+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-02T09:42:23.367176+00:00"
+    "last_attempt_at": "2026-11-02T13:42:22.008352+00:00"
   },
   "incidents": {}
 }
