@@ -20716,7 +20716,7 @@
       "notice_id": "nkzbb:url:26fec9015f1cff89eeee5690527d21137edb23c275b2e0ce6b79dc76959637e1",
       "type": "NEW",
       "detected_at": "2026-11-03T09:42:24.328401+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-03T09:42:24.328401+00:00",
       "title": "南开大学环境科学与工程学院空气质量微型站（NK2026H078N）采购项目",
       "publish_date": "2026-11-03"
     }
@@ -63101,9 +63101,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-03",
-    "last_success_at": "2026-11-03T07:42:21.070691+00:00",
+    "last_success_at": "2026-11-03T09:42:24.328401+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-03T07:42:21.070691+00:00"
+    "last_attempt_at": "2026-11-03T09:42:24.328401+00:00"
   },
   "incidents": {}
 }
