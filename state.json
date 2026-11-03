@@ -20686,7 +20686,7 @@
       "notice_id": "physics:article:605781",
       "type": "NEW",
       "detected_at": "2026-11-03T07:42:21.070691+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-03T07:42:21.070691+00:00",
       "title": "物理科学学院2027年“申请-考核”制博士研究生招生选拔实施细则",
       "publish_date": "2026-11-03"
     }
@@ -63071,9 +63071,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-03",
-    "last_success_at": "2026-11-03T02:42:23.796737+00:00",
+    "last_success_at": "2026-11-03T07:42:21.070691+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-03T02:42:23.796737+00:00"
+    "last_attempt_at": "2026-11-03T07:42:21.070691+00:00"
   },
   "incidents": {}
 }
