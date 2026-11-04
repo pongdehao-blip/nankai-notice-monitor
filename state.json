@@ -20776,7 +20776,7 @@
       "notice_id": "nkzbb:url:825853e0ad1c0944423621888bcdc3d1fee9fc942fa6927ee2d2283d8405f923",
       "type": "NEW",
       "detected_at": "2026-11-04T08:42:24.293595+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-04T08:42:24.293595+00:00",
       "title": "南开大学党委网络安全和信息化办公室（大数据管理中心）应用发布网关采购项目（NK2026H079N）结果公告",
       "publish_date": "2026-11-04"
     }
@@ -63161,9 +63161,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-04",
-    "last_success_at": "2026-11-04T03:42:22.285782+00:00",
+    "last_success_at": "2026-11-04T08:42:24.293595+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-04T03:42:22.285782+00:00"
+    "last_attempt_at": "2026-11-04T08:42:24.293595+00:00"
   },
   "incidents": {}
 }
