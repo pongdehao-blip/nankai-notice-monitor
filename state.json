@@ -20806,7 +20806,7 @@
       "notice_id": "nkzbb:url:4079f051e4014447dc80a6e5f510a013e9b40d83124f55a51ce77d591f54c70c",
       "type": "NEW",
       "detected_at": "2026-11-04T09:42:31.271091+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-04T09:42:31.271091+00:00",
       "title": "南开大学化学学院傅里叶变换回旋共振质谱仪全责维保采购项目（NK2026F080）单一来源采购公告",
       "publish_date": "2026-11-04"
     }
@@ -63191,9 +63191,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-04",
-    "last_success_at": "2026-11-04T08:42:24.293595+00:00",
+    "last_success_at": "2026-11-04T09:42:31.271091+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-04T08:42:24.293595+00:00"
+    "last_attempt_at": "2026-11-04T09:42:31.271091+00:00"
   },
   "incidents": {}
 }
