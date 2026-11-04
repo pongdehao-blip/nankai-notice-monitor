@@ -20746,7 +20746,7 @@
       "notice_id": "physics:article:605959",
       "type": "NEW",
       "detected_at": "2026-11-04T03:42:22.285782+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-04T03:42:22.285782+00:00",
       "title": "2026年度天津市大学生自信自强年度人物暨海河自强奖学金推荐工作",
       "publish_date": "2026-11-04"
     }
@@ -63130,10 +63130,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-03",
-    "last_success_at": "2026-11-03T09:42:24.328401+00:00",
+    "last_success_date": "2026-11-04",
+    "last_success_at": "2026-11-04T03:42:22.285782+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-03T09:42:24.328401+00:00"
+    "last_attempt_at": "2026-11-04T03:42:22.285782+00:00"
   },
   "incidents": {}
 }
