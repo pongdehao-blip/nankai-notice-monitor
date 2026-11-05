@@ -20947,7 +20947,7 @@
       "notice_id": "physics:article:606062",
       "type": "NEW",
       "detected_at": "2026-11-05T09:42:21.807252+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-05T09:42:21.807252+00:00",
       "title": "关于开展南开大学第十一届“求职励行金”就业帮扶计划的通知",
       "publish_date": "2026-11-05"
     },
@@ -20956,7 +20956,7 @@
       "notice_id": "jwc:article:606060",
       "type": "NEW",
       "detected_at": "2026-11-05T09:42:21.807252+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-05T09:42:21.807252+00:00",
       "title": "关于开展2026年工程教育认证申请工作的通知",
       "publish_date": "2026-11-05"
     }
@@ -63341,9 +63341,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-05",
-    "last_success_at": "2026-11-05T08:42:27.703939+00:00",
+    "last_success_at": "2026-11-05T09:42:21.807252+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-05T08:42:27.703939+00:00"
+    "last_attempt_at": "2026-11-05T09:42:21.807252+00:00"
   },
   "incidents": {}
 }
