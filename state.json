@@ -20896,7 +20896,7 @@
       "notice_id": "nkzbb:url:21e1d516a23521b2e9511c7483942a6d00fea33f025db7bd3be23c01a1a60270",
       "type": "NEW",
       "detected_at": "2026-11-05T08:42:27.703939+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-05T08:42:27.703939+00:00",
       "title": "南开大学教务部LED全彩显示屏采购项目（NK2026H085N）采购公告",
       "publish_date": "2026-11-05"
     }
@@ -63281,9 +63281,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-05",
-    "last_success_at": "2026-11-05T03:42:19.946441+00:00",
+    "last_success_at": "2026-11-05T08:42:27.703939+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-05T03:42:19.946441+00:00"
+    "last_attempt_at": "2026-11-05T08:42:27.703939+00:00"
   },
   "incidents": {}
 }
