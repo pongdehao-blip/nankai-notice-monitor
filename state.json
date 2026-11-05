@@ -20836,7 +20836,7 @@
       "notice_id": "jwc:article:606036",
       "type": "NEW",
       "detected_at": "2026-11-05T02:42:21.771409+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-05T02:42:21.771409+00:00",
       "title": "关于开展2026年度教育部—华为“智能基座”优秀教师/教材奖励计划申报通知",
       "publish_date": "2026-11-05"
     }
@@ -63220,19 +63220,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-04",
-    "last_success_at": "2026-11-04T09:42:31.271091+00:00",
+    "last_success_date": "2026-11-05",
+    "last_success_at": "2026-11-05T02:42:21.771409+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-04T09:42:31.271091+00:00"
+    "last_attempt_at": "2026-11-05T02:42:21.771409+00:00"
   },
-  "incidents": {
-    "P01:TIMEOUT": {
-      "source_id": "P01",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-05T02:42:21.771409+00:00",
-      "last_at": "2026-11-05T02:42:21.771409+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
