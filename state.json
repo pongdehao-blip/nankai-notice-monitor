@@ -63370,19 +63370,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-05",
-    "last_success_at": "2026-11-05T10:42:23.472861+00:00",
+    "last_success_date": "2026-11-06",
+    "last_success_at": "2026-11-06T02:42:29.828521+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-05T10:42:23.472861+00:00"
+    "last_attempt_at": "2026-11-06T02:42:29.828521+00:00"
   },
-  "incidents": {
-    "J01:HTTP_ERROR": {
-      "source_id": "J01",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-11-06T02:42:29.828521+00:00",
-      "last_at": "2026-11-06T02:42:29.828521+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
