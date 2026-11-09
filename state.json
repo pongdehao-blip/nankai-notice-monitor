@@ -21016,7 +21016,7 @@
       "notice_id": "nkzbb:url:d1c0e8c49a0750398c0d7913aa3b64b23895d3eaa0dc4e981c9e9b36d032f390",
       "type": "NEW",
       "detected_at": "2026-11-09T02:42:22.353974+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-09T02:42:22.353974+00:00",
       "title": "南开大学滨海学院（滨海校区）一期修缮楼宇加装烟感报警系统项目成交公告",
       "publish_date": "2026-11-04"
     }
@@ -63400,10 +63400,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-06",
-    "last_success_at": "2026-11-06T02:42:29.828521+00:00",
+    "last_success_date": "2026-11-09",
+    "last_success_at": "2026-11-09T02:42:22.353974+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-06T02:42:29.828521+00:00"
+    "last_attempt_at": "2026-11-09T02:42:22.353974+00:00"
   },
   "incidents": {}
 }
