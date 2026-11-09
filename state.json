@@ -21088,7 +21088,7 @@
       "notice_id": "nkzbb:url:b4fc234cd09e9284f6100c5eff95af3b30981ad2c7bab6242c2d4f9225b8a147",
       "type": "NEW",
       "detected_at": "2026-11-09T07:42:26.527162+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-09T07:42:26.527162+00:00",
       "title": "南开大学大数据管理中心边界冗余互备防火墙采购项目(NK2026H084N)采购公告",
       "publish_date": "2026-11-09"
     },
@@ -21097,7 +21097,7 @@
       "notice_id": "nkzbb:url:7dd5313a03efde4b8765a76945f498eee799f52ed67653eeb9f47981bd9a3468",
       "type": "NEW",
       "detected_at": "2026-11-09T07:42:26.527162+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-09T07:42:26.527162+00:00",
       "title": "南开大学博物馆（津南校区思源堂）室内装修及布展工程采购项目（项目编号：NK2026G053）竞争性磋商公告",
       "publish_date": "2026-11-09"
     },
@@ -21106,7 +21106,7 @@
       "notice_id": "nkzbb:url:9ba28020630c1ef1bbccae5cbbc9c5cf8080df63f968565216debdbf25dfe203",
       "type": "NEW",
       "detected_at": "2026-11-09T07:42:26.527162+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-09T07:42:26.527162+00:00",
       "title": "南开大学化学学院600MHz和800MHz核磁冷头维保采购项目（NK2026F084）单一来源采购公告",
       "publish_date": "2026-11-09"
     }
@@ -63491,9 +63491,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-09",
-    "last_success_at": "2026-11-09T02:42:22.353974+00:00",
+    "last_success_at": "2026-11-09T07:42:26.527162+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-09T02:42:22.353974+00:00"
+    "last_attempt_at": "2026-11-09T07:42:26.527162+00:00"
   },
   "incidents": {}
 }
