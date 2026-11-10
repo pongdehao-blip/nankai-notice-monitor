@@ -21307,7 +21307,7 @@
       "notice_id": "physics:article:606390",
       "type": "NEW",
       "detected_at": "2026-11-10T09:42:21.268467+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-10T09:42:21.268467+00:00",
       "title": "关于2026年毕业生到中西部基层单位就业奖励金申请的通知（第二批）",
       "publish_date": "2026-11-10"
     },
@@ -21316,7 +21316,7 @@
       "notice_id": "nkzbb:url:15bb02d9d14c7ba441a843b398ce44994453ab665cd192bf3ab78b2df034a34a",
       "type": "NEW",
       "detected_at": "2026-11-10T09:42:21.268467+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-10T09:42:21.268467+00:00",
       "title": "南开大学特种化学电源全国重点实验室eScience及eScienceEnergy英文期刊出版服务采购项目（NK2026F077）单一来源采购公告",
       "publish_date": "2026-11-10"
     }
@@ -63701,9 +63701,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-10",
-    "last_success_at": "2026-11-10T08:42:22.041959+00:00",
+    "last_success_at": "2026-11-10T09:42:21.268467+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-10T08:42:22.041959+00:00"
+    "last_attempt_at": "2026-11-10T09:42:21.268467+00:00"
   },
   "incidents": {}
 }
