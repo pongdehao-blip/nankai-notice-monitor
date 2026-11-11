@@ -21443,7 +21443,7 @@
       "notice_id": "nkzbb:url:2a9531a8f4a1fc56c924c79797004356558ed8e2c2f55c1094b16532045e38ab",
       "type": "NEW",
       "detected_at": "2026-11-11T10:42:23.221756+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-11T10:42:23.221756+00:00",
       "title": "南开大学大数据管理中心南开云中间件资源池扩容采购项目（NK2026H088N）公开招标公告",
       "publish_date": "2026-11-11"
     }
@@ -63835,9 +63835,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-11",
-    "last_success_at": "2026-11-11T08:42:19.914781+00:00",
+    "last_success_at": "2026-11-11T10:42:23.221756+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-11T08:42:19.914781+00:00"
+    "last_attempt_at": "2026-11-11T10:42:23.221756+00:00"
   },
   "incidents": {}
 }
