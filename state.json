@@ -21376,7 +21376,7 @@
       "notice_id": "physics:article:606495",
       "type": "NEW",
       "detected_at": "2026-11-11T07:42:20.845689+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-11T07:42:20.845689+00:00",
       "title": "【“开悟” 物理前沿讲座 （第230期）】在室温原子中实现霍尔丹模型",
       "publish_date": "2026-11-11"
     }
@@ -63761,9 +63761,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-11",
-    "last_success_at": "2026-11-11T05:42:29.539442+00:00",
+    "last_success_at": "2026-11-11T07:42:20.845689+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-11T05:42:29.539442+00:00"
+    "last_attempt_at": "2026-11-11T07:42:20.845689+00:00"
   },
   "incidents": {}
 }
