@@ -21346,7 +21346,7 @@
       "notice_id": "nkzbb:url:232a823a1520a90834f9f5f81df52ec3a2ba1ef448efe5c1688921d414534910",
       "type": "NEW",
       "detected_at": "2026-11-11T05:42:29.539442+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-11T05:42:29.539442+00:00",
       "title": "南开大学化学学院微波多肽合成仪采购项目（NK2026H080W）成交公告",
       "publish_date": "2026-11-11"
     }
@@ -63730,10 +63730,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-10",
-    "last_success_at": "2026-11-10T09:42:21.268467+00:00",
+    "last_success_date": "2026-11-11",
+    "last_success_at": "2026-11-11T05:42:29.539442+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-10T09:42:21.268467+00:00"
+    "last_attempt_at": "2026-11-11T05:42:29.539442+00:00"
   },
   "incidents": {}
 }
