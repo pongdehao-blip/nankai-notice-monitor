@@ -21570,7 +21570,7 @@
       "notice_id": "physics:article:606621",
       "type": "NEW",
       "detected_at": "2026-11-12T08:42:23.749362+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-12T08:42:23.749362+00:00",
       "title": "【毕业答辩】2026年秋季学期物理科学学院硕士毕业论文答辩公告",
       "publish_date": "2026-11-12"
     }
@@ -63969,9 +63969,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-12",
-    "last_success_at": "2026-11-12T07:42:22.717947+00:00",
+    "last_success_at": "2026-11-12T08:42:23.749362+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-12T07:42:22.717947+00:00"
+    "last_attempt_at": "2026-11-12T08:42:23.749362+00:00"
   },
   "incidents": {}
 }
