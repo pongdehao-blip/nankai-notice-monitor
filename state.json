@@ -21630,7 +21630,7 @@
       "notice_id": "physics:article:606684",
       "type": "NEW",
       "detected_at": "2026-11-13T01:42:26.209778+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T01:42:26.209778+00:00",
       "title": "【“开悟” 物理前沿讲座 （第231期）】Ultrafast Optical Nonlinearities with Resonant Metastructures and Metasurfaces",
       "publish_date": "2026-11-13"
     }
@@ -64028,10 +64028,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-12",
-    "last_success_at": "2026-11-12T14:42:23.953562+00:00",
+    "last_success_date": "2026-11-13",
+    "last_success_at": "2026-11-13T01:42:26.209778+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-12T14:42:23.953562+00:00"
+    "last_attempt_at": "2026-11-13T01:42:26.209778+00:00"
   },
   "incidents": {}
 }
