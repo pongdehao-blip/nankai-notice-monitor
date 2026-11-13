@@ -21906,7 +21906,7 @@
       "notice_id": "nkzbb:url:d2ba77dff6f4fb3c2e59f2f961b39ad6a4134ec095bd457cf9ced99213725663",
       "type": "NEW",
       "detected_at": "2026-11-13T05:42:19.745937+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T05:42:19.745937+00:00",
       "title": "南开大学智能光子研究院激光线宽精密测量系统采购项目（NK2026H083W）单一来源采购公告",
       "publish_date": "2026-11-13"
     }
@@ -64305,9 +64305,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-13",
-    "last_success_at": "2026-11-13T04:42:23.572392+00:00",
+    "last_success_at": "2026-11-13T05:42:19.745937+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-13T04:42:23.572392+00:00"
+    "last_attempt_at": "2026-11-13T05:42:19.745937+00:00"
   },
   "incidents": {}
 }
