@@ -21831,7 +21831,7 @@
       "notice_id": "nkzbb:url:203dc54bb99eb718370c5b69e50e027dff2a29de676ec3d7af7eb512524e2a2c",
       "type": "NEW",
       "detected_at": "2026-11-13T04:42:23.572392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T04:42:23.572392+00:00",
       "title": "南开大学文学院人文互动高密度多模态脑功能超扫描平台采购项目（NK2026H094N）公开招标公告",
       "publish_date": "2026-11-13"
     },
@@ -21840,7 +21840,7 @@
       "notice_id": "nkzbb:url:a3b31a76071e1ef151383facb228b0e4c466394110476f7a22c1de7b1b7d2d9a",
       "type": "NEW",
       "detected_at": "2026-11-13T04:42:23.572392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T04:42:23.572392+00:00",
       "title": "南开大学后勤服务处津南校区基建项目(学生公寓、学三食堂、基础研究)临时供电工程（2026年第134批）",
       "publish_date": "2026-11-13"
     },
@@ -21849,7 +21849,7 @@
       "notice_id": "nkzbb:url:d27dbee8d922bce95f89ef31a8556381b72699630bf875997de88ea9871c7913",
       "type": "UPDATED",
       "detected_at": "2026-11-13T04:42:23.572392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T04:42:23.572392+00:00",
       "title": "南开大学基建处国家基础研究创新提升工程建设项目（生物学）施工工程采购项目（2026年第130批）",
       "publish_date": "2026-11-13"
     },
@@ -21858,7 +21858,7 @@
       "notice_id": "nkzbb:url:279ce93843d2d53729e0b17e4a62b8ef3155ed8590f072005bbe419a7cc88719",
       "type": "UPDATED",
       "detected_at": "2026-11-13T04:42:23.572392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T04:42:23.572392+00:00",
       "title": "南开大学基建处国家基础研究创新提升工程建设项目（化学）施工工程采购项目（2026年第131批）",
       "publish_date": "2026-11-13"
     },
@@ -21867,7 +21867,7 @@
       "notice_id": "nkzbb:url:c93bbb6f2c07fb4d3bd6b18d365e9622e26e8d11123a2e4fe05b2a9abf010adf",
       "type": "UPDATED",
       "detected_at": "2026-11-13T04:42:23.572392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T04:42:23.572392+00:00",
       "title": "南开大学基建处国家基础研究创新提升工程建设项目（生物学）监理服务采购项目（2026年第133批）",
       "publish_date": "2026-11-13"
     },
@@ -21876,7 +21876,7 @@
       "notice_id": "nkzbb:url:2a6073f423f38e560a27407469d675b1aaee559bb596df38577437474d1a1b9c",
       "type": "UPDATED",
       "detected_at": "2026-11-13T04:42:23.572392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T04:42:23.572392+00:00",
       "title": "南开大学基建处国家基础研究创新提升工程建设项目（化学）监理服务采购项目（2026年第132批）",
       "publish_date": "2026-11-13"
     }
@@ -64275,9 +64275,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-13",
-    "last_success_at": "2026-11-13T03:42:27.244395+00:00",
+    "last_success_at": "2026-11-13T04:42:23.572392+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-13T03:42:27.244395+00:00"
+    "last_attempt_at": "2026-11-13T04:42:23.572392+00:00"
   },
   "incidents": {}
 }
