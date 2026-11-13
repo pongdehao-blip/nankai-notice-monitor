@@ -21936,7 +21936,7 @@
       "notice_id": "nkzbb:url:fcc6d1b4e7a59a74f9ca86343a69505df83c8546f331393bf9d31cac88eb4b0f",
       "type": "NEW",
       "detected_at": "2026-11-13T06:42:23.572735+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-13T06:42:23.572735+00:00",
       "title": "南开大学文学院人文元认知多模态行为研究实验平台采购项目（NK2026H093N）公开招标公告",
       "publish_date": "2026-11-13"
     }
@@ -64335,9 +64335,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-13",
-    "last_success_at": "2026-11-13T05:42:19.745937+00:00",
+    "last_success_at": "2026-11-13T06:42:23.572735+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-13T05:42:19.745937+00:00"
+    "last_attempt_at": "2026-11-13T06:42:23.572735+00:00"
   },
   "incidents": {}
 }
