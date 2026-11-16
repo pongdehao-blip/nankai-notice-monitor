@@ -22186,7 +22186,7 @@
       "notice_id": "nkzbb:url:0c0108c3455cd1b0054c3f59fffefd42ab9a23ff42fb8e5dbb45f09571d2fcb2",
       "type": "NEW",
       "detected_at": "2026-11-16T04:42:32.092180+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-16T04:42:32.092180+00:00",
       "title": "南开大学文学院人文元认知神经测试边缘智能实验平台采购项目（NK2026H096N）公开招标公告",
       "publish_date": "2026-11-16"
     },
@@ -22195,7 +22195,7 @@
       "notice_id": "nkzbb:url:b97048194d2d862d39e56c8b24a193c903bce8c354f8e785364dfedb0eb9c96a",
       "type": "NEW",
       "detected_at": "2026-11-16T04:42:32.092180+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-16T04:42:32.092180+00:00",
       "title": "南开大学文学院人文虚拟情景团体交互实验平台采购项目（NK2026H095N）公开招标公告",
       "publish_date": "2026-11-16"
     },
@@ -22204,7 +22204,7 @@
       "notice_id": "nkzbb:url:32c4ca1c3f0a27f9048d9dbeff4d4b4e984c6cadbc571a40d09047f8a31d9853",
       "type": "NEW",
       "detected_at": "2026-11-16T04:42:32.092180+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-16T04:42:32.092180+00:00",
       "title": "南开大学文学院情感计算与语言认知实验平台采购项目（NK2026H092N）公开招标公告",
       "publish_date": "2026-11-16"
     },
@@ -22213,7 +22213,7 @@
       "notice_id": "nkzbb:url:1196ea780137e7ae74b4b3ea6c474ec7bea59b4f1f2e86607717f397298549c5",
       "type": "NEW",
       "detected_at": "2026-11-16T04:42:32.092180+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-16T04:42:32.092180+00:00",
       "title": "南开大学电力增容更新改造项目施工工程（八里台校区）（项目编号：NK2026G051）公开招标公告",
       "publish_date": "2026-11-16"
     }
@@ -64612,9 +64612,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-16",
-    "last_success_at": "2026-11-16T02:42:23.226392+00:00",
+    "last_success_at": "2026-11-16T04:42:32.092180+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-16T02:42:23.226392+00:00"
+    "last_attempt_at": "2026-11-16T04:42:32.092180+00:00"
   },
   "incidents": {}
 }
