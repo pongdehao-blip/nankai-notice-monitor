@@ -22084,7 +22084,7 @@
       "notice_id": "physics:article:606807",
       "type": "NEW",
       "detected_at": "2026-11-16T02:42:23.226392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-16T02:42:23.226392+00:00",
       "title": "物理科学学院2027年硕博连读生招生选拔实施细则",
       "publish_date": "2026-11-16"
     },
@@ -22093,7 +22093,7 @@
       "notice_id": "nkzbb:url:51316114a47f05e847c71990dff43289bf5f7e15eb69d5357c41884e080b5cec",
       "type": "NEW",
       "detected_at": "2026-11-16T02:42:23.226392+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-16T02:42:23.226392+00:00",
       "title": "南开大学文学院虚拟实景3D融合制作系统采购项目（NK2026H098N）公开招标公告",
       "publish_date": "2026-11-16"
     }
@@ -64491,10 +64491,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-13",
-    "last_success_at": "2026-11-13T14:42:24.721804+00:00",
+    "last_success_date": "2026-11-16",
+    "last_success_at": "2026-11-16T02:42:23.226392+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-13T14:42:24.721804+00:00"
+    "last_attempt_at": "2026-11-16T02:42:23.226392+00:00"
   },
   "incidents": {}
 }
