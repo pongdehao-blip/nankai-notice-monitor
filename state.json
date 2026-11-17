@@ -64829,82 +64829,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-18",
-    "last_success_at": "2026-11-17T20:42:20.837029+00:00",
+    "last_success_at": "2026-11-17T21:42:21.281294+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-17T20:42:20.837029+00:00"
+    "last_attempt_at": "2026-11-17T21:42:21.281294+00:00"
   },
-  "incidents": {
-    "Z01:TIMEOUT": {
-      "source_id": "Z01",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z02:TIMEOUT": {
-      "source_id": "Z02",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z03:TIMEOUT": {
-      "source_id": "Z03",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z04:TIMEOUT": {
-      "source_id": "Z04",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z05:TIMEOUT": {
-      "source_id": "Z05",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z06:TIMEOUT": {
-      "source_id": "Z06",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z07:TIMEOUT": {
-      "source_id": "Z07",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z08:TIMEOUT": {
-      "source_id": "Z08",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    },
-    "Z09:TIMEOUT": {
-      "source_id": "Z09",
-      "status": "TIMEOUT",
-      "first_at": "2026-11-17T21:42:21.281294+00:00",
-      "last_at": "2026-11-17T21:42:21.281294+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
