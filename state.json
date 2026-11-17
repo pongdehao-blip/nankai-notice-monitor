@@ -22280,7 +22280,7 @@
       "notice_id": "jwc:article:606904",
       "type": "NEW",
       "detected_at": "2026-11-17T02:42:23.678369+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-17T02:42:23.678369+00:00",
       "title": "关于开展2026年秋季学期本科生毕业及学位申请工作的通知",
       "publish_date": "2026-11-17"
     }
@@ -64678,10 +64678,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-16",
-    "last_success_at": "2026-11-16T09:42:23.295268+00:00",
+    "last_success_date": "2026-11-17",
+    "last_success_at": "2026-11-17T02:42:23.678369+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-16T09:42:23.295268+00:00"
+    "last_attempt_at": "2026-11-17T02:42:23.678369+00:00"
   },
   "incidents": {}
 }
