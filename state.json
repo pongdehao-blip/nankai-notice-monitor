@@ -22421,7 +22421,7 @@
       "notice_id": "physics:article:606971",
       "type": "NEW",
       "detected_at": "2026-11-17T09:42:34.833275+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-17T09:42:34.833275+00:00",
       "title": "关于组织开展2026年度校家社共育情景剧剧本征集活动的通知",
       "publish_date": "2026-11-17"
     },
@@ -22430,7 +22430,7 @@
       "notice_id": "nkzbb:url:4ea0d54e6cfc4e20220d102b0d77ca3c8f637b9db50da95ad43f72bca71a056d",
       "type": "NEW",
       "detected_at": "2026-11-17T09:42:34.833275+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-17T09:42:34.833275+00:00",
       "title": "南开大学经济与社会发展研究院高性能算力平台采购项目 政府采购意向公开（第136批）",
       "publish_date": "2026-11-17"
     }
@@ -64829,9 +64829,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-17",
-    "last_success_at": "2026-11-17T06:42:20.457256+00:00",
+    "last_success_at": "2026-11-17T09:42:34.833275+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-17T06:42:20.457256+00:00"
+    "last_attempt_at": "2026-11-17T09:42:34.833275+00:00"
   },
   "incidents": {}
 }
