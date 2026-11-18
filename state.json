@@ -22460,7 +22460,7 @@
       "notice_id": "jwc:article:606987",
       "type": "NEW",
       "detected_at": "2026-11-18T02:42:25.667543+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-18T02:42:25.667543+00:00",
       "title": "关于公布南开大学第二批课程思政案例库验收与评优结果的通知",
       "publish_date": "2026-11-18"
     }
@@ -64859,9 +64859,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-18",
-    "last_success_at": "2026-11-17T23:42:20.792252+00:00",
+    "last_success_at": "2026-11-18T02:42:25.667543+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-17T23:42:20.792252+00:00"
+    "last_attempt_at": "2026-11-18T02:42:25.667543+00:00"
   },
   "incidents": {}
 }
