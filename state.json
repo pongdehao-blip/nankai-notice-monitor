@@ -22590,7 +22590,7 @@
       "notice_id": "jwc:article:607039",
       "type": "NEW",
       "detected_at": "2026-11-18T08:42:20.443551+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-18T08:42:20.443551+00:00",
       "title": "南开大学 2027 届本科毕业生图像采集补采通知",
       "publish_date": "2026-11-18"
     },
@@ -22599,7 +22599,7 @@
       "notice_id": "nkzbb:url:9285cc18d6db6898a33bb5c146a0e50c8e2479e1a9000df588e7bfefd4d93a88",
       "type": "NEW",
       "detected_at": "2026-11-18T08:42:20.443551+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-18T08:42:20.443551+00:00",
       "title": "南开大学电子信息与光学工程学院激光共聚焦显微拉曼光谱系统采购项目（NK2026H090N）采购公告",
       "publish_date": "2026-11-18"
     },
@@ -22608,7 +22608,7 @@
       "notice_id": "nkzbb:url:88c642bf0cb0ee38f9d9a803efab8aaa3bbc19e7b3dc33b844eb99a8147cf811",
       "type": "NEW",
       "detected_at": "2026-11-18T08:42:20.443551+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-18T08:42:20.443551+00:00",
       "title": "南开大学特种化学电源全国重点实验室eScience及eScience Energy英文期刊出版服务采购项目(NK2026F077)更正公告",
       "publish_date": "2026-11-18"
     },
@@ -22617,7 +22617,7 @@
       "notice_id": "nkzbb:url:ec3678b28ee91f9b331f2b376f3c0ccc510994da5683730c55bf0a3223a4c430",
       "type": "NEW",
       "detected_at": "2026-11-18T08:42:20.443551+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-18T08:42:20.443551+00:00",
       "title": "南开大学大数据管理中心边界冗余互备防火墙采购项目（NK2026H084N）结果公告",
       "publish_date": "2026-11-18"
     }
@@ -65016,9 +65016,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-18",
-    "last_success_at": "2026-11-18T03:42:22.822008+00:00",
+    "last_success_at": "2026-11-18T08:42:20.443551+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-18T03:42:22.822008+00:00"
+    "last_attempt_at": "2026-11-18T08:42:20.443551+00:00"
   },
   "incidents": {}
 }
