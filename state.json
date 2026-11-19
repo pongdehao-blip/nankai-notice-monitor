@@ -22698,7 +22698,7 @@
       "notice_id": "physics:article:607060",
       "type": "NEW",
       "detected_at": "2026-11-19T02:42:26.194135+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-19T02:42:26.194135+00:00",
       "title": "【“开悟” 物理前沿讲座 （第233期）】Higgs Physics at ATLAS:New Algorithms and Opportunities from the Timing Detector Updrade",
       "publish_date": "2026-11-18"
     },
@@ -22707,7 +22707,7 @@
       "notice_id": "jwc:article:607064",
       "type": "NEW",
       "detected_at": "2026-11-19T02:42:26.194135+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-19T02:42:26.194135+00:00",
       "title": "关于2025年本科教育教学改革项目结题验收与评优结果的公示",
       "publish_date": "2026-11-19"
     }
@@ -65106,9 +65106,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-19",
-    "last_success_at": "2026-11-18T22:42:33.529962+00:00",
+    "last_success_at": "2026-11-19T02:42:26.194135+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-18T22:42:33.529962+00:00"
+    "last_attempt_at": "2026-11-19T02:42:26.194135+00:00"
   },
   "incidents": {}
 }
