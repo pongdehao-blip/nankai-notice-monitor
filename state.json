@@ -22767,7 +22767,7 @@
       "notice_id": "nkzbb:url:04c9262b977810aeb988f0b68257161c9443680d227e4c311a410d4ce3a0b87d",
       "type": "NEW",
       "detected_at": "2026-11-19T08:42:23.424832+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-19T08:42:23.424832+00:00",
       "title": "南开大学大数据管理中心津南校区数据中心UPS配电设备采购项目(NK2026H081N)中标公告",
       "publish_date": "2026-11-19"
     }
@@ -65166,9 +65166,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-19",
-    "last_success_at": "2026-11-19T07:42:31.654027+00:00",
+    "last_success_at": "2026-11-19T08:42:23.424832+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-19T07:42:31.654027+00:00"
+    "last_attempt_at": "2026-11-19T08:42:23.424832+00:00"
   },
   "incidents": {}
 }
