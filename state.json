@@ -22899,7 +22899,7 @@
       "notice_id": "physics:article:583265",
       "type": "NEW",
       "detected_at": "2026-11-20T01:42:22.458302+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-20T01:42:22.458302+00:00",
       "title": "2026-2027学年度本科生学费代缴工作",
       "publish_date": "2026-11-20"
     },
@@ -22908,7 +22908,7 @@
       "notice_id": "physics:article:607132",
       "type": "NEW",
       "detected_at": "2026-11-20T01:42:22.458302+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-20T01:42:22.458302+00:00",
       "title": "【“开悟” 物理前沿讲座 （第234期）】Conformal symmetry in QCD",
       "publish_date": "2026-11-20"
     },
@@ -22917,7 +22917,7 @@
       "notice_id": "physics:article:607133",
       "type": "NEW",
       "detected_at": "2026-11-20T01:42:22.458302+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-20T01:42:22.458302+00:00",
       "title": "【“开悟” 物理前沿讲座（第235期）】Ubiquitous Stick-Slip Motions: from Tribology, Biosensing to Carbon Capture",
       "publish_date": "2026-11-20"
     }
@@ -65316,18 +65316,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-20",
-    "last_success_at": "2026-11-20T00:42:22.466365+00:00",
+    "last_success_at": "2026-11-20T01:42:22.458302+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-20T00:42:22.466365+00:00"
+    "last_attempt_at": "2026-11-20T01:42:22.458302+00:00"
   },
-  "incidents": {
-    "J15:HTTP_ERROR": {
-      "source_id": "J15",
-      "status": "HTTP_ERROR",
-      "first_at": "2026-11-20T01:42:22.458302+00:00",
-      "last_at": "2026-11-20T01:42:22.458302+00:00",
-      "count": 1,
-      "recovered_at": null
-    }
-  }
+  "incidents": {}
 }
