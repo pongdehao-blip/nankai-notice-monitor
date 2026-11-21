@@ -23007,7 +23007,7 @@
       "notice_id": "nkzbb:url:e3e4217638d146641ea1ef18c4ddfeff0a51ffed2612b173672e4af299aeae91",
       "type": "NEW",
       "detected_at": "2026-11-21T13:42:20.478058+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-21T13:42:20.478058+00:00",
       "title": "南开大学博物馆（津南校区思源堂）室内装修及布展工程采购项目（项目编号：NK2026G053）更正公告",
       "publish_date": "2026-11-21"
     }
@@ -65405,10 +65405,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-20",
-    "last_success_at": "2026-11-20T03:42:21.239748+00:00",
+    "last_success_date": "2026-11-21",
+    "last_success_at": "2026-11-21T13:42:20.478058+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-20T03:42:21.239748+00:00"
+    "last_attempt_at": "2026-11-21T13:42:20.478058+00:00"
   },
   "incidents": {}
 }
