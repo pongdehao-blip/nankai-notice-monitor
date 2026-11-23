@@ -23067,7 +23067,7 @@
       "notice_id": "physics:article:607376",
       "type": "NEW",
       "detected_at": "2026-11-23T08:42:21.412148+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-23T08:42:21.412148+00:00",
       "title": "关于南开大学团校（黄埔团校）支教储备师资培训班学员推荐选拔培养工作的通知",
       "publish_date": "2026-11-23"
     }
@@ -65466,9 +65466,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-23",
-    "last_success_at": "2026-11-23T03:42:21.606935+00:00",
+    "last_success_at": "2026-11-23T08:42:21.412148+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-23T03:42:21.606935+00:00"
+    "last_attempt_at": "2026-11-23T08:42:21.412148+00:00"
   },
   "incidents": {}
 }
