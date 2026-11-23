@@ -23037,7 +23037,7 @@
       "notice_id": "jwc:article:607293",
       "type": "NEW",
       "detected_at": "2026-11-23T03:42:21.606935+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-23T03:42:21.606935+00:00",
       "title": "关于开展2021届、2026届本科毕业生培养质量评价的通知",
       "publish_date": "2026-11-23"
     }
@@ -65435,10 +65435,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-21",
-    "last_success_at": "2026-11-21T13:42:20.478058+00:00",
+    "last_success_date": "2026-11-23",
+    "last_success_at": "2026-11-23T03:42:21.606935+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-21T13:42:20.478058+00:00"
+    "last_attempt_at": "2026-11-23T03:42:21.606935+00:00"
   },
   "incidents": {}
 }
