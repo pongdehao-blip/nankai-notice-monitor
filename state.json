@@ -23118,7 +23118,7 @@
       "notice_id": "nkzbb:url:fc0f05a7dcd8f915837e590f8b9b1251697a0b4b72ea61d8ecdda4aa7ecd4a8a",
       "type": "NEW",
       "detected_at": "2026-11-23T09:42:30.465594+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-23T09:42:30.465594+00:00",
       "title": "南开大学商学院设计制作服务采购项目（NK2026F078）中标公告",
       "publish_date": "2026-11-23"
     },
@@ -23127,7 +23127,7 @@
       "notice_id": "nkzbb:url:4b7e571b4f27847e9a6de65ff48cccbcc6bcf2218ba377b220c92dee21523288",
       "type": "NEW",
       "detected_at": "2026-11-23T09:42:30.465594+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-23T09:42:30.465594+00:00",
       "title": "南开大学特种化学电源全国重点实验室eScience及eScience Energy英文期刊出版服务采购项目（NK2026F077）成交公告",
       "publish_date": "2026-11-23"
     }
@@ -65526,9 +65526,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-23",
-    "last_success_at": "2026-11-23T08:42:21.412148+00:00",
+    "last_success_at": "2026-11-23T09:42:30.465594+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-23T08:42:21.412148+00:00"
+    "last_attempt_at": "2026-11-23T09:42:30.465594+00:00"
   },
   "incidents": {}
 }
