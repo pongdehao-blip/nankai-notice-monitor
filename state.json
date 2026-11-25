@@ -23307,7 +23307,7 @@
       "notice_id": "jwc:article:607574",
       "type": "NEW",
       "detected_at": "2026-11-25T03:42:24.839644+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-25T03:42:24.839644+00:00",
       "title": "关于公布2025年本科教育教学改革项目结题验收与评优结果的通知",
       "publish_date": "2026-11-25"
     }
@@ -65706,9 +65706,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-25",
-    "last_success_at": "2026-11-25T02:42:23.157874+00:00",
+    "last_success_at": "2026-11-25T03:42:24.839644+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-25T02:42:23.157874+00:00"
+    "last_attempt_at": "2026-11-25T03:42:24.839644+00:00"
   },
   "incidents": {}
 }
