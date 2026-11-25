@@ -23247,7 +23247,7 @@
       "notice_id": "nkzbb:url:51a5b6db6cc3ffc0e2a33ba4e91808cb51acb92b94aba3922b87f0a152fb085d",
       "type": "NEW",
       "detected_at": "2026-11-25T00:42:20.941837+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-25T00:42:20.941837+00:00",
       "title": "南开大学津南校区学生公寓（一期）1标段监理（NK2026F083）招标公告",
       "publish_date": "2026-11-25"
     }
@@ -65645,10 +65645,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-24",
-    "last_success_at": "2026-11-24T12:42:22.724537+00:00",
+    "last_success_date": "2026-11-25",
+    "last_success_at": "2026-11-25T00:42:20.941837+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-24T12:42:22.724537+00:00"
+    "last_attempt_at": "2026-11-25T00:42:20.941837+00:00"
   },
   "incidents": {}
 }
