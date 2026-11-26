@@ -23589,7 +23589,7 @@
       "notice_id": "nkzbb:url:ffc26d0182cee3736d10758ea5f87f6f31a404cb9ca74d86c06759fbcd67c044",
       "type": "NEW",
       "detected_at": "2026-11-26T07:42:19.416079+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-26T07:42:19.416079+00:00",
       "title": "南开大学大数据管理中心弱电机房动力环境智能监控系统采购项目（NK2026H091N）更正公告",
       "publish_date": "2026-11-26"
     },
@@ -23598,7 +23598,7 @@
       "notice_id": "nkzbb:url:3523abefca12e992ebe041f702d505dcec487597e8cc10fa7fbcd36ab9cfd27e",
       "type": "NEW",
       "detected_at": "2026-11-26T07:42:19.416079+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-26T07:42:19.416079+00:00",
       "title": "南开大学附属小学计算机服务器采购项目（NK2026H099N）更正公告",
       "publish_date": "2026-11-26"
     }
@@ -65997,9 +65997,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-26",
-    "last_success_at": "2026-11-26T06:42:18.594552+00:00",
+    "last_success_at": "2026-11-26T07:42:19.416079+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-26T06:42:18.594552+00:00"
+    "last_attempt_at": "2026-11-26T07:42:19.416079+00:00"
   },
   "incidents": {}
 }
