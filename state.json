@@ -23499,7 +23499,7 @@
       "notice_id": "physics:article:607640",
       "type": "NEW",
       "detected_at": "2026-11-26T02:42:20.421285+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-26T02:42:20.421285+00:00",
       "title": "2027年第一批次“申请-考核”制博士研究生综合考核安排（更新中）",
       "publish_date": "2026-11-26"
     },
@@ -23508,7 +23508,7 @@
       "notice_id": "physics:url:8069983d882c8bbee409ce0878648bfb2327390c7488e56f2922baaa4fd29754",
       "type": "NEW",
       "detected_at": "2026-11-26T02:42:20.421285+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-26T02:42:20.421285+00:00",
       "title": "南开团队在自恢复力致发光材料与视触觉传感领域取得重要进展",
       "publish_date": "2026-11-09"
     }
@@ -65907,9 +65907,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-26",
-    "last_success_at": "2026-11-26T01:42:20.746789+00:00",
+    "last_success_at": "2026-11-26T02:42:20.421285+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-26T01:42:20.746789+00:00"
+    "last_attempt_at": "2026-11-26T02:42:20.421285+00:00"
   },
   "incidents": {}
 }
