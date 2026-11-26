@@ -23434,7 +23434,7 @@
       "notice_id": "physics:article:607639",
       "type": "NEW",
       "detected_at": "2026-11-26T01:42:20.746789+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-26T01:42:20.746789+00:00",
       "title": "2027年第一批次“申请-考核”制博士研究生材料审核结果公示",
       "publish_date": "2026-11-26"
     }
@@ -65832,10 +65832,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-25",
-    "last_success_at": "2026-11-25T09:42:25.446614+00:00",
+    "last_success_date": "2026-11-26",
+    "last_success_at": "2026-11-26T01:42:20.746789+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-25T09:42:25.446614+00:00"
+    "last_attempt_at": "2026-11-26T01:42:20.746789+00:00"
   },
   "incidents": {}
 }
