@@ -23695,7 +23695,7 @@
       "notice_id": "nkzbb:url:8d09aae6dc66ff41d3f3066aedb0157ba9257db44eda12fd881b4b3fcdc4596a",
       "type": "NEW",
       "detected_at": "2026-11-27T09:42:23.633769+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-27T09:42:23.633769+00:00",
       "title": "南开大学津南校区2026年生活服务配套项目（五期）（NK2026Z011）公开招租公告",
       "publish_date": "2026-11-27"
     }
@@ -66094,9 +66094,9 @@
   ],
   "delivery": {
     "last_success_date": "2026-11-27",
-    "last_success_at": "2026-11-27T08:42:21.740620+00:00",
+    "last_success_at": "2026-11-27T09:42:23.633769+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-27T08:42:21.740620+00:00"
+    "last_attempt_at": "2026-11-27T09:42:23.633769+00:00"
   },
   "incidents": {}
 }
