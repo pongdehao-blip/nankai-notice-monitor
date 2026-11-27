@@ -23635,7 +23635,7 @@
       "notice_id": "physics:url:4bfaefc63c74d7865564fb7600948355f178e2df77bdadf3aa4a4a820108ae29",
       "type": "NEW",
       "detected_at": "2026-11-27T01:42:22.204382+00:00",
-      "reported_at": null,
+      "reported_at": "2026-11-27T01:42:22.204382+00:00",
       "title": "南开团队提出一种超表面复场显微技术",
       "publish_date": "2026-11-27"
     }
@@ -66033,10 +66033,10 @@
     }
   ],
   "delivery": {
-    "last_success_date": "2026-11-26",
-    "last_success_at": "2026-11-26T07:42:19.416079+00:00",
+    "last_success_date": "2026-11-27",
+    "last_success_at": "2026-11-27T01:42:22.204382+00:00",
     "last_error": null,
-    "last_attempt_at": "2026-11-26T07:42:19.416079+00:00"
+    "last_attempt_at": "2026-11-27T01:42:22.204382+00:00"
   },
   "incidents": {}
 }
